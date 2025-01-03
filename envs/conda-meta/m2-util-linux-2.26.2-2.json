@@ -1,0 +1,1355 @@
+{
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2-coreutils",
+    "m2-libiconv",
+    "m2-libutil-linux",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "E:\\Anaconda\\pkgs\\m2-util-linux-2.26.2-2",
+  "files": [
+    "Library/usr/bin/agetty.exe",
+    "Library/usr/bin/blkid.exe",
+    "Library/usr/bin/cal.exe",
+    "Library/usr/bin/cfdisk.exe",
+    "Library/usr/bin/col.exe",
+    "Library/usr/bin/colcrt.exe",
+    "Library/usr/bin/colrm.exe",
+    "Library/usr/bin/column.exe",
+    "Library/usr/bin/fdisk.exe",
+    "Library/usr/bin/findfs.exe",
+    "Library/usr/bin/flock.exe",
+    "Library/usr/bin/fsck.cramfs.exe",
+    "Library/usr/bin/fsck.minix.exe",
+    "Library/usr/bin/getopt.exe",
+    "Library/usr/bin/hexdump.exe",
+    "Library/usr/bin/ipcmk.exe",
+    "Library/usr/bin/isosize.exe",
+    "Library/usr/bin/logger.exe",
+    "Library/usr/bin/look.exe",
+    "Library/usr/bin/mcookie.exe",
+    "Library/usr/bin/mkfs.bfs.exe",
+    "Library/usr/bin/mkfs.cramfs.exe",
+    "Library/usr/bin/mkfs.exe",
+    "Library/usr/bin/mkfs.minix.exe",
+    "Library/usr/bin/mkswap.exe",
+    "Library/usr/bin/more.exe",
+    "Library/usr/bin/namei.exe",
+    "Library/usr/bin/pg.exe",
+    "Library/usr/bin/rename.exe",
+    "Library/usr/bin/renice.exe",
+    "Library/usr/bin/rev.exe",
+    "Library/usr/bin/script.exe",
+    "Library/usr/bin/scriptreplay.exe",
+    "Library/usr/bin/setsid.exe",
+    "Library/usr/bin/sfdisk.exe",
+    "Library/usr/bin/swaplabel.exe",
+    "Library/usr/bin/tailf.exe",
+    "Library/usr/bin/ul.exe",
+    "Library/usr/bin/uuidd.exe",
+    "Library/usr/bin/uuidgen.exe",
+    "Library/usr/bin/whereis.exe",
+    "Library/usr/bin/wipefs.exe",
+    "Library/usr/share/bash-completion/completions/blkid",
+    "Library/usr/share/bash-completion/completions/cal",
+    "Library/usr/share/bash-completion/completions/cfdisk",
+    "Library/usr/share/bash-completion/completions/col",
+    "Library/usr/share/bash-completion/completions/colcrt",
+    "Library/usr/share/bash-completion/completions/colrm",
+    "Library/usr/share/bash-completion/completions/column",
+    "Library/usr/share/bash-completion/completions/fdisk",
+    "Library/usr/share/bash-completion/completions/flock",
+    "Library/usr/share/bash-completion/completions/fsck.cramfs",
+    "Library/usr/share/bash-completion/completions/fsck.minix",
+    "Library/usr/share/bash-completion/completions/getopt",
+    "Library/usr/share/bash-completion/completions/hexdump",
+    "Library/usr/share/bash-completion/completions/isosize",
+    "Library/usr/share/bash-completion/completions/logger",
+    "Library/usr/share/bash-completion/completions/look",
+    "Library/usr/share/bash-completion/completions/mcookie",
+    "Library/usr/share/bash-completion/completions/mkfs",
+    "Library/usr/share/bash-completion/completions/mkfs.bfs",
+    "Library/usr/share/bash-completion/completions/mkfs.cramfs",
+    "Library/usr/share/bash-completion/completions/mkfs.minix",
+    "Library/usr/share/bash-completion/completions/mkswap",
+    "Library/usr/share/bash-completion/completions/more",
+    "Library/usr/share/bash-completion/completions/namei",
+    "Library/usr/share/bash-completion/completions/pg",
+    "Library/usr/share/bash-completion/completions/rename",
+    "Library/usr/share/bash-completion/completions/renice",
+    "Library/usr/share/bash-completion/completions/rev",
+    "Library/usr/share/bash-completion/completions/script",
+    "Library/usr/share/bash-completion/completions/scriptreplay",
+    "Library/usr/share/bash-completion/completions/setsid",
+    "Library/usr/share/bash-completion/completions/sfdisk",
+    "Library/usr/share/bash-completion/completions/swaplabel",
+    "Library/usr/share/bash-completion/completions/tailf",
+    "Library/usr/share/bash-completion/completions/ul",
+    "Library/usr/share/bash-completion/completions/uuidd",
+    "Library/usr/share/bash-completion/completions/uuidgen",
+    "Library/usr/share/bash-completion/completions/whereis",
+    "Library/usr/share/bash-completion/completions/wipefs",
+    "Library/usr/share/doc/util-linux/getopt/getopt-parse.bash",
+    "Library/usr/share/doc/util-linux/getopt/getopt-parse.tcsh",
+    "Library/usr/share/locale/ca/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/cs/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/da/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/de/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/es/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/et/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/eu/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/fi/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/fr/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/gl/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/hr/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/hu/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/id/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/it/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/ja/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/nl/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/pl/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/pt_BR/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/ru/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/sl/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/sv/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/tr/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/uk/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/vi/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/zh_CN/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/locale/zh_TW/LC_MESSAGES/util-linux.mo",
+    "Library/usr/share/man/man1/cal.1.gz",
+    "Library/usr/share/man/man1/col.1.gz",
+    "Library/usr/share/man/man1/colcrt.1.gz",
+    "Library/usr/share/man/man1/colrm.1.gz",
+    "Library/usr/share/man/man1/column.1.gz",
+    "Library/usr/share/man/man1/flock.1.gz",
+    "Library/usr/share/man/man1/getopt.1.gz",
+    "Library/usr/share/man/man1/hexdump.1.gz",
+    "Library/usr/share/man/man1/ipcmk.1.gz",
+    "Library/usr/share/man/man1/logger.1.gz",
+    "Library/usr/share/man/man1/look.1.gz",
+    "Library/usr/share/man/man1/mcookie.1.gz",
+    "Library/usr/share/man/man1/more.1.gz",
+    "Library/usr/share/man/man1/namei.1.gz",
+    "Library/usr/share/man/man1/pg.1.gz",
+    "Library/usr/share/man/man1/rename.1.gz",
+    "Library/usr/share/man/man1/renice.1.gz",
+    "Library/usr/share/man/man1/rev.1.gz",
+    "Library/usr/share/man/man1/script.1.gz",
+    "Library/usr/share/man/man1/scriptreplay.1.gz",
+    "Library/usr/share/man/man1/setsid.1.gz",
+    "Library/usr/share/man/man1/tailf.1.gz",
+    "Library/usr/share/man/man1/ul.1.gz",
+    "Library/usr/share/man/man1/uuidgen.1.gz",
+    "Library/usr/share/man/man1/whereis.1.gz",
+    "Library/usr/share/man/man3/libblkid.3.gz",
+    "Library/usr/share/man/man3/uuid.3.gz",
+    "Library/usr/share/man/man3/uuid_clear.3.gz",
+    "Library/usr/share/man/man3/uuid_compare.3.gz",
+    "Library/usr/share/man/man3/uuid_copy.3.gz",
+    "Library/usr/share/man/man3/uuid_generate.3.gz",
+    "Library/usr/share/man/man3/uuid_generate_random.3.gz",
+    "Library/usr/share/man/man3/uuid_generate_time.3.gz",
+    "Library/usr/share/man/man3/uuid_generate_time_safe.3.gz",
+    "Library/usr/share/man/man3/uuid_is_null.3.gz",
+    "Library/usr/share/man/man3/uuid_parse.3.gz",
+    "Library/usr/share/man/man3/uuid_time.3.gz",
+    "Library/usr/share/man/man3/uuid_unparse.3.gz",
+    "Library/usr/share/man/man5/terminal-colors.d.5.gz",
+    "Library/usr/share/man/man8/agetty.8.gz",
+    "Library/usr/share/man/man8/blkid.8.gz",
+    "Library/usr/share/man/man8/cfdisk.8.gz",
+    "Library/usr/share/man/man8/fdisk.8.gz",
+    "Library/usr/share/man/man8/findfs.8.gz",
+    "Library/usr/share/man/man8/fsck.cramfs.8.gz",
+    "Library/usr/share/man/man8/fsck.minix.8.gz",
+    "Library/usr/share/man/man8/isosize.8.gz",
+    "Library/usr/share/man/man8/mkfs.8.gz",
+    "Library/usr/share/man/man8/mkfs.bfs.8.gz",
+    "Library/usr/share/man/man8/mkfs.cramfs.8.gz",
+    "Library/usr/share/man/man8/mkfs.minix.8.gz",
+    "Library/usr/share/man/man8/mkswap.8.gz",
+    "Library/usr/share/man/man8/sfdisk.8.gz",
+    "Library/usr/share/man/man8/swaplabel.8.gz",
+    "Library/usr/share/man/man8/uuidd.8.gz",
+    "Library/usr/share/man/man8/wipefs.8.gz",
+    ".nonadmin"
+  ],
+  "fn": "m2-util-linux-2.26.2-2.tar.bz2",
+  "license": "GPL, GPL3",
+  "link": {
+    "source": "E:\\Anaconda\\pkgs\\m2-util-linux-2.26.2-2",
+    "type": 1
+  },
+  "md5": "b3508a81fbf09b659de3873785fafecf",
+  "name": "m2-util-linux",
+  "package_tarball_full_path": "E:\\Anaconda\\pkgs\\m2-util-linux-2.26.2-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/usr/bin/agetty.exe",
+        "path_type": "hardlink",
+        "sha256": "bfb5e87d3ea1fb1735a40ca3f6d555bc5d54d058fa9276511ff703abc029db3c",
+        "sha256_in_prefix": "bfb5e87d3ea1fb1735a40ca3f6d555bc5d54d058fa9276511ff703abc029db3c",
+        "size_in_bytes": 37634
+      },
+      {
+        "_path": "Library/usr/bin/blkid.exe",
+        "path_type": "hardlink",
+        "sha256": "8f2d2cb4e605ff4213382a72937600895798079e98418010caff13bddc644252",
+        "sha256_in_prefix": "8f2d2cb4e605ff4213382a72937600895798079e98418010caff13bddc644252",
+        "size_in_bytes": 36397
+      },
+      {
+        "_path": "Library/usr/bin/cal.exe",
+        "path_type": "hardlink",
+        "sha256": "38892318cd714947af7ccb74686797841ebbcbd47dd54fe90f870b573c7b3732",
+        "sha256_in_prefix": "38892318cd714947af7ccb74686797841ebbcbd47dd54fe90f870b573c7b3732",
+        "size_in_bytes": 38682
+      },
+      {
+        "_path": "Library/usr/bin/cfdisk.exe",
+        "path_type": "hardlink",
+        "sha256": "3ab65d1500ddfa7f3ebceacda0df3c12e1b3e485571c0854dab707d622d7a317",
+        "sha256_in_prefix": "3ab65d1500ddfa7f3ebceacda0df3c12e1b3e485571c0854dab707d622d7a317",
+        "size_in_bytes": 70384
+      },
+      {
+        "_path": "Library/usr/bin/col.exe",
+        "path_type": "hardlink",
+        "sha256": "422f521d47e15a5c495cb55f6364b14045a1ec42f53badf3fab54f7f7d9e9dd1",
+        "sha256_in_prefix": "422f521d47e15a5c495cb55f6364b14045a1ec42f53badf3fab54f7f7d9e9dd1",
+        "size_in_bytes": 22332
+      },
+      {
+        "_path": "Library/usr/bin/colcrt.exe",
+        "path_type": "hardlink",
+        "sha256": "4776920543ec1e1aea2b41529374ae4f7a3ecf7a3ea7fd3a9a8e615ed21aa82b",
+        "sha256_in_prefix": "4776920543ec1e1aea2b41529374ae4f7a3ecf7a3ea7fd3a9a8e615ed21aa82b",
+        "size_in_bytes": 14640
+      },
+      {
+        "_path": "Library/usr/bin/colrm.exe",
+        "path_type": "hardlink",
+        "sha256": "071e805abc5b5be9a9468dd1f4c348b02568634cccc6a637ae8827f64e0e3ac5",
+        "sha256_in_prefix": "071e805abc5b5be9a9468dd1f4c348b02568634cccc6a637ae8827f64e0e3ac5",
+        "size_in_bytes": 19072
+      },
+      {
+        "_path": "Library/usr/bin/column.exe",
+        "path_type": "hardlink",
+        "sha256": "7ba427e9854c9b57f19cb7fd3caec5838fe4c875f030ff80488cbd8d7e5ff073",
+        "sha256_in_prefix": "7ba427e9854c9b57f19cb7fd3caec5838fe4c875f030ff80488cbd8d7e5ff073",
+        "size_in_bytes": 24692
+      },
+      {
+        "_path": "Library/usr/bin/fdisk.exe",
+        "path_type": "hardlink",
+        "sha256": "f0c4146a09fb3abdde8a53ac599096d4527499951cd606d5ea1e188513eea4e2",
+        "sha256_in_prefix": "f0c4146a09fb3abdde8a53ac599096d4527499951cd606d5ea1e188513eea4e2",
+        "size_in_bytes": 92835
+      },
+      {
+        "_path": "Library/usr/bin/findfs.exe",
+        "path_type": "hardlink",
+        "sha256": "c114a0063a0dab5ae3994d674a9098421b1a2f2413009117277d8ed6113c6e83",
+        "sha256_in_prefix": "c114a0063a0dab5ae3994d674a9098421b1a2f2413009117277d8ed6113c6e83",
+        "size_in_bytes": 11951
+      },
+      {
+        "_path": "Library/usr/bin/flock.exe",
+        "path_type": "hardlink",
+        "sha256": "9056ef00c07ddaf6c05fb7b2dd54506c72c27c0898d9183f52ed5e4424467892",
+        "sha256_in_prefix": "9056ef00c07ddaf6c05fb7b2dd54506c72c27c0898d9183f52ed5e4424467892",
+        "size_in_bytes": 23056
+      },
+      {
+        "_path": "Library/usr/bin/fsck.cramfs.exe",
+        "path_type": "hardlink",
+        "sha256": "9a9f9e1d4b6e84d5ebe2d74981698b6be182c8f6fb51fb311485957441345b38",
+        "sha256_in_prefix": "9a9f9e1d4b6e84d5ebe2d74981698b6be182c8f6fb51fb311485957441345b38",
+        "size_in_bytes": 30829
+      },
+      {
+        "_path": "Library/usr/bin/fsck.minix.exe",
+        "path_type": "hardlink",
+        "sha256": "344cfec5f9f03572d0d95320143d31e1084428d7a67855935aa8f21b22764d9a",
+        "sha256_in_prefix": "344cfec5f9f03572d0d95320143d31e1084428d7a67855935aa8f21b22764d9a",
+        "size_in_bytes": 34175
+      },
+      {
+        "_path": "Library/usr/bin/getopt.exe",
+        "path_type": "hardlink",
+        "sha256": "f538659cef26bc019b51a53e7539ed7ef1a6066063929b236f8549dcd814d855",
+        "sha256_in_prefix": "f538659cef26bc019b51a53e7539ed7ef1a6066063929b236f8549dcd814d855",
+        "size_in_bytes": 17017
+      },
+      {
+        "_path": "Library/usr/bin/hexdump.exe",
+        "path_type": "hardlink",
+        "sha256": "73229d6779413670133a1c392032928a75b586b351542de6199f99c991c236d6",
+        "sha256_in_prefix": "73229d6779413670133a1c392032928a75b586b351542de6199f99c991c236d6",
+        "size_in_bytes": 42120
+      },
+      {
+        "_path": "Library/usr/bin/ipcmk.exe",
+        "path_type": "hardlink",
+        "sha256": "f87763cb9cbe199b071d1dc1c27a3da55162435941d735c431e1639f0d966414",
+        "sha256_in_prefix": "f87763cb9cbe199b071d1dc1c27a3da55162435941d735c431e1639f0d966414",
+        "size_in_bytes": 21460
+      },
+      {
+        "_path": "Library/usr/bin/isosize.exe",
+        "path_type": "hardlink",
+        "sha256": "d6311148a13234bfd1173abcdde221b523a8397e5bd707f36b48abb384de5761",
+        "sha256_in_prefix": "d6311148a13234bfd1173abcdde221b523a8397e5bd707f36b48abb384de5761",
+        "size_in_bytes": 20272
+      },
+      {
+        "_path": "Library/usr/bin/logger.exe",
+        "path_type": "hardlink",
+        "sha256": "205e996499fd888f8dbc46c7912062eeec2a69d892803a2bbd60f1dceb444167",
+        "sha256_in_prefix": "205e996499fd888f8dbc46c7912062eeec2a69d892803a2bbd60f1dceb444167",
+        "size_in_bytes": 31125
+      },
+      {
+        "_path": "Library/usr/bin/look.exe",
+        "path_type": "hardlink",
+        "sha256": "2dac37f41133827fdca974a615e0c715560cb4f1db541c7d6c7cfa200db28230",
+        "sha256_in_prefix": "2dac37f41133827fdca974a615e0c715560cb4f1db541c7d6c7cfa200db28230",
+        "size_in_bytes": 14774
+      },
+      {
+        "_path": "Library/usr/bin/mcookie.exe",
+        "path_type": "hardlink",
+        "sha256": "e7cc3fb2e51569eec760563361d095679eab8479ccdde62c413ab13f1ad71bdc",
+        "sha256_in_prefix": "e7cc3fb2e51569eec760563361d095679eab8479ccdde62c413ab13f1ad71bdc",
+        "size_in_bytes": 25598
+      },
+      {
+        "_path": "Library/usr/bin/mkfs.bfs.exe",
+        "path_type": "hardlink",
+        "sha256": "f5b65f5097287158463afa7e2705b5b3477dcdd3e9addbd18ec778db1f538b0a",
+        "sha256_in_prefix": "f5b65f5097287158463afa7e2705b5b3477dcdd3e9addbd18ec778db1f538b0a",
+        "size_in_bytes": 24997
+      },
+      {
+        "_path": "Library/usr/bin/mkfs.cramfs.exe",
+        "path_type": "hardlink",
+        "sha256": "488206412e36c76e6ccbe04764cced4c12ba31d636f24f70360f9e2d3312519b",
+        "sha256_in_prefix": "488206412e36c76e6ccbe04764cced4c12ba31d636f24f70360f9e2d3312519b",
+        "size_in_bytes": 31409
+      },
+      {
+        "_path": "Library/usr/bin/mkfs.exe",
+        "path_type": "hardlink",
+        "sha256": "003e6bd3882a03f14fee0a66b0110556791af6dc3ca8e4f995782abd1f1cdf42",
+        "sha256_in_prefix": "003e6bd3882a03f14fee0a66b0110556791af6dc3ca8e4f995782abd1f1cdf42",
+        "size_in_bytes": 14220
+      },
+      {
+        "_path": "Library/usr/bin/mkfs.minix.exe",
+        "path_type": "hardlink",
+        "sha256": "5342e40e76cce305789c7168c64270617ddb5e5ce7bb96072d8811d43fb5c4a4",
+        "sha256_in_prefix": "5342e40e76cce305789c7168c64270617ddb5e5ce7bb96072d8811d43fb5c4a4",
+        "size_in_bytes": 30536
+      },
+      {
+        "_path": "Library/usr/bin/mkswap.exe",
+        "path_type": "hardlink",
+        "sha256": "a0585e523bb0ab370c4b010656a847bca60e089bf2c5e4a8295610e1805bda2d",
+        "sha256_in_prefix": "a0585e523bb0ab370c4b010656a847bca60e089bf2c5e4a8295610e1805bda2d",
+        "size_in_bytes": 31198
+      },
+      {
+        "_path": "Library/usr/bin/more.exe",
+        "path_type": "hardlink",
+        "sha256": "a1949796acb84ea781d036d405bd406f3292af059590d8cec8c6024d417bdcc6",
+        "sha256_in_prefix": "a1949796acb84ea781d036d405bd406f3292af059590d8cec8c6024d417bdcc6",
+        "size_in_bytes": 39332
+      },
+      {
+        "_path": "Library/usr/bin/namei.exe",
+        "path_type": "hardlink",
+        "sha256": "afe5ad464b889115c1ec9a9e22c5daa5709b5204ca795f273de0c9b496525d80",
+        "sha256_in_prefix": "afe5ad464b889115c1ec9a9e22c5daa5709b5204ca795f273de0c9b496525d80",
+        "size_in_bytes": 24000
+      },
+      {
+        "_path": "Library/usr/bin/pg.exe",
+        "path_type": "hardlink",
+        "sha256": "1acd187c20bea6c4e190e4a46ec2a8ff665bc017bb81fe711650033a320df8e0",
+        "sha256_in_prefix": "1acd187c20bea6c4e190e4a46ec2a8ff665bc017bb81fe711650033a320df8e0",
+        "size_in_bytes": 36499
+      },
+      {
+        "_path": "Library/usr/bin/rename.exe",
+        "path_type": "hardlink",
+        "sha256": "bb20f66f791ad6f1196b7ea4d14260b7f73b823caa68d1e8304843bf8b69561b",
+        "sha256_in_prefix": "bb20f66f791ad6f1196b7ea4d14260b7f73b823caa68d1e8304843bf8b69561b",
+        "size_in_bytes": 14161
+      },
+      {
+        "_path": "Library/usr/bin/renice.exe",
+        "path_type": "hardlink",
+        "sha256": "d79898287e4782ceb6ba66782a51af6a9638ef2855343f021d7ae9f958e43080",
+        "sha256_in_prefix": "d79898287e4782ceb6ba66782a51af6a9638ef2855343f021d7ae9f958e43080",
+        "size_in_bytes": 13440
+      },
+      {
+        "_path": "Library/usr/bin/rev.exe",
+        "path_type": "hardlink",
+        "sha256": "ca3268ab214f8ea4a9ebb258a0d3b5887c0ce5e91ec0db112791ab673f2f8221",
+        "sha256_in_prefix": "ca3268ab214f8ea4a9ebb258a0d3b5887c0ce5e91ec0db112791ab673f2f8221",
+        "size_in_bytes": 13040
+      },
+      {
+        "_path": "Library/usr/bin/script.exe",
+        "path_type": "hardlink",
+        "sha256": "9089b1965b84296815a6ca2ea624a938fb3a04d834c3d26da391385f8ef96fc6",
+        "sha256_in_prefix": "9089b1965b84296815a6ca2ea624a938fb3a04d834c3d26da391385f8ef96fc6",
+        "size_in_bytes": 20259
+      },
+      {
+        "_path": "Library/usr/bin/scriptreplay.exe",
+        "path_type": "hardlink",
+        "sha256": "c9225daad7b2d2a9aed348bde16c3317d0bc6030d33582ee64ba53bda325b79a",
+        "sha256_in_prefix": "c9225daad7b2d2a9aed348bde16c3317d0bc6030d33582ee64ba53bda325b79a",
+        "size_in_bytes": 14760
+      },
+      {
+        "_path": "Library/usr/bin/setsid.exe",
+        "path_type": "hardlink",
+        "sha256": "7dca4bc5a271dcaa730407451e3f7c837bfed49f1202ba37a38ebfd755262d09",
+        "sha256_in_prefix": "7dca4bc5a271dcaa730407451e3f7c837bfed49f1202ba37a38ebfd755262d09",
+        "size_in_bytes": 13099
+      },
+      {
+        "_path": "Library/usr/bin/sfdisk.exe",
+        "path_type": "hardlink",
+        "sha256": "5b9f31451e87b37800cd4090d104c1c0debc3dbaebdb9669d35162fe805cd6b0",
+        "sha256_in_prefix": "5b9f31451e87b37800cd4090d104c1c0debc3dbaebdb9669d35162fe805cd6b0",
+        "size_in_bytes": 81528
+      },
+      {
+        "_path": "Library/usr/bin/swaplabel.exe",
+        "path_type": "hardlink",
+        "sha256": "b583217cb01e902cecb21cbf17771a7016d31d59bedd76e040aa089cfe679c16",
+        "sha256_in_prefix": "b583217cb01e902cecb21cbf17771a7016d31d59bedd76e040aa089cfe679c16",
+        "size_in_bytes": 15739
+      },
+      {
+        "_path": "Library/usr/bin/tailf.exe",
+        "path_type": "hardlink",
+        "sha256": "ec02ad4b8b48853fa464caff84c46ea66b5f6d0a3bc6e7f2cf87edf12314a3b7",
+        "sha256_in_prefix": "ec02ad4b8b48853fa464caff84c46ea66b5f6d0a3bc6e7f2cf87edf12314a3b7",
+        "size_in_bytes": 20457
+      },
+      {
+        "_path": "Library/usr/bin/ul.exe",
+        "path_type": "hardlink",
+        "sha256": "536fc421661ed7216d8972685b1d461e17040ddf426e36915d82685c19bca40f",
+        "sha256_in_prefix": "536fc421661ed7216d8972685b1d461e17040ddf426e36915d82685c19bca40f",
+        "size_in_bytes": 19169
+      },
+      {
+        "_path": "Library/usr/bin/uuidd.exe",
+        "path_type": "hardlink",
+        "sha256": "6000a4eae7a03c8344477bf474e07cf95449713b42af275c8698c5bf9f784b12",
+        "sha256_in_prefix": "6000a4eae7a03c8344477bf474e07cf95449713b42af275c8698c5bf9f784b12",
+        "size_in_bytes": 29333
+      },
+      {
+        "_path": "Library/usr/bin/uuidgen.exe",
+        "path_type": "hardlink",
+        "sha256": "07526f33c192771734b252e1445d50363ca96109c0dfe78472ce472d69d7a41b",
+        "sha256_in_prefix": "07526f33c192771734b252e1445d50363ca96109c0dfe78472ce472d69d7a41b",
+        "size_in_bytes": 12557
+      },
+      {
+        "_path": "Library/usr/bin/whereis.exe",
+        "path_type": "hardlink",
+        "sha256": "e698543eb741a6bd993d7c72c1b4b396849b9391daff351641ffc52227639aa4",
+        "sha256_in_prefix": "e698543eb741a6bd993d7c72c1b4b396849b9391daff351641ffc52227639aa4",
+        "size_in_bytes": 22580
+      },
+      {
+        "_path": "Library/usr/bin/wipefs.exe",
+        "path_type": "hardlink",
+        "sha256": "0b6bac7637566a8b74e98c1024b6b85045840ad0fd48efaccc34d934a7bfba77",
+        "sha256_in_prefix": "0b6bac7637566a8b74e98c1024b6b85045840ad0fd48efaccc34d934a7bfba77",
+        "size_in_bytes": 28008
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/blkid",
+        "path_type": "hardlink",
+        "sha256": "e2d3fa59a351e8af1582816ace0670c72b4088caf60b6dd983cc37c3439c93b1",
+        "sha256_in_prefix": "e2d3fa59a351e8af1582816ace0670c72b4088caf60b6dd983cc37c3439c93b1",
+        "size_in_bytes": 1395
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/cal",
+        "path_type": "hardlink",
+        "sha256": "2bbd194e5de0b8ea1df33f856e3e68df8dec80e83f8eecb8e2b853e74e1321a4",
+        "sha256_in_prefix": "2bbd194e5de0b8ea1df33f856e3e68df8dec80e83f8eecb8e2b853e74e1321a4",
+        "size_in_bytes": 411
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/cfdisk",
+        "path_type": "hardlink",
+        "sha256": "2995b77066141f0a0b67dec82d554a20909466eca6a3e8f237eb709b7f5b4c62",
+        "sha256_in_prefix": "2995b77066141f0a0b67dec82d554a20909466eca6a3e8f237eb709b7f5b4c62",
+        "size_in_bytes": 546
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/col",
+        "path_type": "hardlink",
+        "sha256": "4d3265f8264768dde09b2962b2b19f1dd23b5283430b64b762d24515dee93cc8",
+        "sha256_in_prefix": "4d3265f8264768dde09b2962b2b19f1dd23b5283430b64b762d24515dee93cc8",
+        "size_in_bytes": 460
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/colcrt",
+        "path_type": "hardlink",
+        "sha256": "cfaecdd8f38c8fd02a9a6fe9685dde62da40bafd69412d0da67cfa86af3443e6",
+        "sha256_in_prefix": "cfaecdd8f38c8fd02a9a6fe9685dde62da40bafd69412d0da67cfa86af3443e6",
+        "size_in_bytes": 484
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/colrm",
+        "path_type": "hardlink",
+        "sha256": "0189319a7ac414b0777557a29e5c6ddd32ec3a4db494eea31c193bdf80add723",
+        "sha256_in_prefix": "0189319a7ac414b0777557a29e5c6ddd32ec3a4db494eea31c193bdf80add723",
+        "size_in_bytes": 509
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/column",
+        "path_type": "hardlink",
+        "sha256": "232d82bb405518558eece4c5a0889502a5df776b6db7e1e2c9f0c0cb98238955",
+        "sha256_in_prefix": "232d82bb405518558eece4c5a0889502a5df776b6db7e1e2c9f0c0cb98238955",
+        "size_in_bytes": 725
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/fdisk",
+        "path_type": "hardlink",
+        "sha256": "c9edcf044e042f8b2f5ab0242d69c2f601639f09fa3d8124f63681fe8f7fc416",
+        "sha256_in_prefix": "c9edcf044e042f8b2f5ab0242d69c2f601639f09fa3d8124f63681fe8f7fc416",
+        "size_in_bytes": 1212
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/flock",
+        "path_type": "hardlink",
+        "sha256": "34ace7c62e5f9dfff7729a2b7182f1353b7223203c86068f61da24723b758c9b",
+        "sha256_in_prefix": "34ace7c62e5f9dfff7729a2b7182f1353b7223203c86068f61da24723b758c9b",
+        "size_in_bytes": 860
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/fsck.cramfs",
+        "path_type": "hardlink",
+        "sha256": "5a1375c9dfcd5855272b5d46fccbc685855d2726a2fcf6be9e7bdf85d0acf9ab",
+        "sha256_in_prefix": "5a1375c9dfcd5855272b5d46fccbc685855d2726a2fcf6be9e7bdf85d0acf9ab",
+        "size_in_bytes": 508
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/fsck.minix",
+        "path_type": "hardlink",
+        "sha256": "07271c00fb86458e29322393dcdd7cf1f77f01cbe9f02e7db1d8bae37a4ccf5b",
+        "sha256_in_prefix": "07271c00fb86458e29322393dcdd7cf1f77f01cbe9f02e7db1d8bae37a4ccf5b",
+        "size_in_bytes": 354
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/getopt",
+        "path_type": "hardlink",
+        "sha256": "0ae50ed789c556f2abdabe09362169d385f9facf1bd05c13cf57b3f8e0078a5d",
+        "sha256_in_prefix": "0ae50ed789c556f2abdabe09362169d385f9facf1bd05c13cf57b3f8e0078a5d",
+        "size_in_bytes": 815
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/hexdump",
+        "path_type": "hardlink",
+        "sha256": "975b9a5635d7a8207235c97c170176b3749ce1878b51b48e153ecdd7b3388fda",
+        "sha256_in_prefix": "975b9a5635d7a8207235c97c170176b3749ce1878b51b48e153ecdd7b3388fda",
+        "size_in_bytes": 899
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/isosize",
+        "path_type": "hardlink",
+        "sha256": "912fa22e18d2dd1168c013e404d74009714b1ab2f31cded9dcea1c0e6916fc1d",
+        "sha256_in_prefix": "912fa22e18d2dd1168c013e404d74009714b1ab2f31cded9dcea1c0e6916fc1d",
+        "size_in_bytes": 426
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/logger",
+        "path_type": "hardlink",
+        "sha256": "1089abf9449fafbab373ddde24cfe3fa5b4f3043cd7575657d0e065cf6b2c06d",
+        "sha256_in_prefix": "1089abf9449fafbab373ddde24cfe3fa5b4f3043cd7575657d0e065cf6b2c06d",
+        "size_in_bytes": 1223
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/look",
+        "path_type": "hardlink",
+        "sha256": "9d87adac7a7e2451cff4d3dfffaa2161b3e382a590fc7b532be46883dce12bbf",
+        "sha256_in_prefix": "9d87adac7a7e2451cff4d3dfffaa2161b3e382a590fc7b532be46883dce12bbf",
+        "size_in_bytes": 572
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/mcookie",
+        "path_type": "hardlink",
+        "sha256": "94c71202101d2267e421343ca9f1e70c9884a2462e1441cdc5fd186cf834dc34",
+        "sha256_in_prefix": "94c71202101d2267e421343ca9f1e70c9884a2462e1441cdc5fd186cf834dc34",
+        "size_in_bytes": 502
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/mkfs",
+        "path_type": "hardlink",
+        "sha256": "0650ce5582e4f753b586b6b6a9bd9eeb9bd7a3a818d758ba41ffac91dc42403d",
+        "sha256_in_prefix": "0650ce5582e4f753b586b6b6a9bd9eeb9bd7a3a818d758ba41ffac91dc42403d",
+        "size_in_bytes": 629
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/mkfs.bfs",
+        "path_type": "hardlink",
+        "sha256": "9328a2a04a14f34764cf2c05616fa9baeac9672ae0e242ae0a79a6ef129e3a88",
+        "sha256_in_prefix": "9328a2a04a14f34764cf2c05616fa9baeac9672ae0e242ae0a79a6ef129e3a88",
+        "size_in_bytes": 661
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/mkfs.cramfs",
+        "path_type": "hardlink",
+        "sha256": "a33449ad64a9c1e51ad0b82fc6afbb07febd5650842fea214231f399d7f3bf4d",
+        "sha256_in_prefix": "a33449ad64a9c1e51ad0b82fc6afbb07febd5650842fea214231f399d7f3bf4d",
+        "size_in_bytes": 821
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/mkfs.minix",
+        "path_type": "hardlink",
+        "sha256": "715f033954f0271258975d034ee786e3e96200ad874b7948002cf289240209c0",
+        "sha256_in_prefix": "715f033954f0271258975d034ee786e3e96200ad874b7948002cf289240209c0",
+        "size_in_bytes": 667
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/mkswap",
+        "path_type": "hardlink",
+        "sha256": "55df38a11a3a5c062176af86f5218daa930a8d5883d5c31ae2062ac8da756e68",
+        "sha256_in_prefix": "55df38a11a3a5c062176af86f5218daa930a8d5883d5c31ae2062ac8da756e68",
+        "size_in_bytes": 765
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/more",
+        "path_type": "hardlink",
+        "sha256": "f2a14123adff1db7144fa503b2e939d9383055e7b893a7730e146dd93c328032",
+        "sha256_in_prefix": "f2a14123adff1db7144fa503b2e939d9383055e7b893a7730e146dd93c328032",
+        "size_in_bytes": 528
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/namei",
+        "path_type": "hardlink",
+        "sha256": "1519a1b96f840f476647daa9d041a7d5db2dde0d80d3c99e973b1eccff8b259d",
+        "sha256_in_prefix": "1519a1b96f840f476647daa9d041a7d5db2dde0d80d3c99e973b1eccff8b259d",
+        "size_in_bytes": 500
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/pg",
+        "path_type": "hardlink",
+        "sha256": "5dc94774a322d4d6152cf69d869cc70db29a802108675539d658580242715e09",
+        "sha256_in_prefix": "5dc94774a322d4d6152cf69d869cc70db29a802108675539d658580242715e09",
+        "size_in_bytes": 605
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/rename",
+        "path_type": "hardlink",
+        "sha256": "50165e2eea9728b5e0234a05575ee157a4b09f0d848b82e38fed09ccf025bf44",
+        "sha256_in_prefix": "50165e2eea9728b5e0234a05575ee157a4b09f0d848b82e38fed09ccf025bf44",
+        "size_in_bytes": 632
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/renice",
+        "path_type": "hardlink",
+        "sha256": "631231b93ab12774133788a62650ce3d818ba80b56dc7632e6b7940a565f02b7",
+        "sha256_in_prefix": "631231b93ab12774133788a62650ce3d818ba80b56dc7632e6b7940a565f02b7",
+        "size_in_bytes": 812
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/rev",
+        "path_type": "hardlink",
+        "sha256": "ffab4735212694543267952b527e72f3ee4ac9b0e07d49b432db219bd26a3aae",
+        "sha256_in_prefix": "ffab4735212694543267952b527e72f3ee4ac9b0e07d49b432db219bd26a3aae",
+        "size_in_bytes": 432
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/script",
+        "path_type": "hardlink",
+        "sha256": "4939f89fc4e6fb5577b1803562c103d8ee43648f1f87a938c6c79a67e5850492",
+        "sha256_in_prefix": "4939f89fc4e6fb5577b1803562c103d8ee43648f1f87a938c6c79a67e5850492",
+        "size_in_bytes": 667
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/scriptreplay",
+        "path_type": "hardlink",
+        "sha256": "147d35e1d56387599071cb2e27eea8c345433948a478285dac280878b41a2d9d",
+        "sha256_in_prefix": "147d35e1d56387599071cb2e27eea8c345433948a478285dac280878b41a2d9d",
+        "size_in_bytes": 592
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/setsid",
+        "path_type": "hardlink",
+        "sha256": "3bcd86d1051046fb0f9c122e0db037e0688dd2cf08f74d8b803cdb4ad2cd7d08",
+        "sha256_in_prefix": "3bcd86d1051046fb0f9c122e0db037e0688dd2cf08f74d8b803cdb4ad2cd7d08",
+        "size_in_bytes": 433
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/sfdisk",
+        "path_type": "hardlink",
+        "sha256": "4bd9a784c22be0181d20d7f189c78f2ed5bd90fe22ad8c62c42603ee3b0cee50",
+        "sha256_in_prefix": "4bd9a784c22be0181d20d7f189c78f2ed5bd90fe22ad8c62c42603ee3b0cee50",
+        "size_in_bytes": 1333
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/swaplabel",
+        "path_type": "hardlink",
+        "sha256": "1805b9fa1953570fa4bb99339afbb25a6d701ce5a442d22b8ddabe486b46c9c9",
+        "sha256_in_prefix": "1805b9fa1953570fa4bb99339afbb25a6d701ce5a442d22b8ddabe486b46c9c9",
+        "size_in_bytes": 635
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/tailf",
+        "path_type": "hardlink",
+        "sha256": "217ff91e243a27ff18c0ce71505c35da7429950e5df9c8bda810e3cbd54e1395",
+        "sha256_in_prefix": "217ff91e243a27ff18c0ce71505c35da7429950e5df9c8bda810e3cbd54e1395",
+        "size_in_bytes": 530
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/ul",
+        "path_type": "hardlink",
+        "sha256": "dbf03fa8a7f4e7213f709a811cf2015f4f87f35d5b21a35852c4c5e66d6489b3",
+        "sha256_in_prefix": "dbf03fa8a7f4e7213f709a811cf2015f4f87f35d5b21a35852c4c5e66d6489b3",
+        "size_in_bytes": 655
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/uuidd",
+        "path_type": "hardlink",
+        "sha256": "0c5ffdedd70b3bfa3ce103e39189330eeffd2ba8fd16709ebf6c19b86c520c2c",
+        "sha256_in_prefix": "0c5ffdedd70b3bfa3ce103e39189330eeffd2ba8fd16709ebf6c19b86c520c2c",
+        "size_in_bytes": 862
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/uuidgen",
+        "path_type": "hardlink",
+        "sha256": "07580b482897eee6e5253a85f91b6b015f4c45b2adb1bac74d615ae79c2221e0",
+        "sha256_in_prefix": "07580b482897eee6e5253a85f91b6b015f4c45b2adb1bac74d615ae79c2221e0",
+        "size_in_bytes": 384
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/whereis",
+        "path_type": "hardlink",
+        "sha256": "2a040afc44337e73ffcb2b910180aacf09566b784f887e82255a09cc42689d50",
+        "sha256_in_prefix": "2a040afc44337e73ffcb2b910180aacf09566b784f887e82255a09cc42689d50",
+        "size_in_bytes": 535
+      },
+      {
+        "_path": "Library/usr/share/bash-completion/completions/wipefs",
+        "path_type": "hardlink",
+        "sha256": "5479d455af2977d9d5bc9dc219e21c376abc63781eaaf6c0a5336bea82648f2f",
+        "sha256_in_prefix": "5479d455af2977d9d5bc9dc219e21c376abc63781eaaf6c0a5336bea82648f2f",
+        "size_in_bytes": 690
+      },
+      {
+        "_path": "Library/usr/share/doc/util-linux/getopt/getopt-parse.bash",
+        "path_type": "hardlink",
+        "sha256": "ccf6184b120b95017bd172ffe83020e6f7036e203a919e656bec36cd25dc1be3",
+        "sha256_in_prefix": "ccf6184b120b95017bd172ffe83020e6f7036e203a919e656bec36cd25dc1be3",
+        "size_in_bytes": 1498
+      },
+      {
+        "_path": "Library/usr/share/doc/util-linux/getopt/getopt-parse.tcsh",
+        "path_type": "hardlink",
+        "sha256": "914e3fee0db65e4adcc5d1de79613820f4469b501f6a501dbe63fb91dbd34174",
+        "sha256_in_prefix": "914e3fee0db65e4adcc5d1de79613820f4469b501f6a501dbe63fb91dbd34174",
+        "size_in_bytes": 2251
+      },
+      {
+        "_path": "Library/usr/share/locale/ca/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "70f21388ea3e26b1970a300b42f73d372042c6c594ad5a920625fba286477434",
+        "sha256_in_prefix": "70f21388ea3e26b1970a300b42f73d372042c6c594ad5a920625fba286477434",
+        "size_in_bytes": 42152
+      },
+      {
+        "_path": "Library/usr/share/locale/cs/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "d5100cc43eddfc1c42e1bbc8d0655c36f51679a01a3f576025ceee81ee32a5ac",
+        "sha256_in_prefix": "d5100cc43eddfc1c42e1bbc8d0655c36f51679a01a3f576025ceee81ee32a5ac",
+        "size_in_bytes": 398640
+      },
+      {
+        "_path": "Library/usr/share/locale/da/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "083de6c3dfd367e17e098b15d029e03c49b8f46b1608e7540c0ad9018332a5ec",
+        "sha256_in_prefix": "083de6c3dfd367e17e098b15d029e03c49b8f46b1608e7540c0ad9018332a5ec",
+        "size_in_bytes": 376727
+      },
+      {
+        "_path": "Library/usr/share/locale/de/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "7b4ba8d0e30346f865df852a1be49493e6322ce937dfd4942128c7d7db22a5ab",
+        "sha256_in_prefix": "7b4ba8d0e30346f865df852a1be49493e6322ce937dfd4942128c7d7db22a5ab",
+        "size_in_bytes": 381768
+      },
+      {
+        "_path": "Library/usr/share/locale/es/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "e09f65f06b8ac1b5e672648ff7c8d8f62f4605fbc316eed52b10f2b90a0c10b3",
+        "sha256_in_prefix": "e09f65f06b8ac1b5e672648ff7c8d8f62f4605fbc316eed52b10f2b90a0c10b3",
+        "size_in_bytes": 404149
+      },
+      {
+        "_path": "Library/usr/share/locale/et/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "70913c139a18bd3c295e22e50ed5dd80c781ac61daca0ac8db44575b4aa1a670",
+        "sha256_in_prefix": "70913c139a18bd3c295e22e50ed5dd80c781ac61daca0ac8db44575b4aa1a670",
+        "size_in_bytes": 25745
+      },
+      {
+        "_path": "Library/usr/share/locale/eu/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "ee1f2232d0df8391b200f1c44d38f4a1d280464e8474fb1370cd86dc2b2393f3",
+        "sha256_in_prefix": "ee1f2232d0df8391b200f1c44d38f4a1d280464e8474fb1370cd86dc2b2393f3",
+        "size_in_bytes": 20966
+      },
+      {
+        "_path": "Library/usr/share/locale/fi/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "b33bba440877a0d66dc132fb99afa1190b7d532455bdd520e1edb276f0edc7a5",
+        "sha256_in_prefix": "b33bba440877a0d66dc132fb99afa1190b7d532455bdd520e1edb276f0edc7a5",
+        "size_in_bytes": 82388
+      },
+      {
+        "_path": "Library/usr/share/locale/fr/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "3764098df81af4e770c7e9cc97ac8b9093029d4d084fcfcd3553e137a21b1664",
+        "sha256_in_prefix": "3764098df81af4e770c7e9cc97ac8b9093029d4d084fcfcd3553e137a21b1664",
+        "size_in_bytes": 411364
+      },
+      {
+        "_path": "Library/usr/share/locale/gl/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "20c03b00a50e26ae67b189af184e6837ce77fd2a051103f28c1c1780683e7445",
+        "sha256_in_prefix": "20c03b00a50e26ae67b189af184e6837ce77fd2a051103f28c1c1780683e7445",
+        "size_in_bytes": 17203
+      },
+      {
+        "_path": "Library/usr/share/locale/hr/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "3ba8627889b8cbb110d6068d3a2c1e261ecfa64c82406d238c1ee09d1ce5562b",
+        "sha256_in_prefix": "3ba8627889b8cbb110d6068d3a2c1e261ecfa64c82406d238c1ee09d1ce5562b",
+        "size_in_bytes": 27954
+      },
+      {
+        "_path": "Library/usr/share/locale/hu/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "e59a8aaf1c480e95434cf4eb492c47861cfe80f7eb07db9ffd506a23804ca841",
+        "sha256_in_prefix": "e59a8aaf1c480e95434cf4eb492c47861cfe80f7eb07db9ffd506a23804ca841",
+        "size_in_bytes": 51917
+      },
+      {
+        "_path": "Library/usr/share/locale/id/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "74e4670693e39a7a32041f542af38fe2eefe8a267aaf77a0b36525b3e326ad03",
+        "sha256_in_prefix": "74e4670693e39a7a32041f542af38fe2eefe8a267aaf77a0b36525b3e326ad03",
+        "size_in_bytes": 56453
+      },
+      {
+        "_path": "Library/usr/share/locale/it/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "8afe6ae808f4420b17ed5bf4a01372f1a9b62825cb3ac876b787486587461c88",
+        "sha256_in_prefix": "8afe6ae808f4420b17ed5bf4a01372f1a9b62825cb3ac876b787486587461c88",
+        "size_in_bytes": 37921
+      },
+      {
+        "_path": "Library/usr/share/locale/ja/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "633d73d05915c2450b39813816b47cf05947cb8640f637b0d086279c18cdc073",
+        "sha256_in_prefix": "633d73d05915c2450b39813816b47cf05947cb8640f637b0d086279c18cdc073",
+        "size_in_bytes": 387439
+      },
+      {
+        "_path": "Library/usr/share/locale/nl/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "f9284fc366f2b35101456e051068ea6edbc41694a3a92fd41bc62d2ea95f76ab",
+        "sha256_in_prefix": "f9284fc366f2b35101456e051068ea6edbc41694a3a92fd41bc62d2ea95f76ab",
+        "size_in_bytes": 350648
+      },
+      {
+        "_path": "Library/usr/share/locale/pl/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "e6840f6388c2c14476e9ccd116abbf41ee02df2f19d981e37f824496fb3eeb14",
+        "sha256_in_prefix": "e6840f6388c2c14476e9ccd116abbf41ee02df2f19d981e37f824496fb3eeb14",
+        "size_in_bytes": 395155
+      },
+      {
+        "_path": "Library/usr/share/locale/pt_BR/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "e846ec2546a7c5565546827260b4f32801000211a7b127703be67ef73298ef1a",
+        "sha256_in_prefix": "e846ec2546a7c5565546827260b4f32801000211a7b127703be67ef73298ef1a",
+        "size_in_bytes": 339631
+      },
+      {
+        "_path": "Library/usr/share/locale/ru/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "c2d2087b14f2edfa02a88fd35127450f1054d33642f9bf16a10683f7e49c6c60",
+        "sha256_in_prefix": "c2d2087b14f2edfa02a88fd35127450f1054d33642f9bf16a10683f7e49c6c60",
+        "size_in_bytes": 79387
+      },
+      {
+        "_path": "Library/usr/share/locale/sl/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "e841eae983d18df44a95a3bcc0fc420cb553537df8776c5e48bc42df064c6e8b",
+        "sha256_in_prefix": "e841eae983d18df44a95a3bcc0fc420cb553537df8776c5e48bc42df064c6e8b",
+        "size_in_bytes": 39614
+      },
+      {
+        "_path": "Library/usr/share/locale/sv/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "ff8fe09eda3cf86b24bf97e61a4894fc3407b95334ebdfd3c33dd883d7ab8fe3",
+        "sha256_in_prefix": "ff8fe09eda3cf86b24bf97e61a4894fc3407b95334ebdfd3c33dd883d7ab8fe3",
+        "size_in_bytes": 41207
+      },
+      {
+        "_path": "Library/usr/share/locale/tr/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "dd873e58a660dd6f2d765f2316157f71b69460dc01dc54137c65231aefffdf5a",
+        "sha256_in_prefix": "dd873e58a660dd6f2d765f2316157f71b69460dc01dc54137c65231aefffdf5a",
+        "size_in_bytes": 40864
+      },
+      {
+        "_path": "Library/usr/share/locale/uk/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "f0ad80790e2bb0f285b04b0a3c39925df3ffe6a38988a9e87d8393487944f813",
+        "sha256_in_prefix": "f0ad80790e2bb0f285b04b0a3c39925df3ffe6a38988a9e87d8393487944f813",
+        "size_in_bytes": 511090
+      },
+      {
+        "_path": "Library/usr/share/locale/vi/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "22ce7d4b7b86fb520d040da2e918fb8b112a126507163fe9e7d219a6073e04ec",
+        "sha256_in_prefix": "22ce7d4b7b86fb520d040da2e918fb8b112a126507163fe9e7d219a6073e04ec",
+        "size_in_bytes": 419699
+      },
+      {
+        "_path": "Library/usr/share/locale/zh_CN/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "a67453ac660682496dadf36ba1b6780a6522771ef5679bc138fe7b7adfd0b462",
+        "sha256_in_prefix": "a67453ac660682496dadf36ba1b6780a6522771ef5679bc138fe7b7adfd0b462",
+        "size_in_bytes": 309146
+      },
+      {
+        "_path": "Library/usr/share/locale/zh_TW/LC_MESSAGES/util-linux.mo",
+        "path_type": "hardlink",
+        "sha256": "069fa7fae421fea13cbf0fd4835bbfb4b6fd66a9d6f3ea391aa8a239c1a52c1f",
+        "sha256_in_prefix": "069fa7fae421fea13cbf0fd4835bbfb4b6fd66a9d6f3ea391aa8a239c1a52c1f",
+        "size_in_bytes": 61792
+      },
+      {
+        "_path": "Library/usr/share/man/man1/cal.1.gz",
+        "path_type": "hardlink",
+        "sha256": "9b9ca66018ef3282cf3b0e51565b2b594dd9f691b738557c98a10df648f4b139",
+        "sha256_in_prefix": "9b9ca66018ef3282cf3b0e51565b2b594dd9f691b738557c98a10df648f4b139",
+        "size_in_bytes": 2371
+      },
+      {
+        "_path": "Library/usr/share/man/man1/col.1.gz",
+        "path_type": "hardlink",
+        "sha256": "cd52972a912f5ace697d1d52c45867443b7e5cd63ca4466e7ea4a71b269e91c2",
+        "sha256_in_prefix": "cd52972a912f5ace697d1d52c45867443b7e5cd63ca4466e7ea4a71b269e91c2",
+        "size_in_bytes": 2257
+      },
+      {
+        "_path": "Library/usr/share/man/man1/colcrt.1.gz",
+        "path_type": "hardlink",
+        "sha256": "15324e5b3a91f41f878ce8138bdc776f61e704730d73750fa887fa947b3bdc34",
+        "sha256_in_prefix": "15324e5b3a91f41f878ce8138bdc776f61e704730d73750fa887fa947b3bdc34",
+        "size_in_bytes": 1966
+      },
+      {
+        "_path": "Library/usr/share/man/man1/colrm.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4cac08b70b0ec0e703434b1ed26aa45863ee87d23aac1be06286596e43845583",
+        "sha256_in_prefix": "4cac08b70b0ec0e703434b1ed26aa45863ee87d23aac1be06286596e43845583",
+        "size_in_bytes": 1453
+      },
+      {
+        "_path": "Library/usr/share/man/man1/column.1.gz",
+        "path_type": "hardlink",
+        "sha256": "354b3c3e02b899011645874c7180dcb3eae9610f3f1a6c408e5810938970def9",
+        "sha256_in_prefix": "354b3c3e02b899011645874c7180dcb3eae9610f3f1a6c408e5810938970def9",
+        "size_in_bytes": 1886
+      },
+      {
+        "_path": "Library/usr/share/man/man1/flock.1.gz",
+        "path_type": "hardlink",
+        "sha256": "e32d85e46b045d5015a4f138076fedffb74cecc5cfbef702b8f67d45d7aef582",
+        "sha256_in_prefix": "e32d85e46b045d5015a4f138076fedffb74cecc5cfbef702b8f67d45d7aef582",
+        "size_in_bytes": 2709
+      },
+      {
+        "_path": "Library/usr/share/man/man1/getopt.1.gz",
+        "path_type": "hardlink",
+        "sha256": "616bd416d5a5a24e4d251cf28644eb5c1c4862c679108ded0c71e1769cb253a6",
+        "sha256_in_prefix": "616bd416d5a5a24e4d251cf28644eb5c1c4862c679108ded0c71e1769cb253a6",
+        "size_in_bytes": 4573
+      },
+      {
+        "_path": "Library/usr/share/man/man1/hexdump.1.gz",
+        "path_type": "hardlink",
+        "sha256": "987d6e052563ee061216e04ae7de60de7896fb8fcc778f4568864dd5a2da387b",
+        "sha256_in_prefix": "987d6e052563ee061216e04ae7de60de7896fb8fcc778f4568864dd5a2da387b",
+        "size_in_bytes": 5131
+      },
+      {
+        "_path": "Library/usr/share/man/man1/ipcmk.1.gz",
+        "path_type": "hardlink",
+        "sha256": "c6bcb8a60c562d894fcd5ed9e0021bb9ea21c058f6f7ae6be2a4584b4d13fdd5",
+        "sha256_in_prefix": "c6bcb8a60c562d894fcd5ed9e0021bb9ea21c058f6f7ae6be2a4584b4d13fdd5",
+        "size_in_bytes": 659
+      },
+      {
+        "_path": "Library/usr/share/man/man1/logger.1.gz",
+        "path_type": "hardlink",
+        "sha256": "f276be6ab66d82a195f42790611edbf1eb19220f8e4b0cf0889251acd32b4c2e",
+        "sha256_in_prefix": "f276be6ab66d82a195f42790611edbf1eb19220f8e4b0cf0889251acd32b4c2e",
+        "size_in_bytes": 4520
+      },
+      {
+        "_path": "Library/usr/share/man/man1/look.1.gz",
+        "path_type": "hardlink",
+        "sha256": "914608dd2a1246db591b53dbe9c113f5b592b7644eeff38ef94afa05f2c310f6",
+        "sha256_in_prefix": "914608dd2a1246db591b53dbe9c113f5b592b7644eeff38ef94afa05f2c310f6",
+        "size_in_bytes": 1926
+      },
+      {
+        "_path": "Library/usr/share/man/man1/mcookie.1.gz",
+        "path_type": "hardlink",
+        "sha256": "8f8f1be0116b4bd6f691c9aae1e34e780396cb717c53ccf0beb7bcad3636ec8f",
+        "sha256_in_prefix": "8f8f1be0116b4bd6f691c9aae1e34e780396cb717c53ccf0beb7bcad3636ec8f",
+        "size_in_bytes": 1011
+      },
+      {
+        "_path": "Library/usr/share/man/man1/more.1.gz",
+        "path_type": "hardlink",
+        "sha256": "d8fc12fc3183731780232084313081678c17935fdba6b97e1ef1da8e5a5b18cb",
+        "sha256_in_prefix": "d8fc12fc3183731780232084313081678c17935fdba6b97e1ef1da8e5a5b18cb",
+        "size_in_bytes": 2916
+      },
+      {
+        "_path": "Library/usr/share/man/man1/namei.1.gz",
+        "path_type": "hardlink",
+        "sha256": "b182e5898411749b96083099cab73283ae339eccff5bb643f660e2ebbff9eaac",
+        "sha256_in_prefix": "b182e5898411749b96083099cab73283ae339eccff5bb643f660e2ebbff9eaac",
+        "size_in_bytes": 1077
+      },
+      {
+        "_path": "Library/usr/share/man/man1/pg.1.gz",
+        "path_type": "hardlink",
+        "sha256": "1b635fec83a5493d6392c8d1bf6b3c5db534f18253baf831720ac4573794d233",
+        "sha256_in_prefix": "1b635fec83a5493d6392c8d1bf6b3c5db534f18253baf831720ac4573794d233",
+        "size_in_bytes": 2102
+      },
+      {
+        "_path": "Library/usr/share/man/man1/rename.1.gz",
+        "path_type": "hardlink",
+        "sha256": "34cfac3c37c9c8615469ffc592208e5c0d735a69c1573390316425ee84f5f07f",
+        "sha256_in_prefix": "34cfac3c37c9c8615469ffc592208e5c0d735a69c1573390316425ee84f5f07f",
+        "size_in_bytes": 911
+      },
+      {
+        "_path": "Library/usr/share/man/man1/renice.1.gz",
+        "path_type": "hardlink",
+        "sha256": "0acf08889f9c646cd333d4a3f9be29d9f71303da056ba2cae4f7d4470cb4239e",
+        "sha256_in_prefix": "0acf08889f9c646cd333d4a3f9be29d9f71303da056ba2cae4f7d4470cb4239e",
+        "size_in_bytes": 2183
+      },
+      {
+        "_path": "Library/usr/share/man/man1/rev.1.gz",
+        "path_type": "hardlink",
+        "sha256": "cdc5b202fcb660f5276edb422bbaaf001060a610a3451ace5df9a9988f4fb8c2",
+        "sha256_in_prefix": "cdc5b202fcb660f5276edb422bbaaf001060a610a3451ace5df9a9988f4fb8c2",
+        "size_in_bytes": 1335
+      },
+      {
+        "_path": "Library/usr/share/man/man1/script.1.gz",
+        "path_type": "hardlink",
+        "sha256": "38748d93026a36bd0392863ccaa4eb74f51f3415719809cfc65b0e787ad9de75",
+        "sha256_in_prefix": "38748d93026a36bd0392863ccaa4eb74f51f3415719809cfc65b0e787ad9de75",
+        "size_in_bytes": 2717
+      },
+      {
+        "_path": "Library/usr/share/man/man1/scriptreplay.1.gz",
+        "path_type": "hardlink",
+        "sha256": "1669240f85c078ff394c4b812d56268310ccaa10f2a528f7814cc143e4ef210a",
+        "sha256_in_prefix": "1669240f85c078ff394c4b812d56268310ccaa10f2a528f7814cc143e4ef210a",
+        "size_in_bytes": 1488
+      },
+      {
+        "_path": "Library/usr/share/man/man1/setsid.1.gz",
+        "path_type": "hardlink",
+        "sha256": "e8c39822e64a6a4e1d875da5db4c3625a6533caedbd84eb80eb1cce015b9f7f2",
+        "sha256_in_prefix": "e8c39822e64a6a4e1d875da5db4c3625a6533caedbd84eb80eb1cce015b9f7f2",
+        "size_in_bytes": 492
+      },
+      {
+        "_path": "Library/usr/share/man/man1/tailf.1.gz",
+        "path_type": "hardlink",
+        "sha256": "82057ea619777041c0df7d77567355e4144318a9c18f67000e5b4eb00f55f185",
+        "sha256_in_prefix": "82057ea619777041c0df7d77567355e4144318a9c18f67000e5b4eb00f55f185",
+        "size_in_bytes": 1285
+      },
+      {
+        "_path": "Library/usr/share/man/man1/ul.1.gz",
+        "path_type": "hardlink",
+        "sha256": "b0e5526e66f71d87f07069b2d9629e45168585a10442eb76d2b99133b9975868",
+        "sha256_in_prefix": "b0e5526e66f71d87f07069b2d9629e45168585a10442eb76d2b99133b9975868",
+        "size_in_bytes": 1966
+      },
+      {
+        "_path": "Library/usr/share/man/man1/uuidgen.1.gz",
+        "path_type": "hardlink",
+        "sha256": "a756dcfaa1ebec870b9a38c63d46114240f4f2bb17141eae3b0dfee14e730a89",
+        "sha256_in_prefix": "a756dcfaa1ebec870b9a38c63d46114240f4f2bb17141eae3b0dfee14e730a89",
+        "size_in_bytes": 896
+      },
+      {
+        "_path": "Library/usr/share/man/man1/whereis.1.gz",
+        "path_type": "hardlink",
+        "sha256": "99348f41bff7caabe1e2822d733c67c02067b83dc06e76a158e82f4047ea2acf",
+        "sha256_in_prefix": "99348f41bff7caabe1e2822d733c67c02067b83dc06e76a158e82f4047ea2acf",
+        "size_in_bytes": 2393
+      },
+      {
+        "_path": "Library/usr/share/man/man3/libblkid.3.gz",
+        "path_type": "hardlink",
+        "sha256": "a6e117157e7e77a5c5cb69f57e844c40730d5b72c603737cf1d543a643645c4f",
+        "sha256_in_prefix": "a6e117157e7e77a5c5cb69f57e844c40730d5b72c603737cf1d543a643645c4f",
+        "size_in_bytes": 1548
+      },
+      {
+        "_path": "Library/usr/share/man/man3/uuid.3.gz",
+        "path_type": "hardlink",
+        "sha256": "47f1c549985326289691780d1f18031e113532a1bcb3ff2cb66f9f41fbfc31de",
+        "sha256_in_prefix": "47f1c549985326289691780d1f18031e113532a1bcb3ff2cb66f9f41fbfc31de",
+        "size_in_bytes": 1474
+      },
+      {
+        "_path": "Library/usr/share/man/man3/uuid_clear.3.gz",
+        "path_type": "hardlink",
+        "sha256": "88f09318e27d559872f4c8173c885bf3eb039f019f3de7be502c5cbba3fee876",
+        "sha256_in_prefix": "88f09318e27d559872f4c8173c885bf3eb039f019f3de7be502c5cbba3fee876",
+        "size_in_bytes": 1243
+      },
+      {
+        "_path": "Library/usr/share/man/man3/uuid_compare.3.gz",
+        "path_type": "hardlink",
+        "sha256": "ef2ee548022e3b982d5bc0926368ace3ac200ae06b35973ad53fe1b58c5d9aeb",
+        "sha256_in_prefix": "ef2ee548022e3b982d5bc0926368ace3ac200ae06b35973ad53fe1b58c5d9aeb",
+        "size_in_bytes": 1356
+      },
+      {
+        "_path": "Library/usr/share/man/man3/uuid_copy.3.gz",
+        "path_type": "hardlink",
+        "sha256": "3bea6addf9eb98bffb07aab56d5b9260745a3c1189b05bdabf8450e9c11db76e",
+        "sha256_in_prefix": "3bea6addf9eb98bffb07aab56d5b9260745a3c1189b05bdabf8450e9c11db76e",
+        "size_in_bytes": 1273
+      },
+      {
+        "_path": "Library/usr/share/man/man3/uuid_generate.3.gz",
+        "path_type": "hardlink",
+        "sha256": "8b8f881c27b4889ac1e2a99cc2e49623b6520a5755ddc2d5b4b9e1357f179b2f",
+        "sha256_in_prefix": "8b8f881c27b4889ac1e2a99cc2e49623b6520a5755ddc2d5b4b9e1357f179b2f",
+        "size_in_bytes": 2330
+      },
+      {
+        "_path": "Library/usr/share/man/man3/uuid_generate_random.3.gz",
+        "path_type": "hardlink",
+        "sha256": "b0d2db4230553c19a0a68d3d8230f3eaae57aa1de090ca7142400506214dfb34",
+        "sha256_in_prefix": "b0d2db4230553c19a0a68d3d8230f3eaae57aa1de090ca7142400506214dfb34",
+        "size_in_bytes": 45
+      },
+      {
+        "_path": "Library/usr/share/man/man3/uuid_generate_time.3.gz",
+        "path_type": "hardlink",
+        "sha256": "b0d2db4230553c19a0a68d3d8230f3eaae57aa1de090ca7142400506214dfb34",
+        "sha256_in_prefix": "b0d2db4230553c19a0a68d3d8230f3eaae57aa1de090ca7142400506214dfb34",
+        "size_in_bytes": 45
+      },
+      {
+        "_path": "Library/usr/share/man/man3/uuid_generate_time_safe.3.gz",
+        "path_type": "hardlink",
+        "sha256": "b0d2db4230553c19a0a68d3d8230f3eaae57aa1de090ca7142400506214dfb34",
+        "sha256_in_prefix": "b0d2db4230553c19a0a68d3d8230f3eaae57aa1de090ca7142400506214dfb34",
+        "size_in_bytes": 45
+      },
+      {
+        "_path": "Library/usr/share/man/man3/uuid_is_null.3.gz",
+        "path_type": "hardlink",
+        "sha256": "da3523ddbcf96f8579434e0ff240dba01b8ac3a04f61c499bbbccce4e6318908",
+        "sha256_in_prefix": "da3523ddbcf96f8579434e0ff240dba01b8ac3a04f61c499bbbccce4e6318908",
+        "size_in_bytes": 1281
+      },
+      {
+        "_path": "Library/usr/share/man/man3/uuid_parse.3.gz",
+        "path_type": "hardlink",
+        "sha256": "27f9150054c7b7bed0abcd8e62e5960442146c09f492da64a7c3ca0c552e20a4",
+        "sha256_in_prefix": "27f9150054c7b7bed0abcd8e62e5960442146c09f492da64a7c3ca0c552e20a4",
+        "size_in_bytes": 1477
+      },
+      {
+        "_path": "Library/usr/share/man/man3/uuid_time.3.gz",
+        "path_type": "hardlink",
+        "sha256": "56f01f2da352420359852c9265b42facdc44ae87d00a184789aba2a4919ce0a2",
+        "sha256_in_prefix": "56f01f2da352420359852c9265b42facdc44ae87d00a184789aba2a4919ce0a2",
+        "size_in_bytes": 1521
+      },
+      {
+        "_path": "Library/usr/share/man/man3/uuid_unparse.3.gz",
+        "path_type": "hardlink",
+        "sha256": "62b21aca3392a79d9d72673ac23c3b7a2d29611273c6c07a090cbc1476f5ab0d",
+        "sha256_in_prefix": "62b21aca3392a79d9d72673ac23c3b7a2d29611273c6c07a090cbc1476f5ab0d",
+        "size_in_bytes": 1516
+      },
+      {
+        "_path": "Library/usr/share/man/man5/terminal-colors.d.5.gz",
+        "path_type": "hardlink",
+        "sha256": "893a8d838e307aef1907ade7354c60b6e04246a9f320f1e6aa3c2608e849b584",
+        "sha256_in_prefix": "893a8d838e307aef1907ade7354c60b6e04246a9f320f1e6aa3c2608e849b584",
+        "size_in_bytes": 2036
+      },
+      {
+        "_path": "Library/usr/share/man/man8/agetty.8.gz",
+        "path_type": "hardlink",
+        "sha256": "f177b236bb245a05313f5ceb281d2eca1c43575699a33cf6055af001452d333b",
+        "sha256_in_prefix": "f177b236bb245a05313f5ceb281d2eca1c43575699a33cf6055af001452d333b",
+        "size_in_bytes": 6215
+      },
+      {
+        "_path": "Library/usr/share/man/man8/blkid.8.gz",
+        "path_type": "hardlink",
+        "sha256": "395afc760bd1ba2839d70edd310dda73adb99b87f81fb193b430e76103acf384",
+        "sha256_in_prefix": "395afc760bd1ba2839d70edd310dda73adb99b87f81fb193b430e76103acf384",
+        "size_in_bytes": 3919
+      },
+      {
+        "_path": "Library/usr/share/man/man8/cfdisk.8.gz",
+        "path_type": "hardlink",
+        "sha256": "fb3f39241554425ed16c74f6aa9ee24f6856991ce54af842cd237baad5e7ff75",
+        "sha256_in_prefix": "fb3f39241554425ed16c74f6aa9ee24f6856991ce54af842cd237baad5e7ff75",
+        "size_in_bytes": 2734
+      },
+      {
+        "_path": "Library/usr/share/man/man8/fdisk.8.gz",
+        "path_type": "hardlink",
+        "sha256": "f7061a09549b47a0255144de0d23b3927660904b5aaeaaf99cd6b6f088a8751c",
+        "sha256_in_prefix": "f7061a09549b47a0255144de0d23b3927660904b5aaeaaf99cd6b6f088a8751c",
+        "size_in_bytes": 5417
+      },
+      {
+        "_path": "Library/usr/share/man/man8/findfs.8.gz",
+        "path_type": "hardlink",
+        "sha256": "4cf39614714162bb9f70667727e9164b570cb5dd9ba30078eaf236f90878cad0",
+        "sha256_in_prefix": "4cf39614714162bb9f70667727e9164b570cb5dd9ba30078eaf236f90878cad0",
+        "size_in_bytes": 930
+      },
+      {
+        "_path": "Library/usr/share/man/man8/fsck.cramfs.8.gz",
+        "path_type": "hardlink",
+        "sha256": "2c089d9e67495e0f6061d9b5e1e131d9dbaa6271c6bb75252a1338d4b3c98d1d",
+        "sha256_in_prefix": "2c089d9e67495e0f6061d9b5e1e131d9dbaa6271c6bb75252a1338d4b3c98d1d",
+        "size_in_bytes": 690
+      },
+      {
+        "_path": "Library/usr/share/man/man8/fsck.minix.8.gz",
+        "path_type": "hardlink",
+        "sha256": "4c0eaaf4f938da987779763ed87d4c6e9de80edd9fe5b6f028aa4af399168915",
+        "sha256_in_prefix": "4c0eaaf4f938da987779763ed87d4c6e9de80edd9fe5b6f028aa4af399168915",
+        "size_in_bytes": 1797
+      },
+      {
+        "_path": "Library/usr/share/man/man8/isosize.8.gz",
+        "path_type": "hardlink",
+        "sha256": "e438baa8731151161da41a70c425926cf555a4d63adc57d7faa4160869c20fe7",
+        "sha256_in_prefix": "e438baa8731151161da41a70c425926cf555a4d63adc57d7faa4160869c20fe7",
+        "size_in_bytes": 747
+      },
+      {
+        "_path": "Library/usr/share/man/man8/mkfs.8.gz",
+        "path_type": "hardlink",
+        "sha256": "f14d062bcbf1515f505cc7caaf4abc902cf26e7d82599a16474e10737340d765",
+        "sha256_in_prefix": "f14d062bcbf1515f505cc7caaf4abc902cf26e7d82599a16474e10737340d765",
+        "size_in_bytes": 1344
+      },
+      {
+        "_path": "Library/usr/share/man/man8/mkfs.bfs.8.gz",
+        "path_type": "hardlink",
+        "sha256": "67ee2711cd0b4b69a46d87c3adca715947472c4b98d5181f96dfb66e2574a364",
+        "sha256_in_prefix": "67ee2711cd0b4b69a46d87c3adca715947472c4b98d5181f96dfb66e2574a364",
+        "size_in_bytes": 824
+      },
+      {
+        "_path": "Library/usr/share/man/man8/mkfs.cramfs.8.gz",
+        "path_type": "hardlink",
+        "sha256": "52a931ef80bd403d0642b1afc5dfffee352881d0ca80fbd6aa8d39bdfc13ef57",
+        "sha256_in_prefix": "52a931ef80bd403d0642b1afc5dfffee352881d0ca80fbd6aa8d39bdfc13ef57",
+        "size_in_bytes": 1170
+      },
+      {
+        "_path": "Library/usr/share/man/man8/mkfs.minix.8.gz",
+        "path_type": "hardlink",
+        "sha256": "857dd256f043da70d10a0d91bb0f998d270e5fccef44d0e7e305bccb4253c446",
+        "sha256_in_prefix": "857dd256f043da70d10a0d91bb0f998d270e5fccef44d0e7e305bccb4253c446",
+        "size_in_bytes": 1010
+      },
+      {
+        "_path": "Library/usr/share/man/man8/mkswap.8.gz",
+        "path_type": "hardlink",
+        "sha256": "a667c5b21339ba637ffd1bbcbabd775679ec98a7096dda564b76ce13e6743045",
+        "sha256_in_prefix": "a667c5b21339ba637ffd1bbcbabd775679ec98a7096dda564b76ce13e6743045",
+        "size_in_bytes": 1986
+      },
+      {
+        "_path": "Library/usr/share/man/man8/sfdisk.8.gz",
+        "path_type": "hardlink",
+        "sha256": "224afecc9cc4faca1613c6cb5f7588d08c42212752a348c8da6bc236e72ac056",
+        "sha256_in_prefix": "224afecc9cc4faca1613c6cb5f7588d08c42212752a348c8da6bc236e72ac056",
+        "size_in_bytes": 5103
+      },
+      {
+        "_path": "Library/usr/share/man/man8/swaplabel.8.gz",
+        "path_type": "hardlink",
+        "sha256": "5ad96d9874d2302ebea569f0a12566514db6a1ea139643c01fb16c993e288f1d",
+        "sha256_in_prefix": "5ad96d9874d2302ebea569f0a12566514db6a1ea139643c01fb16c993e288f1d",
+        "size_in_bytes": 895
+      },
+      {
+        "_path": "Library/usr/share/man/man8/uuidd.8.gz",
+        "path_type": "hardlink",
+        "sha256": "3bd8fb8ad84c92402d852f7de505eac4dc923f5239a864c7c21969a43a868176",
+        "sha256_in_prefix": "3bd8fb8ad84c92402d852f7de505eac4dc923f5239a864c7c21969a43a868176",
+        "size_in_bytes": 1304
+      },
+      {
+        "_path": "Library/usr/share/man/man8/wipefs.8.gz",
+        "path_type": "hardlink",
+        "sha256": "233b8c5419d1b858950a743b3732d315458e54d962efb8bc6abc09be9c2966d2",
+        "sha256_in_prefix": "233b8c5419d1b858950a743b3732d315458e54d962efb8bc6abc09be9c2966d2",
+        "size_in_bytes": 1855
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 1747364,
+  "subdir": "win-64",
+  "url": "https://conda.anaconda.org/msys2/win-64/m2-util-linux-2.26.2-2.tar.bz2",
+  "version": "2.26.2"
+}

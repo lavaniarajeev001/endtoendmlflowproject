@@ -1,0 +1,985 @@
+{
+  "build": "5",
+  "build_number": 5,
+  "channel": "https://conda.anaconda.org/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2-msys2-runtime",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "E:\\Anaconda\\pkgs\\m2-bash-4.3.042-5",
+  "files": [
+    "Library/usr/bin/bash.exe",
+    "Library/usr/bin/bashbug",
+    "Library/usr/bin/sh.exe",
+    "Library/usr/share/doc/bash/CHANGES",
+    "Library/usr/share/doc/bash/COMPAT",
+    "Library/usr/share/doc/bash/FAQ",
+    "Library/usr/share/doc/bash/INTRO",
+    "Library/usr/share/doc/bash/NEWS",
+    "Library/usr/share/doc/bash/POSIX",
+    "Library/usr/share/doc/bash/RBASH",
+    "Library/usr/share/doc/bash/README",
+    "Library/usr/share/doc/bash/bash.html",
+    "Library/usr/share/doc/bash/bashref.html",
+    "Library/usr/share/info/bash.info.gz",
+    "Library/usr/share/locale/af/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/bg/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/ca/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/cs/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/da/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/de/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/el/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/en@boldquot/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/en@quot/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/eo/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/es/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/et/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/fi/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/fr/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/ga/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/gl/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/hr/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/hu/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/id/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/it/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/ja/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/lt/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/nl/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/pl/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/pt_BR/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/ro/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/ru/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/sk/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/sl/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/sr/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/sv/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/tr/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/uk/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/vi/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/zh_CN/LC_MESSAGES/bash.mo",
+    "Library/usr/share/locale/zh_TW/LC_MESSAGES/bash.mo",
+    "Library/usr/share/man/man1/[.1.gz",
+    "Library/usr/share/man/man1/alias.1.gz",
+    "Library/usr/share/man/man1/bash.1.gz",
+    "Library/usr/share/man/man1/bash_builtins.1.gz",
+    "Library/usr/share/man/man1/bashbug.1.gz",
+    "Library/usr/share/man/man1/bg.1.gz",
+    "Library/usr/share/man/man1/bind.1.gz",
+    "Library/usr/share/man/man1/break.1.gz",
+    "Library/usr/share/man/man1/builtin.1.gz",
+    "Library/usr/share/man/man1/caller.1.gz",
+    "Library/usr/share/man/man1/case.1.gz",
+    "Library/usr/share/man/man1/cd.1.gz",
+    "Library/usr/share/man/man1/command.1.gz",
+    "Library/usr/share/man/man1/compgen.1.gz",
+    "Library/usr/share/man/man1/complete.1.gz",
+    "Library/usr/share/man/man1/continue.1.gz",
+    "Library/usr/share/man/man1/declare.1.gz",
+    "Library/usr/share/man/man1/dirs.1.gz",
+    "Library/usr/share/man/man1/disown.1.gz",
+    "Library/usr/share/man/man1/do.1.gz",
+    "Library/usr/share/man/man1/done.1.gz",
+    "Library/usr/share/man/man1/elif.1.gz",
+    "Library/usr/share/man/man1/else.1.gz",
+    "Library/usr/share/man/man1/enable.1.gz",
+    "Library/usr/share/man/man1/esac.1.gz",
+    "Library/usr/share/man/man1/eval.1.gz",
+    "Library/usr/share/man/man1/exec.1.gz",
+    "Library/usr/share/man/man1/exit.1.gz",
+    "Library/usr/share/man/man1/export.1.gz",
+    "Library/usr/share/man/man1/fc.1.gz",
+    "Library/usr/share/man/man1/fg.1.gz",
+    "Library/usr/share/man/man1/fi.1.gz",
+    "Library/usr/share/man/man1/for.1.gz",
+    "Library/usr/share/man/man1/function.1.gz",
+    "Library/usr/share/man/man1/getopts.1.gz",
+    "Library/usr/share/man/man1/hash.1.gz",
+    "Library/usr/share/man/man1/help.1.gz",
+    "Library/usr/share/man/man1/history.1.gz",
+    "Library/usr/share/man/man1/if.1.gz",
+    "Library/usr/share/man/man1/in.1.gz",
+    "Library/usr/share/man/man1/jobs.1.gz",
+    "Library/usr/share/man/man1/let.1.gz",
+    "Library/usr/share/man/man1/local.1.gz",
+    "Library/usr/share/man/man1/logout.1.gz",
+    "Library/usr/share/man/man1/popd.1.gz",
+    "Library/usr/share/man/man1/pushd.1.gz",
+    "Library/usr/share/man/man1/read.1.gz",
+    "Library/usr/share/man/man1/readonly.1.gz",
+    "Library/usr/share/man/man1/return.1.gz",
+    "Library/usr/share/man/man1/select.1.gz",
+    "Library/usr/share/man/man1/set.1.gz",
+    "Library/usr/share/man/man1/sh.1.gz",
+    "Library/usr/share/man/man1/shift.1.gz",
+    "Library/usr/share/man/man1/shopt.1.gz",
+    "Library/usr/share/man/man1/source.1.gz",
+    "Library/usr/share/man/man1/suspend.1.gz",
+    "Library/usr/share/man/man1/then.1.gz",
+    "Library/usr/share/man/man1/time.1.gz",
+    "Library/usr/share/man/man1/times.1.gz",
+    "Library/usr/share/man/man1/trap.1.gz",
+    "Library/usr/share/man/man1/type.1.gz",
+    "Library/usr/share/man/man1/typeset.1.gz",
+    "Library/usr/share/man/man1/ulimit.1.gz",
+    "Library/usr/share/man/man1/umask.1.gz",
+    "Library/usr/share/man/man1/unalias.1.gz",
+    "Library/usr/share/man/man1/unset.1.gz",
+    "Library/usr/share/man/man1/until.1.gz",
+    "Library/usr/share/man/man1/wait.1.gz",
+    "Library/usr/share/man/man1/while.1.gz",
+    ".nonadmin"
+  ],
+  "fn": "m2-bash-4.3.042-5.tar.bz2",
+  "license": "GPL",
+  "link": {
+    "source": "E:\\Anaconda\\pkgs\\m2-bash-4.3.042-5",
+    "type": 1
+  },
+  "md5": "cbad0d9c9c332c9304352e0e457845b0",
+  "name": "m2-bash",
+  "package_tarball_full_path": "E:\\Anaconda\\pkgs\\m2-bash-4.3.042-5.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/usr/bin/bash.exe",
+        "path_type": "hardlink",
+        "sha256": "cd910693a6e2cbe7734bb10a3e9f5f058287c0284fedc453f4bed66960e57919",
+        "sha256_in_prefix": "cd910693a6e2cbe7734bb10a3e9f5f058287c0284fedc453f4bed66960e57919",
+        "size_in_bytes": 2061314
+      },
+      {
+        "_path": "Library/usr/bin/bashbug",
+        "path_type": "hardlink",
+        "sha256": "fe2df48727a084fc9b02ee27aa2bb84eadaeb95d10fe6df5af29bde2d8f5f775",
+        "sha256_in_prefix": "fe2df48727a084fc9b02ee27aa2bb84eadaeb95d10fe6df5af29bde2d8f5f775",
+        "size_in_bytes": 6872
+      },
+      {
+        "_path": "Library/usr/bin/sh.exe",
+        "path_type": "hardlink",
+        "sha256": "cd910693a6e2cbe7734bb10a3e9f5f058287c0284fedc453f4bed66960e57919",
+        "sha256_in_prefix": "cd910693a6e2cbe7734bb10a3e9f5f058287c0284fedc453f4bed66960e57919",
+        "size_in_bytes": 2061314
+      },
+      {
+        "_path": "Library/usr/share/doc/bash/CHANGES",
+        "path_type": "hardlink",
+        "sha256": "a1c42076a7464105b6bedf4f5bd16dfefec922e632df6dca44f1f3eaf37d9a11",
+        "sha256_in_prefix": "a1c42076a7464105b6bedf4f5bd16dfefec922e632df6dca44f1f3eaf37d9a11",
+        "size_in_bytes": 315176
+      },
+      {
+        "_path": "Library/usr/share/doc/bash/COMPAT",
+        "path_type": "hardlink",
+        "sha256": "3152849f5bfd62b4928e88ba4f82d83f56e203cb51431799b306868b16959efb",
+        "sha256_in_prefix": "3152849f5bfd62b4928e88ba4f82d83f56e203cb51431799b306868b16959efb",
+        "size_in_bytes": 19000
+      },
+      {
+        "_path": "Library/usr/share/doc/bash/FAQ",
+        "path_type": "hardlink",
+        "sha256": "280f9cb044900c8882c7abc6202cf94b4aa59233d46e65cb44a2f64ade7e2a9b",
+        "sha256_in_prefix": "280f9cb044900c8882c7abc6202cf94b4aa59233d46e65cb44a2f64ade7e2a9b",
+        "size_in_bytes": 99588
+      },
+      {
+        "_path": "Library/usr/share/doc/bash/INTRO",
+        "path_type": "hardlink",
+        "sha256": "88d4f438af6af108d5970aed3a88208a295b6dafc2d55b549169bb0a372ec1fb",
+        "sha256_in_prefix": "88d4f438af6af108d5970aed3a88208a295b6dafc2d55b549169bb0a372ec1fb",
+        "size_in_bytes": 7072
+      },
+      {
+        "_path": "Library/usr/share/doc/bash/NEWS",
+        "path_type": "hardlink",
+        "sha256": "bca6721c8f554e3dae15cc7c5d371b41d37470025f724751c051d757970ca7c3",
+        "sha256_in_prefix": "bca6721c8f554e3dae15cc7c5d371b41d37470025f724751c051d757970ca7c3",
+        "size_in_bytes": 77335
+      },
+      {
+        "_path": "Library/usr/share/doc/bash/POSIX",
+        "path_type": "hardlink",
+        "sha256": "4e9618c07ce2780aeb125e894087f2e816d5fcd8272bcb866af12901811ce2b4",
+        "sha256_in_prefix": "4e9618c07ce2780aeb125e894087f2e816d5fcd8272bcb866af12901811ce2b4",
+        "size_in_bytes": 9279
+      },
+      {
+        "_path": "Library/usr/share/doc/bash/RBASH",
+        "path_type": "hardlink",
+        "sha256": "7f04cb5f0992e22209ac556d71a3d4d155caa27cad06f1cfb3fe56f5664fa552",
+        "sha256_in_prefix": "7f04cb5f0992e22209ac556d71a3d4d155caa27cad06f1cfb3fe56f5664fa552",
+        "size_in_bytes": 1705
+      },
+      {
+        "_path": "Library/usr/share/doc/bash/README",
+        "path_type": "hardlink",
+        "sha256": "d630a5c6c5b9212991dba6a6e33424943175a52898afd1d46de6cbe07c0a8e00",
+        "sha256_in_prefix": "d630a5c6c5b9212991dba6a6e33424943175a52898afd1d46de6cbe07c0a8e00",
+        "size_in_bytes": 3839
+      },
+      {
+        "_path": "Library/usr/share/doc/bash/bash.html",
+        "path_type": "hardlink",
+        "sha256": "ef98b1236005b3bc8ded07fea987001acc11886e8534673f65b4ab63eea2ce71",
+        "sha256_in_prefix": "ef98b1236005b3bc8ded07fea987001acc11886e8534673f65b4ab63eea2ce71",
+        "size_in_bytes": 329685
+      },
+      {
+        "_path": "Library/usr/share/doc/bash/bashref.html",
+        "path_type": "hardlink",
+        "sha256": "2d6513ab03fc8c5cc37e02bebd86b34bb2e1667c9bb3f2ac53d1fb1428834298",
+        "sha256_in_prefix": "2d6513ab03fc8c5cc37e02bebd86b34bb2e1667c9bb3f2ac53d1fb1428834298",
+        "size_in_bytes": 842052
+      },
+      {
+        "_path": "Library/usr/share/info/bash.info.gz",
+        "path_type": "hardlink",
+        "sha256": "271b42130c203aa877a8c357076266d05f8ede054fb7121c3fa61ced2339622f",
+        "sha256_in_prefix": "271b42130c203aa877a8c357076266d05f8ede054fb7121c3fa61ced2339622f",
+        "size_in_bytes": 131328
+      },
+      {
+        "_path": "Library/usr/share/locale/af/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "d1abddd71218221b4fd1879ce174f98ac927887bfa8094cd8bbd3431a7297644",
+        "sha256_in_prefix": "d1abddd71218221b4fd1879ce174f98ac927887bfa8094cd8bbd3431a7297644",
+        "size_in_bytes": 1244
+      },
+      {
+        "_path": "Library/usr/share/locale/bg/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "4cd3926129705ef3e610b767f7f7e8a70b3a0e55183ded82f195cc42db91766c",
+        "sha256_in_prefix": "4cd3926129705ef3e610b767f7f7e8a70b3a0e55183ded82f195cc42db91766c",
+        "size_in_bytes": 235979
+      },
+      {
+        "_path": "Library/usr/share/locale/ca/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "ebdb807cf9f002dd35fdf072c1d2f45ff55027f9cd696fcadbce7ffa945cd20b",
+        "sha256_in_prefix": "ebdb807cf9f002dd35fdf072c1d2f45ff55027f9cd696fcadbce7ffa945cd20b",
+        "size_in_bytes": 9739
+      },
+      {
+        "_path": "Library/usr/share/locale/cs/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "b80c5bfdd12ce6095dc409a69b36720caadd19d3d1534570c3ef851f9293c6ed",
+        "sha256_in_prefix": "b80c5bfdd12ce6095dc409a69b36720caadd19d3d1534570c3ef851f9293c6ed",
+        "size_in_bytes": 173589
+      },
+      {
+        "_path": "Library/usr/share/locale/da/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "1cbe47d205e7bcc89880fc09be372ee707bb518e3f9cf1de9c3b22801370ab79",
+        "sha256_in_prefix": "1cbe47d205e7bcc89880fc09be372ee707bb518e3f9cf1de9c3b22801370ab79",
+        "size_in_bytes": 100735
+      },
+      {
+        "_path": "Library/usr/share/locale/de/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "6ab58d432eecae38f1cb455c91ac8b56d79a6fdc56074916a0f8b80620e02802",
+        "sha256_in_prefix": "6ab58d432eecae38f1cb455c91ac8b56d79a6fdc56074916a0f8b80620e02802",
+        "size_in_bytes": 89921
+      },
+      {
+        "_path": "Library/usr/share/locale/el/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "9251ddb2149adde18e36e03f9197077f46466f81668ea7d59414c77fd80398a6",
+        "sha256_in_prefix": "9251ddb2149adde18e36e03f9197077f46466f81668ea7d59414c77fd80398a6",
+        "size_in_bytes": 37185
+      },
+      {
+        "_path": "Library/usr/share/locale/en@boldquot/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "e5af7281f7d662d0e34b2b37e09f00258c318564a5b7b19d22175781cfa2bf6d",
+        "sha256_in_prefix": "e5af7281f7d662d0e34b2b37e09f00258c318564a5b7b19d22175781cfa2bf6d",
+        "size_in_bytes": 165724
+      },
+      {
+        "_path": "Library/usr/share/locale/en@quot/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "86a6b6d9eb4149691e6ed476a6970cf3a07d93b8bf27f5244a8f0ab5345937e8",
+        "sha256_in_prefix": "86a6b6d9eb4149691e6ed476a6970cf3a07d93b8bf27f5244a8f0ab5345937e8",
+        "size_in_bytes": 164132
+      },
+      {
+        "_path": "Library/usr/share/locale/eo/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "09948a512dc2f48f367458b82c2ed0ed983cdadab5d5135bad16fbd3180a5bd4",
+        "sha256_in_prefix": "09948a512dc2f48f367458b82c2ed0ed983cdadab5d5135bad16fbd3180a5bd4",
+        "size_in_bytes": 161232
+      },
+      {
+        "_path": "Library/usr/share/locale/es/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "dc94283271c2f7ebb7af7c7a606038d6ab533b6e9e5627293671685e82d6e466",
+        "sha256_in_prefix": "dc94283271c2f7ebb7af7c7a606038d6ab533b6e9e5627293671685e82d6e466",
+        "size_in_bytes": 122470
+      },
+      {
+        "_path": "Library/usr/share/locale/et/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "bb4e26980923bdfdcbf4cd4dadfa282d6c1a9cd6f86c718fd6c96c33232b9722",
+        "sha256_in_prefix": "bb4e26980923bdfdcbf4cd4dadfa282d6c1a9cd6f86c718fd6c96c33232b9722",
+        "size_in_bytes": 12133
+      },
+      {
+        "_path": "Library/usr/share/locale/fi/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "c0da92904ac4a9a8e58b7081cff6b1e71dde476ac19682f803a661646d498a97",
+        "sha256_in_prefix": "c0da92904ac4a9a8e58b7081cff6b1e71dde476ac19682f803a661646d498a97",
+        "size_in_bytes": 102765
+      },
+      {
+        "_path": "Library/usr/share/locale/fr/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "c67c5d04bd0ba166b379eb7be5d46f35facea26d2660b128614e111fe0e3d12e",
+        "sha256_in_prefix": "c67c5d04bd0ba166b379eb7be5d46f35facea26d2660b128614e111fe0e3d12e",
+        "size_in_bytes": 126213
+      },
+      {
+        "_path": "Library/usr/share/locale/ga/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "6595b01aa67bd637ed93c6bb7f8aaf8a6ced41c873c3a7f2b68f8f2fa1f1a503",
+        "sha256_in_prefix": "6595b01aa67bd637ed93c6bb7f8aaf8a6ced41c873c3a7f2b68f8f2fa1f1a503",
+        "size_in_bytes": 58471
+      },
+      {
+        "_path": "Library/usr/share/locale/gl/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "6950728ab0a01a213d15d1bc502caba1c0e0e2eb8e434832f3eb3c674383ba7d",
+        "sha256_in_prefix": "6950728ab0a01a213d15d1bc502caba1c0e0e2eb8e434832f3eb3c674383ba7d",
+        "size_in_bytes": 63233
+      },
+      {
+        "_path": "Library/usr/share/locale/hr/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "1abf29ac9eff4e7e73bbc04a5507849d2d3891e64189613be7b1654d7798c5e3",
+        "sha256_in_prefix": "1abf29ac9eff4e7e73bbc04a5507849d2d3891e64189613be7b1654d7798c5e3",
+        "size_in_bytes": 34075
+      },
+      {
+        "_path": "Library/usr/share/locale/hu/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "d139bab9128d6d102824df763d76d26f9a36f420e97a603f094b39ca87c2a506",
+        "sha256_in_prefix": "d139bab9128d6d102824df763d76d26f9a36f420e97a603f094b39ca87c2a506",
+        "size_in_bytes": 110947
+      },
+      {
+        "_path": "Library/usr/share/locale/id/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "bfcbe1619e5e860b078fc58dc4dc265cef6d24c541ce0ab2493cc9f9a10a85e9",
+        "sha256_in_prefix": "bfcbe1619e5e860b078fc58dc4dc265cef6d24c541ce0ab2493cc9f9a10a85e9",
+        "size_in_bytes": 108579
+      },
+      {
+        "_path": "Library/usr/share/locale/it/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "e7e0718dcb136955ef2e49e4035437fc9b317990cc0eca81f786b44e1aeb56b3",
+        "sha256_in_prefix": "e7e0718dcb136955ef2e49e4035437fc9b317990cc0eca81f786b44e1aeb56b3",
+        "size_in_bytes": 122520
+      },
+      {
+        "_path": "Library/usr/share/locale/ja/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "59c2b4ee57e93ac582d696e6c4d757d28e69c461a8babfd79b7d0d309bdbe87d",
+        "sha256_in_prefix": "59c2b4ee57e93ac582d696e6c4d757d28e69c461a8babfd79b7d0d309bdbe87d",
+        "size_in_bytes": 133748
+      },
+      {
+        "_path": "Library/usr/share/locale/lt/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "20f5a073323cf15257bb81ee1736996da8be4a7dca9fc7e75de50c59d3b6e435",
+        "sha256_in_prefix": "20f5a073323cf15257bb81ee1736996da8be4a7dca9fc7e75de50c59d3b6e435",
+        "size_in_bytes": 29354
+      },
+      {
+        "_path": "Library/usr/share/locale/nl/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "dd653bc30ec8aa9d346080088463107d436e28b86b96768c5d1ffb5b76dcdbfa",
+        "sha256_in_prefix": "dd653bc30ec8aa9d346080088463107d436e28b86b96768c5d1ffb5b76dcdbfa",
+        "size_in_bytes": 170658
+      },
+      {
+        "_path": "Library/usr/share/locale/pl/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "953583daaf28ff4391b1ba27909ebadb89792d0e6c3e9f11b935829e2a83e942",
+        "sha256_in_prefix": "953583daaf28ff4391b1ba27909ebadb89792d0e6c3e9f11b935829e2a83e942",
+        "size_in_bytes": 173751
+      },
+      {
+        "_path": "Library/usr/share/locale/pt_BR/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "85449636b4802b5296ec6d106f501c7a51f8e1b6ba1cd2e7153ba4422829b100",
+        "sha256_in_prefix": "85449636b4802b5296ec6d106f501c7a51f8e1b6ba1cd2e7153ba4422829b100",
+        "size_in_bytes": 9580
+      },
+      {
+        "_path": "Library/usr/share/locale/ro/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "4654c00715bd446490a1b1c4ede93b6ce913583ae3d89a1e1a7ac783cdd87e2e",
+        "sha256_in_prefix": "4654c00715bd446490a1b1c4ede93b6ce913583ae3d89a1e1a7ac783cdd87e2e",
+        "size_in_bytes": 9358
+      },
+      {
+        "_path": "Library/usr/share/locale/ru/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "3f325b00abc9ab56d4ecaa81d6480dc1a563611594777a4c9c7616de1fca4981",
+        "sha256_in_prefix": "3f325b00abc9ab56d4ecaa81d6480dc1a563611594777a4c9c7616de1fca4981",
+        "size_in_bytes": 9155
+      },
+      {
+        "_path": "Library/usr/share/locale/sk/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "d17203fcf5a8b79125a04e0117b84f0c95becb36c98dcaf84246c276878ea9df",
+        "sha256_in_prefix": "d17203fcf5a8b79125a04e0117b84f0c95becb36c98dcaf84246c276878ea9df",
+        "size_in_bytes": 121115
+      },
+      {
+        "_path": "Library/usr/share/locale/sl/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "069ce3269070a4b996ddaa6edba290677ef92c6cfd89bbb51603891bbe2f1040",
+        "sha256_in_prefix": "069ce3269070a4b996ddaa6edba290677ef92c6cfd89bbb51603891bbe2f1040",
+        "size_in_bytes": 117289
+      },
+      {
+        "_path": "Library/usr/share/locale/sr/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "d53a5f027a277dda22d4902e36a6874eec118a3a59d2176520a8bae3fd8520ab",
+        "sha256_in_prefix": "d53a5f027a277dda22d4902e36a6874eec118a3a59d2176520a8bae3fd8520ab",
+        "size_in_bytes": 219040
+      },
+      {
+        "_path": "Library/usr/share/locale/sv/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "7d7432c51118c4e30beef86373e6e0cab5a6c5dece38fb20c4e847493cf41aa5",
+        "sha256_in_prefix": "7d7432c51118c4e30beef86373e6e0cab5a6c5dece38fb20c4e847493cf41aa5",
+        "size_in_bytes": 165974
+      },
+      {
+        "_path": "Library/usr/share/locale/tr/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "5b7db609b0064e0a5cf8f0a18386ae877224c0b22e359e732eeaeab1c0222e02",
+        "sha256_in_prefix": "5b7db609b0064e0a5cf8f0a18386ae877224c0b22e359e732eeaeab1c0222e02",
+        "size_in_bytes": 88390
+      },
+      {
+        "_path": "Library/usr/share/locale/uk/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "f20020864f07c9cedbbf261f0a8c740051f6f98bee480b430cd4fd0204de07e6",
+        "sha256_in_prefix": "f20020864f07c9cedbbf261f0a8c740051f6f98bee480b430cd4fd0204de07e6",
+        "size_in_bytes": 222687
+      },
+      {
+        "_path": "Library/usr/share/locale/vi/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "ddf10c0800ad9516f571100189c7f4cad084f903b0b27054bda05461a0fb1cb0",
+        "sha256_in_prefix": "ddf10c0800ad9516f571100189c7f4cad084f903b0b27054bda05461a0fb1cb0",
+        "size_in_bytes": 179349
+      },
+      {
+        "_path": "Library/usr/share/locale/zh_CN/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "1332f452f8838144bdcee9a63fdb0c3a7a10074d9c509e7e2c62d74d410cde28",
+        "sha256_in_prefix": "1332f452f8838144bdcee9a63fdb0c3a7a10074d9c509e7e2c62d74d410cde28",
+        "size_in_bytes": 102094
+      },
+      {
+        "_path": "Library/usr/share/locale/zh_TW/LC_MESSAGES/bash.mo",
+        "path_type": "hardlink",
+        "sha256": "4079a7d60fbe356280e0f5713768097b43a6b21f83ba10102a19ccba10e9f1c6",
+        "sha256_in_prefix": "4079a7d60fbe356280e0f5713768097b43a6b21f83ba10102a19ccba10e9f1c6",
+        "size_in_bytes": 5876
+      },
+      {
+        "_path": "Library/usr/share/man/man1/[.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/alias.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/bash.1.gz",
+        "path_type": "hardlink",
+        "sha256": "1cb95a0e185356c4342cfb3a42e874534520b270204fe68f8b8387e6636ac92c",
+        "sha256_in_prefix": "1cb95a0e185356c4342cfb3a42e874534520b270204fe68f8b8387e6636ac92c",
+        "size_in_bytes": 83750
+      },
+      {
+        "_path": "Library/usr/share/man/man1/bash_builtins.1.gz",
+        "path_type": "hardlink",
+        "sha256": "75d998d906afafe468b25fcf768da0d85d61aa0e275de1eaa83b1eaf1a32c495",
+        "sha256_in_prefix": "75d998d906afafe468b25fcf768da0d85d61aa0e275de1eaa83b1eaf1a32c495",
+        "size_in_bytes": 564
+      },
+      {
+        "_path": "Library/usr/share/man/man1/bashbug.1.gz",
+        "path_type": "hardlink",
+        "sha256": "7a02f625d6d318a9cfa27258db0c9743986ae2c978f893b3f1825db454b90b27",
+        "sha256_in_prefix": "7a02f625d6d318a9cfa27258db0c9743986ae2c978f893b3f1825db454b90b27",
+        "size_in_bytes": 934
+      },
+      {
+        "_path": "Library/usr/share/man/man1/bg.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/bind.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/break.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/builtin.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/caller.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/case.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/cd.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/command.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/compgen.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/complete.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/continue.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/declare.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/dirs.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/disown.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/do.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/done.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/elif.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/else.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/enable.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/esac.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/eval.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/exec.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/exit.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/export.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/fc.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/fg.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/fi.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/for.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/function.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/getopts.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/hash.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/help.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/history.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/if.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/in.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/jobs.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/let.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/local.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/logout.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/popd.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/pushd.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/read.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/readonly.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/return.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/select.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/set.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/sh.1.gz",
+        "path_type": "hardlink",
+        "sha256": "34cb24b40f839a62cc13a1c61c1df56325844b19e3ede8c13cdb7572baea52d0",
+        "sha256_in_prefix": "34cb24b40f839a62cc13a1c61c1df56325844b19e3ede8c13cdb7572baea52d0",
+        "size_in_bytes": 36
+      },
+      {
+        "_path": "Library/usr/share/man/man1/shift.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/shopt.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/source.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/suspend.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/then.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/time.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/times.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/trap.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/type.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/typeset.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/ulimit.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/umask.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/unalias.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/unset.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/until.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/wait.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/usr/share/man/man1/while.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "sha256_in_prefix": "4e01f4317728b5cd56ac7cb4c7c068bc838f471f429074fc5dda4d0880ad0496",
+        "size_in_bytes": 56
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 3684402,
+  "subdir": "win-64",
+  "url": "https://conda.anaconda.org/msys2/win-64/m2-bash-4.3.042-5.tar.bz2",
+  "version": "4.3.042"
+}

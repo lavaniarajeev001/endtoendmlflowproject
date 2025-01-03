@@ -1,0 +1,1403 @@
+{
+  "build": "4",
+  "build_number": 4,
+  "channel": "https://conda.anaconda.org/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2-libasprintf",
+    "m2-libgettextpo",
+    "m2-libintl",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "E:\\Anaconda\\pkgs\\m2-gettext-0.19.7-4",
+  "files": [
+    "Library/usr/bin/autopoint",
+    "Library/usr/bin/envsubst.exe",
+    "Library/usr/bin/gettext.exe",
+    "Library/usr/bin/gettext.sh",
+    "Library/usr/bin/gettextize",
+    "Library/usr/bin/msgattrib.exe",
+    "Library/usr/bin/msgcat.exe",
+    "Library/usr/bin/msgcmp.exe",
+    "Library/usr/bin/msgcomm.exe",
+    "Library/usr/bin/msgconv.exe",
+    "Library/usr/bin/msgen.exe",
+    "Library/usr/bin/msgexec.exe",
+    "Library/usr/bin/msgfilter.exe",
+    "Library/usr/bin/msgfmt.exe",
+    "Library/usr/bin/msggrep.exe",
+    "Library/usr/bin/msginit.exe",
+    "Library/usr/bin/msgmerge.exe",
+    "Library/usr/bin/msgunfmt.exe",
+    "Library/usr/bin/msguniq.exe",
+    "Library/usr/bin/msys-gettextlib-0-19-7.dll",
+    "Library/usr/bin/msys-gettextsrc-0-19-7.dll",
+    "Library/usr/bin/ngettext.exe",
+    "Library/usr/bin/recode-sr-latin.exe",
+    "Library/usr/bin/xgettext.exe",
+    "Library/usr/lib/gettext/cldr-plurals.exe",
+    "Library/usr/lib/gettext/hostname.exe",
+    "Library/usr/lib/gettext/project-id",
+    "Library/usr/lib/gettext/urlget.exe",
+    "Library/usr/lib/gettext/user-email",
+    "Library/usr/share/aclocal/codeset.m4",
+    "Library/usr/share/aclocal/extern-inline.m4",
+    "Library/usr/share/aclocal/fcntl-o.m4",
+    "Library/usr/share/aclocal/gettext.m4",
+    "Library/usr/share/aclocal/glibc2.m4",
+    "Library/usr/share/aclocal/glibc21.m4",
+    "Library/usr/share/aclocal/iconv.m4",
+    "Library/usr/share/aclocal/intdiv0.m4",
+    "Library/usr/share/aclocal/intl.m4",
+    "Library/usr/share/aclocal/intldir.m4",
+    "Library/usr/share/aclocal/intlmacosx.m4",
+    "Library/usr/share/aclocal/intmax.m4",
+    "Library/usr/share/aclocal/inttypes-pri.m4",
+    "Library/usr/share/aclocal/inttypes_h.m4",
+    "Library/usr/share/aclocal/lcmessage.m4",
+    "Library/usr/share/aclocal/lib-ld.m4",
+    "Library/usr/share/aclocal/lib-link.m4",
+    "Library/usr/share/aclocal/lib-prefix.m4",
+    "Library/usr/share/aclocal/lock.m4",
+    "Library/usr/share/aclocal/longlong.m4",
+    "Library/usr/share/aclocal/nls.m4",
+    "Library/usr/share/aclocal/po.m4",
+    "Library/usr/share/aclocal/printf-posix.m4",
+    "Library/usr/share/aclocal/progtest.m4",
+    "Library/usr/share/aclocal/size_max.m4",
+    "Library/usr/share/aclocal/stdint_h.m4",
+    "Library/usr/share/aclocal/threadlib.m4",
+    "Library/usr/share/aclocal/uintmax_t.m4",
+    "Library/usr/share/aclocal/visibility.m4",
+    "Library/usr/share/aclocal/wchar_t.m4",
+    "Library/usr/share/aclocal/wint_t.m4",
+    "Library/usr/share/aclocal/xsize.m4",
+    "Library/usr/share/info/autosprintf.info.gz",
+    "Library/usr/share/info/gettext.info.gz",
+    "Library/usr/share/locale/be/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/be/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/bg/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/bg/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/ca/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/ca/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/cs/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/cs/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/da/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/da/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/de/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/de/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/el/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/el/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/en@boldquot/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/en@boldquot/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/en@quot/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/en@quot/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/eo/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/es/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/es/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/et/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/et/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/eu/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/fi/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/fi/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/fr/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/fr/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/ga/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/gl/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/gl/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/hr/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/hu/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/id/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/id/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/it/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/it/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/ja/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/ja/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/ko/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/ko/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/locale.alias",
+    "Library/usr/share/locale/nb/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/nb/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/nl/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/nl/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/nn/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/nn/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/pa/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/pl/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/pl/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/pt/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/pt/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/pt_BR/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/pt_BR/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/ro/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/ro/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/ru/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/ru/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/sk/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/sk/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/sl/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/sl/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/sr/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/sr/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/sv/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/sv/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/tr/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/tr/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/uk/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/uk/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/vi/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/vi/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/zh_CN/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/zh_CN/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/locale/zh_HK/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/zh_TW/LC_MESSAGES/gettext-runtime.mo",
+    "Library/usr/share/locale/zh_TW/LC_MESSAGES/gettext-tools.mo",
+    "Library/usr/share/man/man1/autopoint.1.gz",
+    "Library/usr/share/man/man1/envsubst.1.gz",
+    "Library/usr/share/man/man1/gettext.1.gz",
+    "Library/usr/share/man/man1/gettextize.1.gz",
+    "Library/usr/share/man/man1/msgattrib.1.gz",
+    "Library/usr/share/man/man1/msgcat.1.gz",
+    "Library/usr/share/man/man1/msgcmp.1.gz",
+    "Library/usr/share/man/man1/msgcomm.1.gz",
+    "Library/usr/share/man/man1/msgconv.1.gz",
+    "Library/usr/share/man/man1/msgen.1.gz",
+    "Library/usr/share/man/man1/msgexec.1.gz",
+    "Library/usr/share/man/man1/msgfilter.1.gz",
+    "Library/usr/share/man/man1/msgfmt.1.gz",
+    "Library/usr/share/man/man1/msggrep.1.gz",
+    "Library/usr/share/man/man1/msginit.1.gz",
+    "Library/usr/share/man/man1/msgmerge.1.gz",
+    "Library/usr/share/man/man1/msgunfmt.1.gz",
+    "Library/usr/share/man/man1/msguniq.1.gz",
+    "Library/usr/share/man/man1/ngettext.1.gz",
+    "Library/usr/share/man/man1/recode-sr-latin.1.gz",
+    "Library/usr/share/man/man1/xgettext.1.gz",
+    "Library/usr/share/man/man3/bind_textdomain_codeset.3.gz",
+    "Library/usr/share/man/man3/bindtextdomain.3.gz",
+    "Library/usr/share/man/man3/dcgettext.3.gz",
+    "Library/usr/share/man/man3/dcngettext.3.gz",
+    "Library/usr/share/man/man3/dgettext.3.gz",
+    "Library/usr/share/man/man3/dngettext.3.gz",
+    "Library/usr/share/man/man3/gettext.3.gz",
+    "Library/usr/share/man/man3/ngettext.3.gz",
+    "Library/usr/share/man/man3/textdomain.3.gz",
+    ".nonadmin"
+  ],
+  "fn": "m2-gettext-0.19.7-4.tar.bz2",
+  "license": "GPL",
+  "link": {
+    "source": "E:\\Anaconda\\pkgs\\m2-gettext-0.19.7-4",
+    "type": 1
+  },
+  "md5": "052cd9076f2c435721b75eee88dd7916",
+  "name": "m2-gettext",
+  "package_tarball_full_path": "E:\\Anaconda\\pkgs\\m2-gettext-0.19.7-4.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/usr/bin/autopoint",
+        "path_type": "hardlink",
+        "sha256": "d6ef30e6c7b4b630016d5f05b2a22d08d46e5f50f56abf028e11e4356f726584",
+        "sha256_in_prefix": "d6ef30e6c7b4b630016d5f05b2a22d08d46e5f50f56abf028e11e4356f726584",
+        "size_in_bytes": 26607
+      },
+      {
+        "_path": "Library/usr/bin/envsubst.exe",
+        "path_type": "hardlink",
+        "sha256": "2ac1fad34b54be0499a043e3b4c642a3d81940f8f21341e350bf65298a01466d",
+        "sha256_in_prefix": "2ac1fad34b54be0499a043e3b4c642a3d81940f8f21341e350bf65298a01466d",
+        "size_in_bytes": 37198
+      },
+      {
+        "_path": "Library/usr/bin/gettext.exe",
+        "path_type": "hardlink",
+        "sha256": "6348a5ed44a398966156cedd9a65f9fc097fd5ec8388bddb9d06baaf91d6cc64",
+        "sha256_in_prefix": "6348a5ed44a398966156cedd9a65f9fc097fd5ec8388bddb9d06baaf91d6cc64",
+        "size_in_bytes": 37181
+      },
+      {
+        "_path": "Library/usr/bin/gettext.sh",
+        "path_type": "hardlink",
+        "sha256": "b5d1b922dd63cd9e1e905047709634dd5642f52755c411a84f336928bb01b3c7",
+        "sha256_in_prefix": "b5d1b922dd63cd9e1e905047709634dd5642f52755c411a84f336928bb01b3c7",
+        "size_in_bytes": 4624
+      },
+      {
+        "_path": "Library/usr/bin/gettextize",
+        "path_type": "hardlink",
+        "sha256": "5791f41a84af42a86a3fab72eb320058566a5f17df27a623d758cb3094f65332",
+        "sha256_in_prefix": "5791f41a84af42a86a3fab72eb320058566a5f17df27a623d758cb3094f65332",
+        "size_in_bytes": 43751
+      },
+      {
+        "_path": "Library/usr/bin/msgattrib.exe",
+        "path_type": "hardlink",
+        "sha256": "9dae325f16808791953f8ba9bcc9374eaba28a9c15cf6b52dd0a4607b6a31ec3",
+        "sha256_in_prefix": "9dae325f16808791953f8ba9bcc9374eaba28a9c15cf6b52dd0a4607b6a31ec3",
+        "size_in_bytes": 24972
+      },
+      {
+        "_path": "Library/usr/bin/msgcat.exe",
+        "path_type": "hardlink",
+        "sha256": "2f39190ebfd21317c5f093c46f0d9f6e92d95b446056076714a1da30b691a4e9",
+        "sha256_in_prefix": "2f39190ebfd21317c5f093c46f0d9f6e92d95b446056076714a1da30b691a4e9",
+        "size_in_bytes": 23783
+      },
+      {
+        "_path": "Library/usr/bin/msgcmp.exe",
+        "path_type": "hardlink",
+        "sha256": "ab34c82effa23d31f2ca291caa0dcd236bb869dedd04df0edbd10a925110dc0e",
+        "sha256_in_prefix": "ab34c82effa23d31f2ca291caa0dcd236bb869dedd04df0edbd10a925110dc0e",
+        "size_in_bytes": 24199
+      },
+      {
+        "_path": "Library/usr/bin/msgcomm.exe",
+        "path_type": "hardlink",
+        "sha256": "7abf5bf1459a7440f0b53df62747501bfdb5a4423fbe53de4043b686453e1c61",
+        "sha256_in_prefix": "7abf5bf1459a7440f0b53df62747501bfdb5a4423fbe53de4043b686453e1c61",
+        "size_in_bytes": 24025
+      },
+      {
+        "_path": "Library/usr/bin/msgconv.exe",
+        "path_type": "hardlink",
+        "sha256": "1dfc3aafc3fb9a2917f2e501af237d34c01e18d93bfaef3a85f0871368ae1b2c",
+        "sha256_in_prefix": "1dfc3aafc3fb9a2917f2e501af237d34c01e18d93bfaef3a85f0871368ae1b2c",
+        "size_in_bytes": 21235
+      },
+      {
+        "_path": "Library/usr/bin/msgen.exe",
+        "path_type": "hardlink",
+        "sha256": "ef5b3d5a1298f7069bf6b76941bb99c6a68fa454f8248da05b0a25b1e5d738a8",
+        "sha256_in_prefix": "ef5b3d5a1298f7069bf6b76941bb99c6a68fa454f8248da05b0a25b1e5d738a8",
+        "size_in_bytes": 21254
+      },
+      {
+        "_path": "Library/usr/bin/msgexec.exe",
+        "path_type": "hardlink",
+        "sha256": "adbbc0b40cdbede1e34cc5e9a7f0eca8d40db379029f5070e220af6968ccba47",
+        "sha256_in_prefix": "adbbc0b40cdbede1e34cc5e9a7f0eca8d40db379029f5070e220af6968ccba47",
+        "size_in_bytes": 18598
+      },
+      {
+        "_path": "Library/usr/bin/msgfilter.exe",
+        "path_type": "hardlink",
+        "sha256": "462c997150e79567603519ef988762d1b51a2a3c92d9f42a70bbb86ff4fa9985",
+        "sha256_in_prefix": "462c997150e79567603519ef988762d1b51a2a3c92d9f42a70bbb86ff4fa9985",
+        "size_in_bytes": 28491
+      },
+      {
+        "_path": "Library/usr/bin/msgfmt.exe",
+        "path_type": "hardlink",
+        "sha256": "2a47dbbdb1f8a048985bc89e806e58b14170f51e360be72270741a2f39017cc0",
+        "sha256_in_prefix": "2a47dbbdb1f8a048985bc89e806e58b14170f51e360be72270741a2f39017cc0",
+        "size_in_bytes": 78948
+      },
+      {
+        "_path": "Library/usr/bin/msggrep.exe",
+        "path_type": "hardlink",
+        "sha256": "7ba1b0f82b6543360820cc156c29855e652d5d9b261bf1f702d8387bd1c7c6f8",
+        "sha256_in_prefix": "7ba1b0f82b6543360820cc156c29855e652d5d9b261bf1f702d8387bd1c7c6f8",
+        "size_in_bytes": 98464
+      },
+      {
+        "_path": "Library/usr/bin/msginit.exe",
+        "path_type": "hardlink",
+        "sha256": "0987ed73deaa8a235898e2fff813f38d06d7eb2e7b12e0bd699be0c629515633",
+        "sha256_in_prefix": "0987ed73deaa8a235898e2fff813f38d06d7eb2e7b12e0bd699be0c629515633",
+        "size_in_bytes": 46906
+      },
+      {
+        "_path": "Library/usr/bin/msgmerge.exe",
+        "path_type": "hardlink",
+        "sha256": "d3ab0a6669907dbae706ef55e071dc49bec5ce6601380d11668736325a33dc7f",
+        "sha256_in_prefix": "d3ab0a6669907dbae706ef55e071dc49bec5ce6601380d11668736325a33dc7f",
+        "size_in_bytes": 53104
+      },
+      {
+        "_path": "Library/usr/bin/msgunfmt.exe",
+        "path_type": "hardlink",
+        "sha256": "95ecce2160982623a376a0af50b7c0dce4a382df7ec6501187ba2ff7a58f73b3",
+        "sha256_in_prefix": "95ecce2160982623a376a0af50b7c0dce4a382df7ec6501187ba2ff7a58f73b3",
+        "size_in_bytes": 31034
+      },
+      {
+        "_path": "Library/usr/bin/msguniq.exe",
+        "path_type": "hardlink",
+        "sha256": "7295bb22efa30e5f166a7ee978ed89f869b6daca3a202631475e8d3bb763946a",
+        "sha256_in_prefix": "7295bb22efa30e5f166a7ee978ed89f869b6daca3a202631475e8d3bb763946a",
+        "size_in_bytes": 22732
+      },
+      {
+        "_path": "Library/usr/bin/msys-gettextlib-0-19-7.dll",
+        "path_type": "hardlink",
+        "sha256": "7a0a8c4871d48b421f24baa45b64970d05abed7112e619468353ef39b393cac8",
+        "sha256_in_prefix": "7a0a8c4871d48b421f24baa45b64970d05abed7112e619468353ef39b393cac8",
+        "size_in_bytes": 1461436
+      },
+      {
+        "_path": "Library/usr/bin/msys-gettextsrc-0-19-7.dll",
+        "path_type": "hardlink",
+        "sha256": "40c89a053cbe0a0cfc18d67e6e5530da678b01cad1634aa50593bfc9d0feff4a",
+        "sha256_in_prefix": "40c89a053cbe0a0cfc18d67e6e5530da678b01cad1634aa50593bfc9d0feff4a",
+        "size_in_bytes": 280003
+      },
+      {
+        "_path": "Library/usr/bin/ngettext.exe",
+        "path_type": "hardlink",
+        "sha256": "d5c76d1e760ed59c4001777460d4ef4bfa4f8a9d0dfd01e983da3111173ed409",
+        "sha256_in_prefix": "d5c76d1e760ed59c4001777460d4ef4bfa4f8a9d0dfd01e983da3111173ed409",
+        "size_in_bytes": 36702
+      },
+      {
+        "_path": "Library/usr/bin/recode-sr-latin.exe",
+        "path_type": "hardlink",
+        "sha256": "1397eb4ea185b6a84d9bb67cfcac12e8c4e1b815d6967330ea3fbc7b5a46e1b5",
+        "sha256_in_prefix": "1397eb4ea185b6a84d9bb67cfcac12e8c4e1b815d6967330ea3fbc7b5a46e1b5",
+        "size_in_bytes": 16570
+      },
+      {
+        "_path": "Library/usr/bin/xgettext.exe",
+        "path_type": "hardlink",
+        "sha256": "bad770ae20b09f42e0a42968970fa4be69b3fae80293bee85f3da14c2e95aea6",
+        "sha256_in_prefix": "bad770ae20b09f42e0a42968970fa4be69b3fae80293bee85f3da14c2e95aea6",
+        "size_in_bytes": 255295
+      },
+      {
+        "_path": "Library/usr/lib/gettext/cldr-plurals.exe",
+        "path_type": "hardlink",
+        "sha256": "fca8e2ab50ea4ea35ebb40fdedf1086d41ff8099bb29bfa7b005c0d78cfe270a",
+        "sha256_in_prefix": "fca8e2ab50ea4ea35ebb40fdedf1086d41ff8099bb29bfa7b005c0d78cfe270a",
+        "size_in_bytes": 26807
+      },
+      {
+        "_path": "Library/usr/lib/gettext/hostname.exe",
+        "path_type": "hardlink",
+        "sha256": "635c3c4857a05394d53bcc40a1bab393dcff30366c861dca8791a0a33f1c3c7d",
+        "sha256_in_prefix": "635c3c4857a05394d53bcc40a1bab393dcff30366c861dca8791a0a33f1c3c7d",
+        "size_in_bytes": 13962
+      },
+      {
+        "_path": "Library/usr/lib/gettext/project-id",
+        "path_type": "hardlink",
+        "sha256": "44afb9ff80caca087e71ab2db33b00f588c244d26d9e7cb81256327b5da5ecdd",
+        "sha256_in_prefix": "44afb9ff80caca087e71ab2db33b00f588c244d26d9e7cb81256327b5da5ecdd",
+        "size_in_bytes": 2739
+      },
+      {
+        "_path": "Library/usr/lib/gettext/urlget.exe",
+        "path_type": "hardlink",
+        "sha256": "73c205bba1d8c7dd8a19d98922c40c587ea744272e54f3b680f6668857e7d624",
+        "sha256_in_prefix": "73c205bba1d8c7dd8a19d98922c40c587ea744272e54f3b680f6668857e7d624",
+        "size_in_bytes": 14942
+      },
+      {
+        "_path": "Library/usr/lib/gettext/user-email",
+        "path_type": "hardlink",
+        "sha256": "16c4f56c61436e15a78451995cad3d2fe45055578993faafd22afbf1376f44b2",
+        "sha256_in_prefix": "16c4f56c61436e15a78451995cad3d2fe45055578993faafd22afbf1376f44b2",
+        "size_in_bytes": 14488
+      },
+      {
+        "_path": "Library/usr/share/aclocal/codeset.m4",
+        "path_type": "hardlink",
+        "sha256": "4ee046ce43c4f5bf303aa592b7d67d010deb8411d1a23878d12d181c51e17b13",
+        "sha256_in_prefix": "4ee046ce43c4f5bf303aa592b7d67d010deb8411d1a23878d12d181c51e17b13",
+        "size_in_bytes": 832
+      },
+      {
+        "_path": "Library/usr/share/aclocal/extern-inline.m4",
+        "path_type": "hardlink",
+        "sha256": "ec71c355f1acb82c97cc0f6f2f14d9255355251ddb21c69bea0e5d70d04e89cf",
+        "sha256_in_prefix": "ec71c355f1acb82c97cc0f6f2f14d9255355251ddb21c69bea0e5d70d04e89cf",
+        "size_in_bytes": 4339
+      },
+      {
+        "_path": "Library/usr/share/aclocal/fcntl-o.m4",
+        "path_type": "hardlink",
+        "sha256": "a299c5f43460fca1286869ea013bda25962c772c00c72a6912ee164d560d6835",
+        "sha256_in_prefix": "a299c5f43460fca1286869ea013bda25962c772c00c72a6912ee164d560d6835",
+        "size_in_bytes": 4668
+      },
+      {
+        "_path": "Library/usr/share/aclocal/gettext.m4",
+        "path_type": "hardlink",
+        "sha256": "9d1b836501e7baab68abe5405ea288580daf3dd8abeaf21839a30bac78d799f2",
+        "sha256_in_prefix": "9d1b836501e7baab68abe5405ea288580daf3dd8abeaf21839a30bac78d799f2",
+        "size_in_bytes": 15343
+      },
+      {
+        "_path": "Library/usr/share/aclocal/glibc2.m4",
+        "path_type": "hardlink",
+        "sha256": "2cdc1f74727bbee58c1229e9b3343a48fccc94ba54f4f8031316f688c36073e2",
+        "sha256_in_prefix": "2cdc1f74727bbee58c1229e9b3343a48fccc94ba54f4f8031316f688c36073e2",
+        "size_in_bytes": 830
+      },
+      {
+        "_path": "Library/usr/share/aclocal/glibc21.m4",
+        "path_type": "hardlink",
+        "sha256": "d8a71189f6912c789fdb9263569059a1af670af9d8689af7676d04601a319968",
+        "sha256_in_prefix": "d8a71189f6912c789fdb9263569059a1af670af9d8689af7676d04601a319968",
+        "size_in_bytes": 907
+      },
+      {
+        "_path": "Library/usr/share/aclocal/iconv.m4",
+        "path_type": "hardlink",
+        "sha256": "16bc5a5d8e491491a490d15272c69f39338327a4cb1b58e4f9bbbb2834ec6798",
+        "sha256_in_prefix": "16bc5a5d8e491491a490d15272c69f39338327a4cb1b58e4f9bbbb2834ec6798",
+        "size_in_bytes": 9268
+      },
+      {
+        "_path": "Library/usr/share/aclocal/intdiv0.m4",
+        "path_type": "hardlink",
+        "sha256": "872ef0d575609e0168a47fcde9f6516382a75e9edae067f4e2a86adccb0f7237",
+        "sha256_in_prefix": "872ef0d575609e0168a47fcde9f6516382a75e9edae067f4e2a86adccb0f7237",
+        "size_in_bytes": 2410
+      },
+      {
+        "_path": "Library/usr/share/aclocal/intl.m4",
+        "path_type": "hardlink",
+        "sha256": "c0f0b68960b88b9909e77381062a32e12530e23d4f1c3fb312222700a8cf0177",
+        "sha256_in_prefix": "c0f0b68960b88b9909e77381062a32e12530e23d4f1c3fb312222700a8cf0177",
+        "size_in_bytes": 12130
+      },
+      {
+        "_path": "Library/usr/share/aclocal/intldir.m4",
+        "path_type": "hardlink",
+        "sha256": "d606538effe2100eb31c02b095d84594f49b43b2a3f02e6a56930639b82ba21a",
+        "sha256_in_prefix": "d606538effe2100eb31c02b095d84594f49b43b2a3f02e6a56930639b82ba21a",
+        "size_in_bytes": 911
+      },
+      {
+        "_path": "Library/usr/share/aclocal/intlmacosx.m4",
+        "path_type": "hardlink",
+        "sha256": "f1763f3046426c99103ccef85fca66c2d8344bbf997922c1b179e7ffeaacbedc",
+        "sha256_in_prefix": "f1763f3046426c99103ccef85fca66c2d8344bbf997922c1b179e7ffeaacbedc",
+        "size_in_bytes": 2527
+      },
+      {
+        "_path": "Library/usr/share/aclocal/intmax.m4",
+        "path_type": "hardlink",
+        "sha256": "2cf110d3e98d25c58b0481ec3ec26db3d4d8d3a68f61d136d62de79d48e40b5e",
+        "sha256_in_prefix": "2cf110d3e98d25c58b0481ec3ec26db3d4d8d3a68f61d136d62de79d48e40b5e",
+        "size_in_bytes": 1123
+      },
+      {
+        "_path": "Library/usr/share/aclocal/inttypes-pri.m4",
+        "path_type": "hardlink",
+        "sha256": "b7f4f7f8ac2164cbf4db48575021c5b09a186d97695b64b5a48428ea5676c999",
+        "sha256_in_prefix": "b7f4f7f8ac2164cbf4db48575021c5b09a186d97695b64b5a48428ea5676c999",
+        "size_in_bytes": 1253
+      },
+      {
+        "_path": "Library/usr/share/aclocal/inttypes_h.m4",
+        "path_type": "hardlink",
+        "sha256": "f912dcf73d41237912208177f26a7eb5cad0b2e40e4e195b8bc30b80e200cf46",
+        "sha256_in_prefix": "f912dcf73d41237912208177f26a7eb5cad0b2e40e4e195b8bc30b80e200cf46",
+        "size_in_bytes": 1020
+      },
+      {
+        "_path": "Library/usr/share/aclocal/lcmessage.m4",
+        "path_type": "hardlink",
+        "sha256": "0e2a47449482530d409d80d1a3390e9dbcc4e1074cba91df5a643d90869ffa2c",
+        "sha256_in_prefix": "0e2a47449482530d409d80d1a3390e9dbcc4e1074cba91df5a643d90869ffa2c",
+        "size_in_bytes": 1359
+      },
+      {
+        "_path": "Library/usr/share/aclocal/lib-ld.m4",
+        "path_type": "hardlink",
+        "sha256": "15d653d0e244982fdd05f504a40c653eb892a25940887f7ab21de1ccd0fcd411",
+        "sha256_in_prefix": "15d653d0e244982fdd05f504a40c653eb892a25940887f7ab21de1ccd0fcd411",
+        "size_in_bytes": 3683
+      },
+      {
+        "_path": "Library/usr/share/aclocal/lib-link.m4",
+        "path_type": "hardlink",
+        "sha256": "325b247c445cef7ef0ae8a4dce3ff4b6901cbe03a1228e7e15e7c39bc850179b",
+        "sha256_in_prefix": "325b247c445cef7ef0ae8a4dce3ff4b6901cbe03a1228e7e15e7c39bc850179b",
+        "size_in_bytes": 33059
+      },
+      {
+        "_path": "Library/usr/share/aclocal/lib-prefix.m4",
+        "path_type": "hardlink",
+        "sha256": "2c5e93e8837e65eab8bf7baa68b85a03a91898c980fd4cd18a0db2ec799e0055",
+        "sha256_in_prefix": "2c5e93e8837e65eab8bf7baa68b85a03a91898c980fd4cd18a0db2ec799e0055",
+        "size_in_bytes": 8466
+      },
+      {
+        "_path": "Library/usr/share/aclocal/lock.m4",
+        "path_type": "hardlink",
+        "sha256": "23a9c4be28713d929f96a213d84c037d4298eeb7f4f3a5ec1c6bb28a2fd944c3",
+        "sha256_in_prefix": "23a9c4be28713d929f96a213d84c037d4298eeb7f4f3a5ec1c6bb28a2fd944c3",
+        "size_in_bytes": 1463
+      },
+      {
+        "_path": "Library/usr/share/aclocal/longlong.m4",
+        "path_type": "hardlink",
+        "sha256": "2e92ca1715402bc07e6abf587c0e0fd8beb0272120457b9935bf417512c5ebe5",
+        "sha256_in_prefix": "2e92ca1715402bc07e6abf587c0e0fd8beb0272120457b9935bf417512c5ebe5",
+        "size_in_bytes": 4739
+      },
+      {
+        "_path": "Library/usr/share/aclocal/nls.m4",
+        "path_type": "hardlink",
+        "sha256": "c144b117a81498190f16e96ae54aa6c5d4c9f9da0cc62f27539393c9380f79a9",
+        "sha256_in_prefix": "c144b117a81498190f16e96ae54aa6c5d4c9f9da0cc62f27539393c9380f79a9",
+        "size_in_bytes": 1217
+      },
+      {
+        "_path": "Library/usr/share/aclocal/po.m4",
+        "path_type": "hardlink",
+        "sha256": "93707a323fa617c52bd69543066d4c6c7f4ac278d9a23f8c1b1e11919a27ebea",
+        "sha256_in_prefix": "93707a323fa617c52bd69543066d4c6c7f4ac278d9a23f8c1b1e11919a27ebea",
+        "size_in_bytes": 18963
+      },
+      {
+        "_path": "Library/usr/share/aclocal/printf-posix.m4",
+        "path_type": "hardlink",
+        "sha256": "9eae8d0df94ded955b5bcb2afe49ec84ce810ac5af10ce11c94111bef597ebb8",
+        "sha256_in_prefix": "9eae8d0df94ded955b5bcb2afe49ec84ce810ac5af10ce11c94111bef597ebb8",
+        "size_in_bytes": 1579
+      },
+      {
+        "_path": "Library/usr/share/aclocal/progtest.m4",
+        "path_type": "hardlink",
+        "sha256": "46f0cf748884e36e625355de1db039f30512b03f9528a6152d6fabb8761e2d30",
+        "sha256_in_prefix": "46f0cf748884e36e625355de1db039f30512b03f9528a6152d6fabb8761e2d30",
+        "size_in_bytes": 3092
+      },
+      {
+        "_path": "Library/usr/share/aclocal/size_max.m4",
+        "path_type": "hardlink",
+        "sha256": "0630cba4226107080e8e556648d3558464ad9212e517ef5e561b84a24f7bfbde",
+        "sha256_in_prefix": "0630cba4226107080e8e556648d3558464ad9212e517ef5e561b84a24f7bfbde",
+        "size_in_bytes": 3064
+      },
+      {
+        "_path": "Library/usr/share/aclocal/stdint_h.m4",
+        "path_type": "hardlink",
+        "sha256": "22cab195eaa7d4b8ea40f11d56774e3b86357dd39cac084e25fa62779912ed2e",
+        "sha256_in_prefix": "22cab195eaa7d4b8ea40f11d56774e3b86357dd39cac084e25fa62779912ed2e",
+        "size_in_bytes": 995
+      },
+      {
+        "_path": "Library/usr/share/aclocal/threadlib.m4",
+        "path_type": "hardlink",
+        "sha256": "f715bcae5d620d7a393d78806004c55eb494ae53fc6312b93ddef209800bf569",
+        "sha256_in_prefix": "f715bcae5d620d7a393d78806004c55eb494ae53fc6312b93ddef209800bf569",
+        "size_in_bytes": 15159
+      },
+      {
+        "_path": "Library/usr/share/aclocal/uintmax_t.m4",
+        "path_type": "hardlink",
+        "sha256": "f86dba0ce3c36d90f1011f0f5814a6de1423cc3eb1bdb26fb2853d156d5e8812",
+        "sha256_in_prefix": "f86dba0ce3c36d90f1011f0f5814a6de1423cc3eb1bdb26fb2853d156d5e8812",
+        "size_in_bytes": 1113
+      },
+      {
+        "_path": "Library/usr/share/aclocal/visibility.m4",
+        "path_type": "hardlink",
+        "sha256": "a3d94ef8882fe55c466abb2b2e5db4a02bed2ca0ae30063e13fbaadcbfb863fa",
+        "sha256_in_prefix": "a3d94ef8882fe55c466abb2b2e5db4a02bed2ca0ae30063e13fbaadcbfb863fa",
+        "size_in_bytes": 3351
+      },
+      {
+        "_path": "Library/usr/share/aclocal/wchar_t.m4",
+        "path_type": "hardlink",
+        "sha256": "c22d74abaa99ed2f542f47780a1725d7a72c882d05df1a5fea5b3fc9cfb6e621",
+        "sha256_in_prefix": "c22d74abaa99ed2f542f47780a1725d7a72c882d05df1a5fea5b3fc9cfb6e621",
+        "size_in_bytes": 818
+      },
+      {
+        "_path": "Library/usr/share/aclocal/wint_t.m4",
+        "path_type": "hardlink",
+        "sha256": "d0e80070dfeabc7e78c5c669d3f3aef401ad0173cb703a13ee4ce53402fe36b1",
+        "sha256_in_prefix": "d0e80070dfeabc7e78c5c669d3f3aef401ad0173cb703a13ee4ce53402fe36b1",
+        "size_in_bytes": 1053
+      },
+      {
+        "_path": "Library/usr/share/aclocal/xsize.m4",
+        "path_type": "hardlink",
+        "sha256": "462350cba929fec51f6f9c3f166b7054d52edfa9f628bd8b356246997cbb9e38",
+        "sha256_in_prefix": "462350cba929fec51f6f9c3f166b7054d52edfa9f628bd8b356246997cbb9e38",
+        "size_in_bytes": 406
+      },
+      {
+        "_path": "Library/usr/share/info/autosprintf.info.gz",
+        "path_type": "hardlink",
+        "sha256": "bc79de922a52afe03101532eb9309bb948f2284e9a67fa39aad0bc024acc0be6",
+        "sha256_in_prefix": "bc79de922a52afe03101532eb9309bb948f2284e9a67fa39aad0bc024acc0be6",
+        "size_in_bytes": 1946
+      },
+      {
+        "_path": "Library/usr/share/info/gettext.info.gz",
+        "path_type": "hardlink",
+        "sha256": "85a77dbe07ff21893a5e549542caa8050d165931ef703f2fff4616813dcc344f",
+        "sha256_in_prefix": "85a77dbe07ff21893a5e549542caa8050d165931ef703f2fff4616813dcc344f",
+        "size_in_bytes": 199147
+      },
+      {
+        "_path": "Library/usr/share/locale/be/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "b04b534a4f8eff0dc33255f50e96cf4b08a543f4d3c516da2f3bce5c73474c40",
+        "sha256_in_prefix": "b04b534a4f8eff0dc33255f50e96cf4b08a543f4d3c516da2f3bce5c73474c40",
+        "size_in_bytes": 4257
+      },
+      {
+        "_path": "Library/usr/share/locale/be/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "9c82ec5df43c03695f0e02af095ef9e43f3d42fa88a08547caf4307a4bc5afe8",
+        "sha256_in_prefix": "9c82ec5df43c03695f0e02af095ef9e43f3d42fa88a08547caf4307a4bc5afe8",
+        "size_in_bytes": 25905
+      },
+      {
+        "_path": "Library/usr/share/locale/bg/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "72f06cfd49d786e9a50255db5fc356f1fbb3671b8b2362566e02a0911a4d1e28",
+        "sha256_in_prefix": "72f06cfd49d786e9a50255db5fc356f1fbb3671b8b2362566e02a0911a4d1e28",
+        "size_in_bytes": 12019
+      },
+      {
+        "_path": "Library/usr/share/locale/bg/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "2058ee222928de9cf159cc6949bc941f4a956301f1d3eefca019a6072e0dc45e",
+        "sha256_in_prefix": "2058ee222928de9cf159cc6949bc941f4a956301f1d3eefca019a6072e0dc45e",
+        "size_in_bytes": 149110
+      },
+      {
+        "_path": "Library/usr/share/locale/ca/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "589bf13688a0dcf0ed71b227ccd8193c3b62872df78fdb1fabcbfc25e3b0fbb4",
+        "sha256_in_prefix": "589bf13688a0dcf0ed71b227ccd8193c3b62872df78fdb1fabcbfc25e3b0fbb4",
+        "size_in_bytes": 9673
+      },
+      {
+        "_path": "Library/usr/share/locale/ca/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "8cc854a0c631eef7c8644db124a8e74f0cf7a748b77e18c48a62a3373fdfabdb",
+        "sha256_in_prefix": "8cc854a0c631eef7c8644db124a8e74f0cf7a748b77e18c48a62a3373fdfabdb",
+        "size_in_bytes": 119502
+      },
+      {
+        "_path": "Library/usr/share/locale/cs/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "3b778e9e8dbe77995a599e59066add754804b1db23755952c1796168e05563bc",
+        "sha256_in_prefix": "3b778e9e8dbe77995a599e59066add754804b1db23755952c1796168e05563bc",
+        "size_in_bytes": 9935
+      },
+      {
+        "_path": "Library/usr/share/locale/cs/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "48078bc732820e26eb74ddef38557a13ed3a23b79e3a0f1274c9d0058a9826b8",
+        "sha256_in_prefix": "48078bc732820e26eb74ddef38557a13ed3a23b79e3a0f1274c9d0058a9826b8",
+        "size_in_bytes": 6358
+      },
+      {
+        "_path": "Library/usr/share/locale/da/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "0ec527335da6fae413ab7258706f670568cd054623826e9286aef3667ecb5c94",
+        "sha256_in_prefix": "0ec527335da6fae413ab7258706f670568cd054623826e9286aef3667ecb5c94",
+        "size_in_bytes": 9105
+      },
+      {
+        "_path": "Library/usr/share/locale/da/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "5dde57bad52066c22e65e14aab0bf109024c93d0684aff253a219a3e814b39f1",
+        "sha256_in_prefix": "5dde57bad52066c22e65e14aab0bf109024c93d0684aff253a219a3e814b39f1",
+        "size_in_bytes": 91721
+      },
+      {
+        "_path": "Library/usr/share/locale/de/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "8ce9c33dae76225350ccb7d284e7f499932655f38ab8131f1136cc6f647e2c9f",
+        "sha256_in_prefix": "8ce9c33dae76225350ccb7d284e7f499932655f38ab8131f1136cc6f647e2c9f",
+        "size_in_bytes": 9907
+      },
+      {
+        "_path": "Library/usr/share/locale/de/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "2eb2b7f6eb3ee29d1793a15097b49b63c104f743abc51c3d052a95cb973602a8",
+        "sha256_in_prefix": "2eb2b7f6eb3ee29d1793a15097b49b63c104f743abc51c3d052a95cb973602a8",
+        "size_in_bytes": 118633
+      },
+      {
+        "_path": "Library/usr/share/locale/el/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "8ce64295fe8d2a04cb3af4448d3f4385ab0d5ed4089653fe8b3f834b4dc2dc72",
+        "sha256_in_prefix": "8ce64295fe8d2a04cb3af4448d3f4385ab0d5ed4089653fe8b3f834b4dc2dc72",
+        "size_in_bytes": 851
+      },
+      {
+        "_path": "Library/usr/share/locale/el/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "fc879d310dfbfa9fdb22fb8192b4541544cd77690ae74732096e03ead182305e",
+        "sha256_in_prefix": "fc879d310dfbfa9fdb22fb8192b4541544cd77690ae74732096e03ead182305e",
+        "size_in_bytes": 3879
+      },
+      {
+        "_path": "Library/usr/share/locale/en@boldquot/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "64b068ecf66d4b9ee6fc74e28495ca22d899e0914e1f0d0c95d0d05b5ae58b86",
+        "sha256_in_prefix": "64b068ecf66d4b9ee6fc74e28495ca22d899e0914e1f0d0c95d0d05b5ae58b86",
+        "size_in_bytes": 9410
+      },
+      {
+        "_path": "Library/usr/share/locale/en@boldquot/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "c3847ff9bf86437d4132d60acb3f8422448054983eaa5c01005992688418c424",
+        "sha256_in_prefix": "c3847ff9bf86437d4132d60acb3f8422448054983eaa5c01005992688418c424",
+        "size_in_bytes": 116498
+      },
+      {
+        "_path": "Library/usr/share/locale/en@quot/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "9e1fe420680810bffbb0f019e64a14f041746c598f777b2c8189d28d195af8c4",
+        "sha256_in_prefix": "9e1fe420680810bffbb0f019e64a14f041746c598f777b2c8189d28d195af8c4",
+        "size_in_bytes": 9286
+      },
+      {
+        "_path": "Library/usr/share/locale/en@quot/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "cdc78f9ce3c923702cfe7df8df39150f8ae487c1e05f85bd3ac433aed1807152",
+        "sha256_in_prefix": "cdc78f9ce3c923702cfe7df8df39150f8ae487c1e05f85bd3ac433aed1807152",
+        "size_in_bytes": 114646
+      },
+      {
+        "_path": "Library/usr/share/locale/eo/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "f63d9ba8b5f5ae09f1c13cfb4185f786123679261ee83317c04dccbc59556368",
+        "sha256_in_prefix": "f63d9ba8b5f5ae09f1c13cfb4185f786123679261ee83317c04dccbc59556368",
+        "size_in_bytes": 9144
+      },
+      {
+        "_path": "Library/usr/share/locale/es/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "f0dbd0d27267821f8ab58717b26c183a725d09730d82e95e532f8f479fc80853",
+        "sha256_in_prefix": "f0dbd0d27267821f8ab58717b26c183a725d09730d82e95e532f8f479fc80853",
+        "size_in_bytes": 9924
+      },
+      {
+        "_path": "Library/usr/share/locale/es/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "1472d357c35ca7dd6394c31d83ab7d93f1772babe67f89875f82925c9ffdd6c8",
+        "sha256_in_prefix": "1472d357c35ca7dd6394c31d83ab7d93f1772babe67f89875f82925c9ffdd6c8",
+        "size_in_bytes": 123748
+      },
+      {
+        "_path": "Library/usr/share/locale/et/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "31ad4cdf27e2fc7ca4bc025ac4c08a245a02391e6a1a31e5092bde5ba378fe13",
+        "sha256_in_prefix": "31ad4cdf27e2fc7ca4bc025ac4c08a245a02391e6a1a31e5092bde5ba378fe13",
+        "size_in_bytes": 883
+      },
+      {
+        "_path": "Library/usr/share/locale/et/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "a1d32f7f7b9b2697bf8ab06bcba2c737175add337e45c807dd538f517113aa2d",
+        "sha256_in_prefix": "a1d32f7f7b9b2697bf8ab06bcba2c737175add337e45c807dd538f517113aa2d",
+        "size_in_bytes": 6175
+      },
+      {
+        "_path": "Library/usr/share/locale/eu/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "d067842483e6f4c86548492fc6c782a71fbb00b546ed05928bb900168730477c",
+        "sha256_in_prefix": "d067842483e6f4c86548492fc6c782a71fbb00b546ed05928bb900168730477c",
+        "size_in_bytes": 52959
+      },
+      {
+        "_path": "Library/usr/share/locale/fi/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "3ab2fabf4a291b83f3d74acbabe8c802101a87692c8f2ce547b92d6808535d22",
+        "sha256_in_prefix": "3ab2fabf4a291b83f3d74acbabe8c802101a87692c8f2ce547b92d6808535d22",
+        "size_in_bytes": 9742
+      },
+      {
+        "_path": "Library/usr/share/locale/fi/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "eaf12c7acfccaec895b7dabda4dbd8d279ae1bd0a0d8b198f00cfdf8755c8dfd",
+        "sha256_in_prefix": "eaf12c7acfccaec895b7dabda4dbd8d279ae1bd0a0d8b198f00cfdf8755c8dfd",
+        "size_in_bytes": 115226
+      },
+      {
+        "_path": "Library/usr/share/locale/fr/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "558bb46f57d54c2ac8aa24f39adba666cad55e4ec70942629caac7c58dbe7c79",
+        "sha256_in_prefix": "558bb46f57d54c2ac8aa24f39adba666cad55e4ec70942629caac7c58dbe7c79",
+        "size_in_bytes": 9505
+      },
+      {
+        "_path": "Library/usr/share/locale/fr/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "d23bfeebf7b694791255e43ebf49d1fdf0e8b4537d6aefea3a7355b572589cec",
+        "sha256_in_prefix": "d23bfeebf7b694791255e43ebf49d1fdf0e8b4537d6aefea3a7355b572589cec",
+        "size_in_bytes": 127371
+      },
+      {
+        "_path": "Library/usr/share/locale/ga/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "e98d29b7b6c3f4c6220e686dca994efbac48d8d0ff078a2a7b21b411e9fb4d9f",
+        "sha256_in_prefix": "e98d29b7b6c3f4c6220e686dca994efbac48d8d0ff078a2a7b21b411e9fb4d9f",
+        "size_in_bytes": 7046
+      },
+      {
+        "_path": "Library/usr/share/locale/gl/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "36d41d93e1c995b606e39ec53df3c0a06568f41f2dc089e5c5ef14df794a9730",
+        "sha256_in_prefix": "36d41d93e1c995b606e39ec53df3c0a06568f41f2dc089e5c5ef14df794a9730",
+        "size_in_bytes": 9451
+      },
+      {
+        "_path": "Library/usr/share/locale/gl/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "afbb48b588ccd03ddb53fb1a3dd23a7e3878d071f396df0c03414a9ea9176643",
+        "sha256_in_prefix": "afbb48b588ccd03ddb53fb1a3dd23a7e3878d071f396df0c03414a9ea9176643",
+        "size_in_bytes": 23755
+      },
+      {
+        "_path": "Library/usr/share/locale/hr/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "dc0fb79cd4cdd7fb3a76f80b0f0280e6e550f8fba5502c0a67f89f8968d5030a",
+        "sha256_in_prefix": "dc0fb79cd4cdd7fb3a76f80b0f0280e6e550f8fba5502c0a67f89f8968d5030a",
+        "size_in_bytes": 8302
+      },
+      {
+        "_path": "Library/usr/share/locale/hu/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "1579c9a6f5e9e45fd88441711613c6a0654b7bac90aea8faec31ed025bf5503b",
+        "sha256_in_prefix": "1579c9a6f5e9e45fd88441711613c6a0654b7bac90aea8faec31ed025bf5503b",
+        "size_in_bytes": 10120
+      },
+      {
+        "_path": "Library/usr/share/locale/id/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "3e5ca2c253cfc213cbf7fa4c3a5d719c7cdeea8cbf58c1d936ae174fa2dfabca",
+        "sha256_in_prefix": "3e5ca2c253cfc213cbf7fa4c3a5d719c7cdeea8cbf58c1d936ae174fa2dfabca",
+        "size_in_bytes": 8213
+      },
+      {
+        "_path": "Library/usr/share/locale/id/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "32d738b2040c1754697b5a2b91a594d4466f3e8a12ea2407353baad093199e64",
+        "sha256_in_prefix": "32d738b2040c1754697b5a2b91a594d4466f3e8a12ea2407353baad093199e64",
+        "size_in_bytes": 94312
+      },
+      {
+        "_path": "Library/usr/share/locale/it/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "c919a646ebb96046a0cf68f0b63cd8c12111b3a5a0d8a58187ac6567ac9c8062",
+        "sha256_in_prefix": "c919a646ebb96046a0cf68f0b63cd8c12111b3a5a0d8a58187ac6567ac9c8062",
+        "size_in_bytes": 9457
+      },
+      {
+        "_path": "Library/usr/share/locale/it/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "b52e79356b52b98102f9c1e06364fa4aefd35e071178ad100318035dc6e58f7e",
+        "sha256_in_prefix": "b52e79356b52b98102f9c1e06364fa4aefd35e071178ad100318035dc6e58f7e",
+        "size_in_bytes": 111811
+      },
+      {
+        "_path": "Library/usr/share/locale/ja/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "57fdf0a8fde0b137324eabb2c35acdaa61f1e98a1b76743b9c9688ef3eec395e",
+        "sha256_in_prefix": "57fdf0a8fde0b137324eabb2c35acdaa61f1e98a1b76743b9c9688ef3eec395e",
+        "size_in_bytes": 9118
+      },
+      {
+        "_path": "Library/usr/share/locale/ja/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "daf3ca277b49b68f4257624cef177ac1db19f052061283b14ffb3cb7c0702233",
+        "sha256_in_prefix": "daf3ca277b49b68f4257624cef177ac1db19f052061283b14ffb3cb7c0702233",
+        "size_in_bytes": 112302
+      },
+      {
+        "_path": "Library/usr/share/locale/ko/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "96f5a76c28b403af97c46e533d56b8b50a4dc7f24e645b505827dc61e0c93381",
+        "sha256_in_prefix": "96f5a76c28b403af97c46e533d56b8b50a4dc7f24e645b505827dc61e0c93381",
+        "size_in_bytes": 9802
+      },
+      {
+        "_path": "Library/usr/share/locale/ko/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "d39e39425d45143d582842147f202f0c266b5a7a1248b4cb0c64dfef4b53d1a7",
+        "sha256_in_prefix": "d39e39425d45143d582842147f202f0c266b5a7a1248b4cb0c64dfef4b53d1a7",
+        "size_in_bytes": 119686
+      },
+      {
+        "_path": "Library/usr/share/locale/locale.alias",
+        "path_type": "hardlink",
+        "sha256": "ed05189d9a6856488ed63815c23a009ecad71e1c9ad5926c677727aaead2bb93",
+        "sha256_in_prefix": "ed05189d9a6856488ed63815c23a009ecad71e1c9ad5926c677727aaead2bb93",
+        "size_in_bytes": 3116
+      },
+      {
+        "_path": "Library/usr/share/locale/nb/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "2f7dd99a75ee7a15cc160a60987534bd5628b5c3f7bedfff2d35bec637df1bda",
+        "sha256_in_prefix": "2f7dd99a75ee7a15cc160a60987534bd5628b5c3f7bedfff2d35bec637df1bda",
+        "size_in_bytes": 9295
+      },
+      {
+        "_path": "Library/usr/share/locale/nb/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "2a4af5a0705ee7994f6663be8c70e921ba9974a6c8611fac67bfcbe65d95ea10",
+        "sha256_in_prefix": "2a4af5a0705ee7994f6663be8c70e921ba9974a6c8611fac67bfcbe65d95ea10",
+        "size_in_bytes": 6044
+      },
+      {
+        "_path": "Library/usr/share/locale/nl/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "2f015be960a0b75d6256a18c3a1cd3afa390ac560f1a6ca7a0dfbfc7e32d3757",
+        "sha256_in_prefix": "2f015be960a0b75d6256a18c3a1cd3afa390ac560f1a6ca7a0dfbfc7e32d3757",
+        "size_in_bytes": 9457
+      },
+      {
+        "_path": "Library/usr/share/locale/nl/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "989268383414a281459b70a6bbc720e9e5348900ece52d05c8ac2fb4ff1750c8",
+        "sha256_in_prefix": "989268383414a281459b70a6bbc720e9e5348900ece52d05c8ac2fb4ff1750c8",
+        "size_in_bytes": 53028
+      },
+      {
+        "_path": "Library/usr/share/locale/nn/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "bb42d9f57ddb8c5fb31ab846c605440df3c5b29b9074d81813bd8a20cdf4fc0a",
+        "sha256_in_prefix": "bb42d9f57ddb8c5fb31ab846c605440df3c5b29b9074d81813bd8a20cdf4fc0a",
+        "size_in_bytes": 7088
+      },
+      {
+        "_path": "Library/usr/share/locale/nn/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "3aeecaa9819a47457f2c0a9c39721a32787fdc0b8d3845a754a4838ba7ded2e8",
+        "sha256_in_prefix": "3aeecaa9819a47457f2c0a9c39721a32787fdc0b8d3845a754a4838ba7ded2e8",
+        "size_in_bytes": 13342
+      },
+      {
+        "_path": "Library/usr/share/locale/pa/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "f8a362b3d58c60ea15cfbbb39045f75846a0340d28cbac5f6489cd40f2e366c9",
+        "sha256_in_prefix": "f8a362b3d58c60ea15cfbbb39045f75846a0340d28cbac5f6489cd40f2e366c9",
+        "size_in_bytes": 30025
+      },
+      {
+        "_path": "Library/usr/share/locale/pl/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "67527db42ff97c46a73831e491c7bd135e47f83ca2bba5008bad702bf8d15f03",
+        "sha256_in_prefix": "67527db42ff97c46a73831e491c7bd135e47f83ca2bba5008bad702bf8d15f03",
+        "size_in_bytes": 9678
+      },
+      {
+        "_path": "Library/usr/share/locale/pl/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "700a975ebff69d8094d959a96611244518d5fde2f5b52fc1c9129d5b150e65fb",
+        "sha256_in_prefix": "700a975ebff69d8094d959a96611244518d5fde2f5b52fc1c9129d5b150e65fb",
+        "size_in_bytes": 114648
+      },
+      {
+        "_path": "Library/usr/share/locale/pt/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "3be3ca787b4e14256f7a0a8bdc32992e12258150eb2f0217f2b7575dd47a069f",
+        "sha256_in_prefix": "3be3ca787b4e14256f7a0a8bdc32992e12258150eb2f0217f2b7575dd47a069f",
+        "size_in_bytes": 7404
+      },
+      {
+        "_path": "Library/usr/share/locale/pt/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "4606c089a746846524a5e10f2e6343dc8ce56ad6fba92f20e8f99c34daa4f486",
+        "sha256_in_prefix": "4606c089a746846524a5e10f2e6343dc8ce56ad6fba92f20e8f99c34daa4f486",
+        "size_in_bytes": 3064
+      },
+      {
+        "_path": "Library/usr/share/locale/pt_BR/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "d017eef28089238e09034703855498ff5f27b1fccdb169f549a17e75bad1f3d3",
+        "sha256_in_prefix": "d017eef28089238e09034703855498ff5f27b1fccdb169f549a17e75bad1f3d3",
+        "size_in_bytes": 9684
+      },
+      {
+        "_path": "Library/usr/share/locale/pt_BR/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "0ecf5f0d688862a89051d66680207968490f18b7e0768ad2ad14de3873096bbd",
+        "sha256_in_prefix": "0ecf5f0d688862a89051d66680207968490f18b7e0768ad2ad14de3873096bbd",
+        "size_in_bytes": 121774
+      },
+      {
+        "_path": "Library/usr/share/locale/ro/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "3848ad26dc50382a3a1f4ae3a6ee6cfffc73b96bd6e2821d8bd0516ab68a4f0c",
+        "sha256_in_prefix": "3848ad26dc50382a3a1f4ae3a6ee6cfffc73b96bd6e2821d8bd0516ab68a4f0c",
+        "size_in_bytes": 6539
+      },
+      {
+        "_path": "Library/usr/share/locale/ro/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "6513b9eb225095203fc78afaf32e9f076c065afb102ae64d30f75cc30994c8de",
+        "sha256_in_prefix": "6513b9eb225095203fc78afaf32e9f076c065afb102ae64d30f75cc30994c8de",
+        "size_in_bytes": 66694
+      },
+      {
+        "_path": "Library/usr/share/locale/ru/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "0d9c0901f2df027ed050a38975eb0cd7c3a6d7dfd910d6287a926fe489f6dccc",
+        "sha256_in_prefix": "0d9c0901f2df027ed050a38975eb0cd7c3a6d7dfd910d6287a926fe489f6dccc",
+        "size_in_bytes": 12090
+      },
+      {
+        "_path": "Library/usr/share/locale/ru/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "725ec3ec95c9e15617da8be17b5a936d7cb0baf486f9e29e4f650be3bda55b07",
+        "sha256_in_prefix": "725ec3ec95c9e15617da8be17b5a936d7cb0baf486f9e29e4f650be3bda55b07",
+        "size_in_bytes": 141990
+      },
+      {
+        "_path": "Library/usr/share/locale/sk/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "750a36bed6198387c0ef8f8b5a3e50a945a15adf089a7822cde45f5fb004f6e0",
+        "sha256_in_prefix": "750a36bed6198387c0ef8f8b5a3e50a945a15adf089a7822cde45f5fb004f6e0",
+        "size_in_bytes": 9856
+      },
+      {
+        "_path": "Library/usr/share/locale/sk/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "59f43e990913118332ace1d784233e0f0b2c3c141107e4c1e0da8e1d1afe96ec",
+        "sha256_in_prefix": "59f43e990913118332ace1d784233e0f0b2c3c141107e4c1e0da8e1d1afe96ec",
+        "size_in_bytes": 119904
+      },
+      {
+        "_path": "Library/usr/share/locale/sl/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "63070dfe0baf80e9ce221eaf2a2e4f6723b54d428e10fa688d823c271130ad29",
+        "sha256_in_prefix": "63070dfe0baf80e9ce221eaf2a2e4f6723b54d428e10fa688d823c271130ad29",
+        "size_in_bytes": 9145
+      },
+      {
+        "_path": "Library/usr/share/locale/sl/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "425a78f6bcc70cc21441b8753e53b94992c41c326a7702145bea55fc22703c7f",
+        "sha256_in_prefix": "425a78f6bcc70cc21441b8753e53b94992c41c326a7702145bea55fc22703c7f",
+        "size_in_bytes": 117062
+      },
+      {
+        "_path": "Library/usr/share/locale/sr/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "b6c938b6d548dacf867238ea94f36c2d85a952e1ff016db50e2425f0697e679a",
+        "sha256_in_prefix": "b6c938b6d548dacf867238ea94f36c2d85a952e1ff016db50e2425f0697e679a",
+        "size_in_bytes": 11956
+      },
+      {
+        "_path": "Library/usr/share/locale/sr/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "6d3242c6de4c3e500fb7fbe52f53a24d57177eb490f6c6c56ffa8dda1da6098a",
+        "sha256_in_prefix": "6d3242c6de4c3e500fb7fbe52f53a24d57177eb490f6c6c56ffa8dda1da6098a",
+        "size_in_bytes": 147411
+      },
+      {
+        "_path": "Library/usr/share/locale/sv/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "c1e2a33029f6b0f48c5a1f775544181ff8e25ef5f5dbc3e32374691abda98f12",
+        "sha256_in_prefix": "c1e2a33029f6b0f48c5a1f775544181ff8e25ef5f5dbc3e32374691abda98f12",
+        "size_in_bytes": 9152
+      },
+      {
+        "_path": "Library/usr/share/locale/sv/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "2c7960f1969d7877476c8009c011689522ed6f350b937bf5e753dc5a4e6bf5b1",
+        "sha256_in_prefix": "2c7960f1969d7877476c8009c011689522ed6f350b937bf5e753dc5a4e6bf5b1",
+        "size_in_bytes": 106450
+      },
+      {
+        "_path": "Library/usr/share/locale/tr/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "a1a6617b865dcd6f939c005c020ab791946afaac1b09f0da43d27261d9a56256",
+        "sha256_in_prefix": "a1a6617b865dcd6f939c005c020ab791946afaac1b09f0da43d27261d9a56256",
+        "size_in_bytes": 9410
+      },
+      {
+        "_path": "Library/usr/share/locale/tr/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "5c4c81926d27901d22f59ba10d0eb058154c474e10bff7008108dc7fe09df507",
+        "sha256_in_prefix": "5c4c81926d27901d22f59ba10d0eb058154c474e10bff7008108dc7fe09df507",
+        "size_in_bytes": 86201
+      },
+      {
+        "_path": "Library/usr/share/locale/uk/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "d2ae4330e77ccf152028a108a047f2f4b765b6aad5cb933044554d1b120a6c53",
+        "sha256_in_prefix": "d2ae4330e77ccf152028a108a047f2f4b765b6aad5cb933044554d1b120a6c53",
+        "size_in_bytes": 12411
+      },
+      {
+        "_path": "Library/usr/share/locale/uk/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "49b45c4e2ad68eded94b92e2acebeabe21c2a75abbb47bc66b5ccffc178da271",
+        "sha256_in_prefix": "49b45c4e2ad68eded94b92e2acebeabe21c2a75abbb47bc66b5ccffc178da271",
+        "size_in_bytes": 150800
+      },
+      {
+        "_path": "Library/usr/share/locale/vi/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "672c3c0dcdff9fa4178bfeccac236aef01278c6bb2c2bb4e0fb5318a4b5b1591",
+        "sha256_in_prefix": "672c3c0dcdff9fa4178bfeccac236aef01278c6bb2c2bb4e0fb5318a4b5b1591",
+        "size_in_bytes": 10743
+      },
+      {
+        "_path": "Library/usr/share/locale/vi/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "c9d0ec718c76e43714365e10ea918185fdbb288262a495ef5687b83aaf8c5197",
+        "sha256_in_prefix": "c9d0ec718c76e43714365e10ea918185fdbb288262a495ef5687b83aaf8c5197",
+        "size_in_bytes": 133646
+      },
+      {
+        "_path": "Library/usr/share/locale/zh_CN/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "0b68960bd81d539d9cd4ae0015284f372e093b6cb4c883226b690ea010d8aaf8",
+        "sha256_in_prefix": "0b68960bd81d539d9cd4ae0015284f372e093b6cb4c883226b690ea010d8aaf8",
+        "size_in_bytes": 8140
+      },
+      {
+        "_path": "Library/usr/share/locale/zh_CN/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "0e9452d08c6f59f05559aaf646da473f89fbb71b15d1f42ba685828081918104",
+        "sha256_in_prefix": "0e9452d08c6f59f05559aaf646da473f89fbb71b15d1f42ba685828081918104",
+        "size_in_bytes": 105417
+      },
+      {
+        "_path": "Library/usr/share/locale/zh_HK/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "9e6617e3e77041676a9fef316d5ca3c0e6ee21047ddcefa611aec7ac64d84f47",
+        "sha256_in_prefix": "9e6617e3e77041676a9fef316d5ca3c0e6ee21047ddcefa611aec7ac64d84f47",
+        "size_in_bytes": 6346
+      },
+      {
+        "_path": "Library/usr/share/locale/zh_TW/LC_MESSAGES/gettext-runtime.mo",
+        "path_type": "hardlink",
+        "sha256": "d5f2b36b2ef54b9a39b2e490c041a09447eb1316afe3f40f85f016797be3512e",
+        "sha256_in_prefix": "d5f2b36b2ef54b9a39b2e490c041a09447eb1316afe3f40f85f016797be3512e",
+        "size_in_bytes": 9103
+      },
+      {
+        "_path": "Library/usr/share/locale/zh_TW/LC_MESSAGES/gettext-tools.mo",
+        "path_type": "hardlink",
+        "sha256": "790b1916bd49ab9e128b19befab65b484e4250e48f6a05722a44d33daea70c25",
+        "sha256_in_prefix": "790b1916bd49ab9e128b19befab65b484e4250e48f6a05722a44d33daea70c25",
+        "size_in_bytes": 62349
+      },
+      {
+        "_path": "Library/usr/share/man/man1/autopoint.1.gz",
+        "path_type": "hardlink",
+        "sha256": "871b04664f19e49b58a0ff93a285e3d7214b49b67b5b813de83e06f002897899",
+        "sha256_in_prefix": "871b04664f19e49b58a0ff93a285e3d7214b49b67b5b813de83e06f002897899",
+        "size_in_bytes": 763
+      },
+      {
+        "_path": "Library/usr/share/man/man1/envsubst.1.gz",
+        "path_type": "hardlink",
+        "sha256": "bfebff2e86c7fa759c9e5c82608a0d7abdc9de348935bbd8e3b3429442a0a664",
+        "sha256_in_prefix": "bfebff2e86c7fa759c9e5c82608a0d7abdc9de348935bbd8e3b3429442a0a664",
+        "size_in_bytes": 965
+      },
+      {
+        "_path": "Library/usr/share/man/man1/gettext.1.gz",
+        "path_type": "hardlink",
+        "sha256": "f2dcd09385674795fbc9bf185bfc8dd074c9055539f6a1808b7511af5a1f7f81",
+        "sha256_in_prefix": "f2dcd09385674795fbc9bf185bfc8dd074c9055539f6a1808b7511af5a1f7f81",
+        "size_in_bytes": 1146
+      },
+      {
+        "_path": "Library/usr/share/man/man1/gettextize.1.gz",
+        "path_type": "hardlink",
+        "sha256": "c4e0035af913d8270ff5b49f1f3a8d85295acd2ad6745202d71dd709fd43e355",
+        "sha256_in_prefix": "c4e0035af913d8270ff5b49f1f3a8d85295acd2ad6745202d71dd709fd43e355",
+        "size_in_bytes": 900
+      },
+      {
+        "_path": "Library/usr/share/man/man1/msgattrib.1.gz",
+        "path_type": "hardlink",
+        "sha256": "63c623d894b7b39b3a0e84fc5593e31215bd72b4123eb42aa30c6fa398850a26",
+        "sha256_in_prefix": "63c623d894b7b39b3a0e84fc5593e31215bd72b4123eb42aa30c6fa398850a26",
+        "size_in_bytes": 1716
+      },
+      {
+        "_path": "Library/usr/share/man/man1/msgcat.1.gz",
+        "path_type": "hardlink",
+        "sha256": "a92582b83e2c04fca680449242fe5d5da23ef9d2e4421b9516a578b12648168a",
+        "sha256_in_prefix": "a92582b83e2c04fca680449242fe5d5da23ef9d2e4421b9516a578b12648168a",
+        "size_in_bytes": 1849
+      },
+      {
+        "_path": "Library/usr/share/man/man1/msgcmp.1.gz",
+        "path_type": "hardlink",
+        "sha256": "efbcedebb710aa9ad6307a89bd3da489e90b86acde75ba692dac8bc5578ac2c4",
+        "sha256_in_prefix": "efbcedebb710aa9ad6307a89bd3da489e90b86acde75ba692dac8bc5578ac2c4",
+        "size_in_bytes": 1215
+      },
+      {
+        "_path": "Library/usr/share/man/man1/msgcomm.1.gz",
+        "path_type": "hardlink",
+        "sha256": "29f642db29d560d462bd116500caa084bd8620c959afd2f6a33adbee2cb1774d",
+        "sha256_in_prefix": "29f642db29d560d462bd116500caa084bd8620c959afd2f6a33adbee2cb1774d",
+        "size_in_bytes": 1762
+      },
+      {
+        "_path": "Library/usr/share/man/man1/msgconv.1.gz",
+        "path_type": "hardlink",
+        "sha256": "3f37e1ea954aeeff488eec424332484ae68783dab290ce7119b13f495b6b05f7",
+        "sha256_in_prefix": "3f37e1ea954aeeff488eec424332484ae68783dab290ce7119b13f495b6b05f7",
+        "size_in_bytes": 1454
+      },
+      {
+        "_path": "Library/usr/share/man/man1/msgen.1.gz",
+        "path_type": "hardlink",
+        "sha256": "fb6befde2e81b5ede750e16054e041ec34bd6d178399d703059660c3728b8538",
+        "sha256_in_prefix": "fb6befde2e81b5ede750e16054e041ec34bd6d178399d703059660c3728b8538",
+        "size_in_bytes": 1494
+      },
+      {
+        "_path": "Library/usr/share/man/man1/msgexec.1.gz",
+        "path_type": "hardlink",
+        "sha256": "d5e6a12579820548b4d6a8c5212979b61de49b3a5078ddbf292dae8283e9f1f2",
+        "sha256_in_prefix": "d5e6a12579820548b4d6a8c5212979b61de49b3a5078ddbf292dae8283e9f1f2",
+        "size_in_bytes": 1135
+      },
+      {
+        "_path": "Library/usr/share/man/man1/msgfilter.1.gz",
+        "path_type": "hardlink",
+        "sha256": "d7cf6bfc38b81007e81ce3e35f6083a6b2b2059cdd11bdbc8200d9f964252edc",
+        "sha256_in_prefix": "d7cf6bfc38b81007e81ce3e35f6083a6b2b2059cdd11bdbc8200d9f964252edc",
+        "size_in_bytes": 1630
+      },
+      {
+        "_path": "Library/usr/share/man/man1/msgfmt.1.gz",
+        "path_type": "hardlink",
+        "sha256": "3b709e21091e2ceceb9087eae6a428d93210cae2a6aa974de563a3e791047195",
+        "sha256_in_prefix": "3b709e21091e2ceceb9087eae6a428d93210cae2a6aa974de563a3e791047195",
+        "size_in_bytes": 2132
+      },
+      {
+        "_path": "Library/usr/share/man/man1/msggrep.1.gz",
+        "path_type": "hardlink",
+        "sha256": "03851f5c3809f167423c669302d0396af2ac2c4cace3c461eb14d34771d0eb45",
+        "sha256_in_prefix": "03851f5c3809f167423c669302d0396af2ac2c4cace3c461eb14d34771d0eb45",
+        "size_in_bytes": 2072
+      },
+      {
+        "_path": "Library/usr/share/man/man1/msginit.1.gz",
+        "path_type": "hardlink",
+        "sha256": "41d120002683c8583e754c2a87a5b524efae33ab874fd909ce467aef235ad4a1",
+        "sha256_in_prefix": "41d120002683c8583e754c2a87a5b524efae33ab874fd909ce467aef235ad4a1",
+        "size_in_bytes": 1288
+      },
+      {
+        "_path": "Library/usr/share/man/man1/msgmerge.1.gz",
+        "path_type": "hardlink",
+        "sha256": "ddf60e6d8ffc07102e95f648c0326288772411b19be71f887e80802900afd35c",
+        "sha256_in_prefix": "ddf60e6d8ffc07102e95f648c0326288772411b19be71f887e80802900afd35c",
+        "size_in_bytes": 2215
+      },
+      {
+        "_path": "Library/usr/share/man/man1/msgunfmt.1.gz",
+        "path_type": "hardlink",
+        "sha256": "f2e67d667735a1b22fa5c8ab6f6a94512dab07a0684e61f170b7e70bdcd56060",
+        "sha256_in_prefix": "f2e67d667735a1b22fa5c8ab6f6a94512dab07a0684e61f170b7e70bdcd56060",
+        "size_in_bytes": 1654
+      },
+      {
+        "_path": "Library/usr/share/man/man1/msguniq.1.gz",
+        "path_type": "hardlink",
+        "sha256": "55196c915546d62a256c1b59327b54f424e9d4c66bd0524a0cc4ce8cce5fefca",
+        "sha256_in_prefix": "55196c915546d62a256c1b59327b54f424e9d4c66bd0524a0cc4ce8cce5fefca",
+        "size_in_bytes": 1713
+      },
+      {
+        "_path": "Library/usr/share/man/man1/ngettext.1.gz",
+        "path_type": "hardlink",
+        "sha256": "b1acf1d57d371e4ff963174bfdfa78b2d0968b4ac04232f9a8c3acae21f8fbd3",
+        "sha256_in_prefix": "b1acf1d57d371e4ff963174bfdfa78b2d0968b4ac04232f9a8c3acae21f8fbd3",
+        "size_in_bytes": 1148
+      },
+      {
+        "_path": "Library/usr/share/man/man1/recode-sr-latin.1.gz",
+        "path_type": "hardlink",
+        "sha256": "8fb86d0b814adf161d5f8a11e2c820d575c8a6e660bf0fa74f2f245fa2192494",
+        "sha256_in_prefix": "8fb86d0b814adf161d5f8a11e2c820d575c8a6e660bf0fa74f2f245fa2192494",
+        "size_in_bytes": 758
+      },
+      {
+        "_path": "Library/usr/share/man/man1/xgettext.1.gz",
+        "path_type": "hardlink",
+        "sha256": "55e644397bc08c4d1002d51e483db757280284bccbc8456f050067ee2a4899a4",
+        "sha256_in_prefix": "55e644397bc08c4d1002d51e483db757280284bccbc8456f050067ee2a4899a4",
+        "size_in_bytes": 2535
+      },
+      {
+        "_path": "Library/usr/share/man/man3/bind_textdomain_codeset.3.gz",
+        "path_type": "hardlink",
+        "sha256": "79a22232e1d78894973c22ed38ec46dae64b0fbcd91d3b5fdf7bda501f4144fa",
+        "sha256_in_prefix": "79a22232e1d78894973c22ed38ec46dae64b0fbcd91d3b5fdf7bda501f4144fa",
+        "size_in_bytes": 1275
+      },
+      {
+        "_path": "Library/usr/share/man/man3/bindtextdomain.3.gz",
+        "path_type": "hardlink",
+        "sha256": "435c803349196aff573ea482cbbf226a843ad71a8d9fa1dd9f6f4a99ce753c89",
+        "sha256_in_prefix": "435c803349196aff573ea482cbbf226a843ad71a8d9fa1dd9f6f4a99ce753c89",
+        "size_in_bytes": 1283
+      },
+      {
+        "_path": "Library/usr/share/man/man3/dcgettext.3.gz",
+        "path_type": "hardlink",
+        "sha256": "d9c4d7d6fd57a6498c74bc4f7a81d02ef31dec4568e48173f05d77849590059d",
+        "sha256_in_prefix": "d9c4d7d6fd57a6498c74bc4f7a81d02ef31dec4568e48173f05d77849590059d",
+        "size_in_bytes": 39
+      },
+      {
+        "_path": "Library/usr/share/man/man3/dcngettext.3.gz",
+        "path_type": "hardlink",
+        "sha256": "26e39484a4c4178be947444cde68ce3a84f0f4d942b3e16890dbe53455a6d564",
+        "sha256_in_prefix": "26e39484a4c4178be947444cde68ce3a84f0f4d942b3e16890dbe53455a6d564",
+        "size_in_bytes": 40
+      },
+      {
+        "_path": "Library/usr/share/man/man3/dgettext.3.gz",
+        "path_type": "hardlink",
+        "sha256": "d9c4d7d6fd57a6498c74bc4f7a81d02ef31dec4568e48173f05d77849590059d",
+        "sha256_in_prefix": "d9c4d7d6fd57a6498c74bc4f7a81d02ef31dec4568e48173f05d77849590059d",
+        "size_in_bytes": 39
+      },
+      {
+        "_path": "Library/usr/share/man/man3/dngettext.3.gz",
+        "path_type": "hardlink",
+        "sha256": "26e39484a4c4178be947444cde68ce3a84f0f4d942b3e16890dbe53455a6d564",
+        "sha256_in_prefix": "26e39484a4c4178be947444cde68ce3a84f0f4d942b3e16890dbe53455a6d564",
+        "size_in_bytes": 40
+      },
+      {
+        "_path": "Library/usr/share/man/man3/gettext.3.gz",
+        "path_type": "hardlink",
+        "sha256": "36de10e5b1dc104992cfc1cb9c577e19824b645fa52e590298b2588683745dcf",
+        "sha256_in_prefix": "36de10e5b1dc104992cfc1cb9c577e19824b645fa52e590298b2588683745dcf",
+        "size_in_bytes": 1943
+      },
+      {
+        "_path": "Library/usr/share/man/man3/ngettext.3.gz",
+        "path_type": "hardlink",
+        "sha256": "c9a260355d1bb0113506498c95101138548d515f43bd9a49071077eb859189af",
+        "sha256_in_prefix": "c9a260355d1bb0113506498c95101138548d515f43bd9a49071077eb859189af",
+        "size_in_bytes": 1140
+      },
+      {
+        "_path": "Library/usr/share/man/man3/textdomain.3.gz",
+        "path_type": "hardlink",
+        "sha256": "94a455b3d70cd611e9ca1b0d9e105ef31fe99edec5350b30c3f2cc76ac8cfb5c",
+        "sha256_in_prefix": "94a455b3d70cd611e9ca1b0d9e105ef31fe99edec5350b30c3f2cc76ac8cfb5c",
+        "size_in_bytes": 1059
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 2117959,
+  "subdir": "win-64",
+  "url": "https://conda.anaconda.org/msys2/win-64/m2-gettext-0.19.7-4.tar.bz2",
+  "version": "0.19.7"
+}

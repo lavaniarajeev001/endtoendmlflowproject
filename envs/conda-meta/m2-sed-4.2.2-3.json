@@ -1,0 +1,370 @@
+{
+  "build": "3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2-bash",
+    "m2-libintl",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "E:\\Anaconda\\pkgs\\m2-sed-4.2.2-3",
+  "files": [
+    "Library/usr/bin/sed.exe",
+    "Library/usr/share/doc/sed/sed.html",
+    "Library/usr/share/info/sed.info.gz",
+    "Library/usr/share/locale/af/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/ast/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/ca/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/cs/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/da/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/de/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/el/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/eo/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/es/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/et/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/eu/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/fi/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/fr/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/ga/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/gl/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/he/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/hr/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/hu/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/id/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/it/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/ja/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/ko/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/nb/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/nl/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/pl/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/pt/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/pt_BR/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/ro/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/ru/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/sk/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/sl/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/sr/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/sv/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/tr/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/uk/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/vi/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/zh_CN/LC_MESSAGES/sed.mo",
+    "Library/usr/share/locale/zh_TW/LC_MESSAGES/sed.mo",
+    "Library/usr/share/man/man1/sed.1.gz",
+    ".nonadmin"
+  ],
+  "fn": "m2-sed-4.2.2-3.tar.bz2",
+  "license": "GPL, GPL3",
+  "link": {
+    "source": "E:\\Anaconda\\pkgs\\m2-sed-4.2.2-3",
+    "type": 1
+  },
+  "md5": "22b8770b2d2742c104a5eb26772fc101",
+  "name": "m2-sed",
+  "package_tarball_full_path": "E:\\Anaconda\\pkgs\\m2-sed-4.2.2-3.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/usr/bin/sed.exe",
+        "path_type": "hardlink",
+        "sha256": "918792e24d4dbbbfab96a40b8fa89d84f681b797299cc9e82510f29cbc72a2d6",
+        "sha256_in_prefix": "918792e24d4dbbbfab96a40b8fa89d84f681b797299cc9e82510f29cbc72a2d6",
+        "size_in_bytes": 1066142
+      },
+      {
+        "_path": "Library/usr/share/doc/sed/sed.html",
+        "path_type": "hardlink",
+        "sha256": "ac362a63d19cc58e487947214aa4a5f1f8cf74545634aa912cc06fa6b4b89910",
+        "sha256_in_prefix": "ac362a63d19cc58e487947214aa4a5f1f8cf74545634aa912cc06fa6b4b89910",
+        "size_in_bytes": 209962
+      },
+      {
+        "_path": "Library/usr/share/info/sed.info.gz",
+        "path_type": "hardlink",
+        "sha256": "f27cf2b4f8726f17abe84435fdc4e582c30be1e455f68b19fca9ece852bfcf46",
+        "sha256_in_prefix": "f27cf2b4f8726f17abe84435fdc4e582c30be1e455f68b19fca9ece852bfcf46",
+        "size_in_bytes": 28906
+      },
+      {
+        "_path": "Library/usr/share/locale/af/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "c9d824e2507272540c857c0ac3436c2c8a867053186443008238353b97339c4b",
+        "sha256_in_prefix": "c9d824e2507272540c857c0ac3436c2c8a867053186443008238353b97339c4b",
+        "size_in_bytes": 3125
+      },
+      {
+        "_path": "Library/usr/share/locale/ast/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "010ed6b95b955b6f3cd7df8e72092bdc51dbe077a39105984aa7bb51fbd8c031",
+        "sha256_in_prefix": "010ed6b95b955b6f3cd7df8e72092bdc51dbe077a39105984aa7bb51fbd8c031",
+        "size_in_bytes": 9247
+      },
+      {
+        "_path": "Library/usr/share/locale/ca/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "5a3f7a5d733797b5cd5e038a929a37dc35704e1e13edac0fadc45b73de72c2cf",
+        "sha256_in_prefix": "5a3f7a5d733797b5cd5e038a929a37dc35704e1e13edac0fadc45b73de72c2cf",
+        "size_in_bytes": 10203
+      },
+      {
+        "_path": "Library/usr/share/locale/cs/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "d337c7d8948ce36d961f84310a5d899ce1e4e0b0d5a880b246a99c8bd5e5f70a",
+        "sha256_in_prefix": "d337c7d8948ce36d961f84310a5d899ce1e4e0b0d5a880b246a99c8bd5e5f70a",
+        "size_in_bytes": 10479
+      },
+      {
+        "_path": "Library/usr/share/locale/da/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "2df85efe449b3d10386be6f8cf80c32f196ad5d947e32c0efc444e7003a9e5cc",
+        "sha256_in_prefix": "2df85efe449b3d10386be6f8cf80c32f196ad5d947e32c0efc444e7003a9e5cc",
+        "size_in_bytes": 9770
+      },
+      {
+        "_path": "Library/usr/share/locale/de/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "61fdfd183810eeae60b35aba8ffe81b7f1d0f3da5b1aedd54515db87a333a284",
+        "sha256_in_prefix": "61fdfd183810eeae60b35aba8ffe81b7f1d0f3da5b1aedd54515db87a333a284",
+        "size_in_bytes": 9655
+      },
+      {
+        "_path": "Library/usr/share/locale/el/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "851e442b5070edf079319b824126b34ddcba625fcf091e2adbe240fbacb77ab7",
+        "sha256_in_prefix": "851e442b5070edf079319b824126b34ddcba625fcf091e2adbe240fbacb77ab7",
+        "size_in_bytes": 13318
+      },
+      {
+        "_path": "Library/usr/share/locale/eo/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "9345c78f3777258fbc9300e6364549d208900bf655d7a1e41a2fbf5852a19ff5",
+        "sha256_in_prefix": "9345c78f3777258fbc9300e6364549d208900bf655d7a1e41a2fbf5852a19ff5",
+        "size_in_bytes": 8931
+      },
+      {
+        "_path": "Library/usr/share/locale/es/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "17681c43a0c6d76bfef6e4c2ec20b0ee16fc31016593cec91a68dae178221633",
+        "sha256_in_prefix": "17681c43a0c6d76bfef6e4c2ec20b0ee16fc31016593cec91a68dae178221633",
+        "size_in_bytes": 10440
+      },
+      {
+        "_path": "Library/usr/share/locale/et/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "10130927258a001446a012b89584c44fb6d2d848f5b20ce4cd8f2e835effa014",
+        "sha256_in_prefix": "10130927258a001446a012b89584c44fb6d2d848f5b20ce4cd8f2e835effa014",
+        "size_in_bytes": 9429
+      },
+      {
+        "_path": "Library/usr/share/locale/eu/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "4b3a3f3a624e23aff9642b4bdae5420f89296752eb510077881fbb44b6564d5e",
+        "sha256_in_prefix": "4b3a3f3a624e23aff9642b4bdae5420f89296752eb510077881fbb44b6564d5e",
+        "size_in_bytes": 1686
+      },
+      {
+        "_path": "Library/usr/share/locale/fi/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "227576557c7feff1ffa6f323cf02221f1985f0083a1485c7124ef87079104372",
+        "sha256_in_prefix": "227576557c7feff1ffa6f323cf02221f1985f0083a1485c7124ef87079104372",
+        "size_in_bytes": 10492
+      },
+      {
+        "_path": "Library/usr/share/locale/fr/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "408e957103310df9406e93528776e4a28fb9397e774c8ea8f96609b90bec3597",
+        "sha256_in_prefix": "408e957103310df9406e93528776e4a28fb9397e774c8ea8f96609b90bec3597",
+        "size_in_bytes": 10475
+      },
+      {
+        "_path": "Library/usr/share/locale/ga/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "55f163039b8061e3d51f9a4857a5ce8552db654444bad4c0897fdd3d94a1f345",
+        "sha256_in_prefix": "55f163039b8061e3d51f9a4857a5ce8552db654444bad4c0897fdd3d94a1f345",
+        "size_in_bytes": 9534
+      },
+      {
+        "_path": "Library/usr/share/locale/gl/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "a0a44dc7fb089f0421a78cc4883d7c95abdd55c323ecf9fb97acddb253103148",
+        "sha256_in_prefix": "a0a44dc7fb089f0421a78cc4883d7c95abdd55c323ecf9fb97acddb253103148",
+        "size_in_bytes": 10434
+      },
+      {
+        "_path": "Library/usr/share/locale/he/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "7bc9bfb7b7b4174647b7b6ad6b42a6634d5e071f59c1caadd6d6a1c2305dba60",
+        "sha256_in_prefix": "7bc9bfb7b7b4174647b7b6ad6b42a6634d5e071f59c1caadd6d6a1c2305dba60",
+        "size_in_bytes": 1269
+      },
+      {
+        "_path": "Library/usr/share/locale/hr/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "806f3133350fd3851683da99f3f657622d48fb57db9d8c8e67aef46755175adf",
+        "sha256_in_prefix": "806f3133350fd3851683da99f3f657622d48fb57db9d8c8e67aef46755175adf",
+        "size_in_bytes": 10091
+      },
+      {
+        "_path": "Library/usr/share/locale/hu/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "07a2156f28d58bc788e636d8a0eedde52ddb749de8adf5d1884c2fc6062a6966",
+        "sha256_in_prefix": "07a2156f28d58bc788e636d8a0eedde52ddb749de8adf5d1884c2fc6062a6966",
+        "size_in_bytes": 7946
+      },
+      {
+        "_path": "Library/usr/share/locale/id/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "983a4080c552f4967f28d29c264723685d296782dc3c46ffa1e4399ac9b44371",
+        "sha256_in_prefix": "983a4080c552f4967f28d29c264723685d296782dc3c46ffa1e4399ac9b44371",
+        "size_in_bytes": 9214
+      },
+      {
+        "_path": "Library/usr/share/locale/it/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "781fe7034d81b933f3f739d2fa853fb56a243e74bcbfbc3acb9db7c7203f8a33",
+        "sha256_in_prefix": "781fe7034d81b933f3f739d2fa853fb56a243e74bcbfbc3acb9db7c7203f8a33",
+        "size_in_bytes": 9297
+      },
+      {
+        "_path": "Library/usr/share/locale/ja/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "b8c34c8770bed6cc21e4c3166352847b5c7954cf9238565837a0953a823480af",
+        "sha256_in_prefix": "b8c34c8770bed6cc21e4c3166352847b5c7954cf9238565837a0953a823480af",
+        "size_in_bytes": 11228
+      },
+      {
+        "_path": "Library/usr/share/locale/ko/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "e2d4fafaf948b0b8d0e29aa6c7a5eb9bfa769f35332fd0f936f048fed1ffb026",
+        "sha256_in_prefix": "e2d4fafaf948b0b8d0e29aa6c7a5eb9bfa769f35332fd0f936f048fed1ffb026",
+        "size_in_bytes": 1318
+      },
+      {
+        "_path": "Library/usr/share/locale/nb/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "6e22a8f8f923ba7db1d19434e50cf3c98247c82befa00fafa61a2d1b290b81cc",
+        "sha256_in_prefix": "6e22a8f8f923ba7db1d19434e50cf3c98247c82befa00fafa61a2d1b290b81cc",
+        "size_in_bytes": 9758
+      },
+      {
+        "_path": "Library/usr/share/locale/nl/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "43a2d26fc14cff1ce575c639c3de8592e46eb61a05c20d3e6ff50daa0a82ed6d",
+        "sha256_in_prefix": "43a2d26fc14cff1ce575c639c3de8592e46eb61a05c20d3e6ff50daa0a82ed6d",
+        "size_in_bytes": 9987
+      },
+      {
+        "_path": "Library/usr/share/locale/pl/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "a615a836897884b0ad505411eba9f53be6c342b6a835827cb03c0198b6e1f2c3",
+        "sha256_in_prefix": "a615a836897884b0ad505411eba9f53be6c342b6a835827cb03c0198b6e1f2c3",
+        "size_in_bytes": 10591
+      },
+      {
+        "_path": "Library/usr/share/locale/pt/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "cc87b3d5bf0f46e40308c1decc093fc2c4d6eb9d3ede03cc76c18bb8bdac12d0",
+        "sha256_in_prefix": "cc87b3d5bf0f46e40308c1decc093fc2c4d6eb9d3ede03cc76c18bb8bdac12d0",
+        "size_in_bytes": 9494
+      },
+      {
+        "_path": "Library/usr/share/locale/pt_BR/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "617ce8025bf8b91018aee3a57eff8a0fc0731d2c1f74931154bbe6f08aa9c4d6",
+        "sha256_in_prefix": "617ce8025bf8b91018aee3a57eff8a0fc0731d2c1f74931154bbe6f08aa9c4d6",
+        "size_in_bytes": 10316
+      },
+      {
+        "_path": "Library/usr/share/locale/ro/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "5bf930c98f0a910929738b3f7962e960dd2c3896755894ce67c0f57c2dc91e40",
+        "sha256_in_prefix": "5bf930c98f0a910929738b3f7962e960dd2c3896755894ce67c0f57c2dc91e40",
+        "size_in_bytes": 8589
+      },
+      {
+        "_path": "Library/usr/share/locale/ru/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "ed890d8a8b329bda53eb5204dc65c4bb085cbdb6ee3cd40719d2ecef75a51348",
+        "sha256_in_prefix": "ed890d8a8b329bda53eb5204dc65c4bb085cbdb6ee3cd40719d2ecef75a51348",
+        "size_in_bytes": 11937
+      },
+      {
+        "_path": "Library/usr/share/locale/sk/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "ab64b85064590db1ddf12b0bafb177f529f4b092ddb76d1a873bcba6f70ffafb",
+        "sha256_in_prefix": "ab64b85064590db1ddf12b0bafb177f529f4b092ddb76d1a873bcba6f70ffafb",
+        "size_in_bytes": 10463
+      },
+      {
+        "_path": "Library/usr/share/locale/sl/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "bf07e4da5c23e05f5e24bd231e180121acc57e633833717dd6d6f0bb5629377b",
+        "sha256_in_prefix": "bf07e4da5c23e05f5e24bd231e180121acc57e633833717dd6d6f0bb5629377b",
+        "size_in_bytes": 10048
+      },
+      {
+        "_path": "Library/usr/share/locale/sr/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "fb6d377edcf6802cd39affc0a47ef9dd788d431efa3efc88f4f6d035c1ef169b",
+        "sha256_in_prefix": "fb6d377edcf6802cd39affc0a47ef9dd788d431efa3efc88f4f6d035c1ef169b",
+        "size_in_bytes": 12388
+      },
+      {
+        "_path": "Library/usr/share/locale/sv/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "ac5469deb5e5207094453c2c679d6f7f82c2e24f96c760d41e1404effaf6ec6d",
+        "sha256_in_prefix": "ac5469deb5e5207094453c2c679d6f7f82c2e24f96c760d41e1404effaf6ec6d",
+        "size_in_bytes": 9029
+      },
+      {
+        "_path": "Library/usr/share/locale/tr/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "99242f2187ba74d169dc1c00578987c5d03a2d85fcafa1ce5e36d547788a8fca",
+        "sha256_in_prefix": "99242f2187ba74d169dc1c00578987c5d03a2d85fcafa1ce5e36d547788a8fca",
+        "size_in_bytes": 8197
+      },
+      {
+        "_path": "Library/usr/share/locale/uk/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "7fb57e6e92ebe5d22d8cca5dd6a5d44fe6229400ca827a318e413768529ae84e",
+        "sha256_in_prefix": "7fb57e6e92ebe5d22d8cca5dd6a5d44fe6229400ca827a318e413768529ae84e",
+        "size_in_bytes": 13187
+      },
+      {
+        "_path": "Library/usr/share/locale/vi/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "a561a7a72adf740396bdafcf98df01ac6580429fa8e477ef4df626cf57edbacb",
+        "sha256_in_prefix": "a561a7a72adf740396bdafcf98df01ac6580429fa8e477ef4df626cf57edbacb",
+        "size_in_bytes": 11244
+      },
+      {
+        "_path": "Library/usr/share/locale/zh_CN/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "3dbf99b153e5bf8f7b64dd261bc607b419951ceeec58f48c1c71506a1c1b7dc7",
+        "sha256_in_prefix": "3dbf99b153e5bf8f7b64dd261bc607b419951ceeec58f48c1c71506a1c1b7dc7",
+        "size_in_bytes": 8616
+      },
+      {
+        "_path": "Library/usr/share/locale/zh_TW/LC_MESSAGES/sed.mo",
+        "path_type": "hardlink",
+        "sha256": "6ac5a7dfce7e7cf12aa8df59a0fa5581f33af65aecd77404df8a64270aa05029",
+        "sha256_in_prefix": "6ac5a7dfce7e7cf12aa8df59a0fa5581f33af65aecd77404df8a64270aa05029",
+        "size_in_bytes": 8114
+      },
+      {
+        "_path": "Library/usr/share/man/man1/sed.1.gz",
+        "path_type": "hardlink",
+        "sha256": "d4602b3bfe6304770c3080e91658818f12877f5ede3a0c4515d011f0c5954041",
+        "sha256_in_prefix": "d4602b3bfe6304770c3080e91658818f12877f5ede3a0c4515d011f0c5954041",
+        "size_in_bytes": 3890
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 866773,
+  "subdir": "win-64",
+  "url": "https://conda.anaconda.org/msys2/win-64/m2-sed-4.2.2-3.tar.bz2",
+  "version": "4.2.2"
+}

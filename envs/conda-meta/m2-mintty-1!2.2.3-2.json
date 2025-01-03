@@ -1,0 +1,73 @@
+{
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2-bash",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "E:\\Anaconda\\pkgs\\m2-mintty-1!2.2.3-2",
+  "files": [
+    "Library/usr/bin/mintty.exe",
+    "Library/usr/share/licenses/mintty/LICENSE",
+    "Library/usr/share/licenses/mintty/LICENSE.Oxygen",
+    "Library/usr/share/licenses/mintty/LICENSE.PuTTY",
+    "Library/usr/share/man/man1/mintty.1.gz",
+    ".nonadmin"
+  ],
+  "fn": "m2-mintty-1!2.2.3-2.tar.bz2",
+  "license": "GPL, GPL3",
+  "link": {
+    "source": "E:\\Anaconda\\pkgs\\m2-mintty-1!2.2.3-2",
+    "type": 1
+  },
+  "md5": "87b908385d65868e57e460c0e39d40e3",
+  "name": "m2-mintty",
+  "package_tarball_full_path": "E:\\Anaconda\\pkgs\\m2-mintty-1!2.2.3-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/usr/bin/mintty.exe",
+        "path_type": "hardlink",
+        "sha256": "b0ac5cf6da6e630a09c78686843027545ce361be120437954f02b4e21abac5c8",
+        "sha256_in_prefix": "b0ac5cf6da6e630a09c78686843027545ce361be120437954f02b4e21abac5c8",
+        "size_in_bytes": 251904
+      },
+      {
+        "_path": "Library/usr/share/licenses/mintty/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "sha256_in_prefix": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+        "size_in_bytes": 35147
+      },
+      {
+        "_path": "Library/usr/share/licenses/mintty/LICENSE.Oxygen",
+        "path_type": "hardlink",
+        "sha256": "3eb788f81e3b40f6366318f08a3168ea714ecbd59d378b62532dbbb356160489",
+        "sha256_in_prefix": "3eb788f81e3b40f6366318f08a3168ea714ecbd59d378b62532dbbb356160489",
+        "size_in_bytes": 2044
+      },
+      {
+        "_path": "Library/usr/share/licenses/mintty/LICENSE.PuTTY",
+        "path_type": "hardlink",
+        "sha256": "867b1e03a9a1bd0131b5ab7cb0cc617750cbd9edec9dee1903e15b306bb8f94b",
+        "sha256_in_prefix": "867b1e03a9a1bd0131b5ab7cb0cc617750cbd9edec9dee1903e15b306bb8f94b",
+        "size_in_bytes": 1279
+      },
+      {
+        "_path": "Library/usr/share/man/man1/mintty.1.gz",
+        "path_type": "hardlink",
+        "sha256": "5c4366dfde013ef144208446dd91112860360bce25d848d0c283074b8f8f07b8",
+        "sha256_in_prefix": "5c4366dfde013ef144208446dd91112860360bce25d848d0c283074b8f8f07b8",
+        "size_in_bytes": 17125
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 173664,
+  "subdir": "win-64",
+  "url": "https://conda.anaconda.org/msys2/win-64/m2-mintty-1!2.2.3-2.tar.bz2",
+  "version": "1!2.2.3"
+}

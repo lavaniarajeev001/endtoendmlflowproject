@@ -1,0 +1,40 @@
+{
+  "build": "h55c1224_11",
+  "build_number": 11,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "E:\\Anaconda\\pkgs\\vs2015_win-64-14.0.25420-h55c1224_11",
+  "files": [
+    "etc/conda/activate.d/vs2015_compiler_vars.bat",
+    ".nonadmin"
+  ],
+  "fn": "vs2015_win-64-14.0.25420-h55c1224_11.conda",
+  "license": "BSD 3-clause",
+  "link": {
+    "source": "E:\\Anaconda\\pkgs\\vs2015_win-64-14.0.25420-h55c1224_11",
+    "type": 1
+  },
+  "md5": "550b529962293f3d564666fd4d3a0e1b",
+  "name": "vs2015_win-64",
+  "package_tarball_full_path": "E:\\Anaconda\\pkgs\\vs2015_win-64-14.0.25420-h55c1224_11.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "etc/conda/activate.d/vs2015_compiler_vars.bat",
+        "path_type": "hardlink",
+        "sha256": "671b83035edcc69e85411e457ecbceee28d0e715b56b3182a71784c3b77e26e8",
+        "sha256_in_prefix": "671b83035edcc69e85411e457ecbceee28d0e715b56b3182a71784c3b77e26e8",
+        "size_in_bytes": 2846
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "vs2015_win-64",
+  "sha256": "ea1583912321dce8627602a72918127d7978f5a572e42b60c960a70729a2dff4",
+  "size": 7307,
+  "subdir": "win-64",
+  "timestamp": 1560521936000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/vs2015_win-64-14.0.25420-h55c1224_11.conda",
+  "version": "14.0.25420"
+}

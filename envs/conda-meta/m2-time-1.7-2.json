@@ -1,0 +1,49 @@
+{
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2-msys2-runtime",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "E:\\Anaconda\\pkgs\\m2-time-1.7-2",
+  "files": [
+    "Library/usr/bin/time.exe",
+    "Library/usr/share/info/time.info.gz",
+    ".nonadmin"
+  ],
+  "fn": "m2-time-1.7-2.tar.bz2",
+  "license": "GPL",
+  "link": {
+    "source": "E:\\Anaconda\\pkgs\\m2-time-1.7-2",
+    "type": 1
+  },
+  "md5": "fd34efda6e010eac8c908650f7695770",
+  "name": "m2-time",
+  "package_tarball_full_path": "E:\\Anaconda\\pkgs\\m2-time-1.7-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/usr/bin/time.exe",
+        "path_type": "hardlink",
+        "sha256": "001d90443c82c94b6d8c30a58d34ead16c3d80b2c06de0315ab04e9a25729575",
+        "sha256_in_prefix": "001d90443c82c94b6d8c30a58d34ead16c3d80b2c06de0315ab04e9a25729575",
+        "size_in_bytes": 19912
+      },
+      {
+        "_path": "Library/usr/share/info/time.info.gz",
+        "path_type": "hardlink",
+        "sha256": "825dfed6ae0cc751bf4b708a2cc6befdcb8d23abf2c831e6f6860305e044fa7a",
+        "sha256_in_prefix": "825dfed6ae0cc751bf4b708a2cc6befdcb8d23abf2c831e6f6860305e044fa7a",
+        "size_in_bytes": 4983
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 18119,
+  "subdir": "win-64",
+  "url": "https://conda.anaconda.org/msys2/win-64/m2-time-1.7-2.tar.bz2",
+  "version": "1.7"
+}

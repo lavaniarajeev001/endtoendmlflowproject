@@ -1,0 +1,147 @@
+{
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2-gcc-libs",
+    "m2-msys2-runtime",
+    "m2-zlib",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "E:\\Anaconda\\pkgs\\m2-file-5.25-2",
+  "files": [
+    "Library/usr/bin/file.exe",
+    "Library/usr/bin/msys-magic-1.dll",
+    "Library/usr/include/magic.h",
+    "Library/usr/lib/libmagic.dll.a",
+    "Library/usr/lib/python2.7/site-packages/magic.py",
+    "Library/usr/lib/python3.4/site-packages/magic.py",
+    "Library/usr/share/file/magic",
+    "Library/usr/share/licenses/file/COPYING",
+    "Library/usr/share/magic",
+    "Library/usr/share/man/man1/file.1.gz",
+    "Library/usr/share/man/man3/libmagic.3.gz",
+    "Library/usr/share/man/man5/magic.5.gz",
+    "Library/usr/share/misc/magic",
+    "Library/usr/share/misc/magic.mgc",
+    ".nonadmin"
+  ],
+  "fn": "m2-file-5.25-2.tar.bz2",
+  "license": "GPL, custom",
+  "link": {
+    "source": "E:\\Anaconda\\pkgs\\m2-file-5.25-2",
+    "type": 1
+  },
+  "md5": "c8601eef00c8a64f7206de39c19fdebd",
+  "name": "m2-file",
+  "package_tarball_full_path": "E:\\Anaconda\\pkgs\\m2-file-5.25-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/usr/bin/file.exe",
+        "path_type": "hardlink",
+        "sha256": "8ba03118be837f1e0f8798c1a99dbbcdb63e6888b5137d5d554a34cfd9a14bdb",
+        "sha256_in_prefix": "8ba03118be837f1e0f8798c1a99dbbcdb63e6888b5137d5d554a34cfd9a14bdb",
+        "size_in_bytes": 21670
+      },
+      {
+        "_path": "Library/usr/bin/msys-magic-1.dll",
+        "path_type": "hardlink",
+        "sha256": "c519524cd152873dfaecd4c39c5e7cc998dc547385c75ed1de737dc936783309",
+        "sha256_in_prefix": "c519524cd152873dfaecd4c39c5e7cc998dc547385c75ed1de737dc936783309",
+        "size_in_bytes": 118750
+      },
+      {
+        "_path": "Library/usr/include/magic.h",
+        "path_type": "hardlink",
+        "sha256": "9a78846f814f049630b1d25a65f13fc76d7c7c9e33e83c7e2edc7f1217949587",
+        "sha256_in_prefix": "9a78846f814f049630b1d25a65f13fc76d7c7c9e33e83c7e2edc7f1217949587",
+        "size_in_bytes": 4991
+      },
+      {
+        "_path": "Library/usr/lib/libmagic.dll.a",
+        "path_type": "hardlink",
+        "sha256": "3bb1fa6f650abcdd491a0f118fae2d240d92eeb8c4d8da086f7be089e47b8c88",
+        "sha256_in_prefix": "3bb1fa6f650abcdd491a0f118fae2d240d92eeb8c4d8da086f7be089e47b8c88",
+        "size_in_bytes": 62860
+      },
+      {
+        "_path": "Library/usr/lib/python2.7/site-packages/magic.py",
+        "path_type": "hardlink",
+        "sha256": "6461bd786c32c12429cdbb65a2b56c528e95cf387ff37ed1f9959da4d7207bb8",
+        "sha256_in_prefix": "6461bd786c32c12429cdbb65a2b56c528e95cf387ff37ed1f9959da4d7207bb8",
+        "size_in_bytes": 6662
+      },
+      {
+        "_path": "Library/usr/lib/python3.4/site-packages/magic.py",
+        "path_type": "hardlink",
+        "sha256": "6461bd786c32c12429cdbb65a2b56c528e95cf387ff37ed1f9959da4d7207bb8",
+        "sha256_in_prefix": "6461bd786c32c12429cdbb65a2b56c528e95cf387ff37ed1f9959da4d7207bb8",
+        "size_in_bytes": 6662
+      },
+      {
+        "_path": "Library/usr/share/file/magic",
+        "path_type": "hardlink",
+        "sha256": "94a5081c33ebc88c35fe987e4b2d4bf70f66fe3ba88ee465e1e1b8d0683d98a5",
+        "sha256_in_prefix": "94a5081c33ebc88c35fe987e4b2d4bf70f66fe3ba88ee465e1e1b8d0683d98a5",
+        "size_in_bytes": 779382
+      },
+      {
+        "_path": "Library/usr/share/licenses/file/COPYING",
+        "path_type": "hardlink",
+        "sha256": "3c0ad13c36f891a9b4f951e59eb2fc108065a46f849697cc6fd3cdb41cc23a3d",
+        "sha256_in_prefix": "3c0ad13c36f891a9b4f951e59eb2fc108065a46f849697cc6fd3cdb41cc23a3d",
+        "size_in_bytes": 1650
+      },
+      {
+        "_path": "Library/usr/share/magic",
+        "path_type": "hardlink",
+        "sha256": "94a5081c33ebc88c35fe987e4b2d4bf70f66fe3ba88ee465e1e1b8d0683d98a5",
+        "sha256_in_prefix": "94a5081c33ebc88c35fe987e4b2d4bf70f66fe3ba88ee465e1e1b8d0683d98a5",
+        "size_in_bytes": 779382
+      },
+      {
+        "_path": "Library/usr/share/man/man1/file.1.gz",
+        "path_type": "hardlink",
+        "sha256": "aeb98fa568f3612e2ea785b4f5ea3858be65d49195c15b34c30508dfe6785392",
+        "sha256_in_prefix": "aeb98fa568f3612e2ea785b4f5ea3858be65d49195c15b34c30508dfe6785392",
+        "size_in_bytes": 8077
+      },
+      {
+        "_path": "Library/usr/share/man/man3/libmagic.3.gz",
+        "path_type": "hardlink",
+        "sha256": "ae7813de64800849656ec0c557cf1ae3203987abfbb658d56954efac49f87d3d",
+        "sha256_in_prefix": "ae7813de64800849656ec0c557cf1ae3203987abfbb658d56954efac49f87d3d",
+        "size_in_bytes": 3702
+      },
+      {
+        "_path": "Library/usr/share/man/man5/magic.5.gz",
+        "path_type": "hardlink",
+        "sha256": "f50bcaa2cf7ab716b287f887c9ecdd7af3a24f24fa1255338fd6188904619c4c",
+        "sha256_in_prefix": "f50bcaa2cf7ab716b287f887c9ecdd7af3a24f24fa1255338fd6188904619c4c",
+        "size_in_bytes": 6921
+      },
+      {
+        "_path": "Library/usr/share/misc/magic",
+        "path_type": "hardlink",
+        "sha256": "94a5081c33ebc88c35fe987e4b2d4bf70f66fe3ba88ee465e1e1b8d0683d98a5",
+        "sha256_in_prefix": "94a5081c33ebc88c35fe987e4b2d4bf70f66fe3ba88ee465e1e1b8d0683d98a5",
+        "size_in_bytes": 779382
+      },
+      {
+        "_path": "Library/usr/share/misc/magic.mgc",
+        "path_type": "hardlink",
+        "sha256": "0a417f143f4818b0b531b1810b9ae8fda2f9310e2564a92c62fc11ccf846e160",
+        "sha256_in_prefix": "0a417f143f4818b0b531b1810b9ae8fda2f9310e2564a92c62fc11ccf846e160",
+        "size_in_bytes": 3881592
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 810566,
+  "subdir": "win-64",
+  "url": "https://conda.anaconda.org/msys2/win-64/m2-file-5.25-2.tar.bz2",
+  "version": "5.25"
+}

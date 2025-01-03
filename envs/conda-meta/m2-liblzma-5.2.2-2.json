@@ -1,0 +1,43 @@
+{
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2-bash",
+    "m2-gettext",
+    "m2-libiconv",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "E:\\Anaconda\\pkgs\\m2-liblzma-5.2.2-2",
+  "files": [
+    "Library/usr/bin/msys-lzma-5.dll",
+    ".nonadmin"
+  ],
+  "fn": "m2-liblzma-5.2.2-2.tar.bz2",
+  "license": "GPL, LGPL, custom",
+  "link": {
+    "source": "E:\\Anaconda\\pkgs\\m2-liblzma-5.2.2-2",
+    "type": 1
+  },
+  "md5": "f4c897d3a3acde1364eafa15997a67e4",
+  "name": "m2-liblzma",
+  "package_tarball_full_path": "E:\\Anaconda\\pkgs\\m2-liblzma-5.2.2-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/usr/bin/msys-lzma-5.dll",
+        "path_type": "hardlink",
+        "sha256": "4eea321c38633ecfada82eb4eadaa62dacb6683d5aed1bd1c0769073b075ffac",
+        "sha256_in_prefix": "4eea321c38633ecfada82eb4eadaa62dacb6683d5aed1bd1c0769073b075ffac",
+        "size_in_bytes": 144516
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 79946,
+  "subdir": "win-64",
+  "url": "https://conda.anaconda.org/msys2/win-64/m2-liblzma-5.2.2-2.tar.bz2",
+  "version": "5.2.2"
+}

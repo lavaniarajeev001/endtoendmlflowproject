@@ -1,0 +1,6 @@
+[package]
+name = "End_to_end_MLFlow_project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

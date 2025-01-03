@@ -1,0 +1,80 @@
+{
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "E:\\Anaconda\\pkgs\\m2-msys2-launcher-git-0.3.28.860c495-2",
+  "files": [
+    "Library/mingw32.exe",
+    "Library/mingw32.ini",
+    "Library/mingw64.exe",
+    "Library/mingw64.ini",
+    "Library/msys2.exe",
+    "Library/msys2.ini",
+    ".nonadmin"
+  ],
+  "fn": "m2-msys2-launcher-git-0.3.28.860c495-2.tar.bz2",
+  "license": "GPL, MIT",
+  "link": {
+    "source": "E:\\Anaconda\\pkgs\\m2-msys2-launcher-git-0.3.28.860c495-2",
+    "type": 1
+  },
+  "md5": "631aa36100fc70b9ba6382beb1982db6",
+  "name": "m2-msys2-launcher-git",
+  "package_tarball_full_path": "E:\\Anaconda\\pkgs\\m2-msys2-launcher-git-0.3.28.860c495-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/mingw32.exe",
+        "path_type": "hardlink",
+        "sha256": "b474a4b58a48f898dad09c1f711dfc51f0c97ad41d72f30eb7595fd08595e7df",
+        "sha256_in_prefix": "b474a4b58a48f898dad09c1f711dfc51f0c97ad41d72f30eb7595fd08595e7df",
+        "size_in_bytes": 53375
+      },
+      {
+        "_path": "Library/mingw32.ini",
+        "path_type": "hardlink",
+        "sha256": "b4cce883fea407377719ebb24f427bfe42d0795c57a54479b9453837e2cac9b0",
+        "sha256_in_prefix": "b4cce883fea407377719ebb24f427bfe42d0795c57a54479b9453837e2cac9b0",
+        "size_in_bytes": 242
+      },
+      {
+        "_path": "Library/mingw64.exe",
+        "path_type": "hardlink",
+        "sha256": "a9b61a2b438e1999dd5206b3424adb6e5b19147f70ab5e9cdeee182ca3b02941",
+        "sha256_in_prefix": "a9b61a2b438e1999dd5206b3424adb6e5b19147f70ab5e9cdeee182ca3b02941",
+        "size_in_bytes": 53375
+      },
+      {
+        "_path": "Library/mingw64.ini",
+        "path_type": "hardlink",
+        "sha256": "212497fbc7552443cf1d6218bd9252e1f52195dfd17c326db4d5562c27d7b72d",
+        "sha256_in_prefix": "212497fbc7552443cf1d6218bd9252e1f52195dfd17c326db4d5562c27d7b72d",
+        "size_in_bytes": 242
+      },
+      {
+        "_path": "Library/msys2.exe",
+        "path_type": "hardlink",
+        "sha256": "ba3b8323707494427ad359315afb8e147d12a76e852e041d2369efcfc07b812d",
+        "sha256_in_prefix": "ba3b8323707494427ad359315afb8e147d12a76e852e041d2369efcfc07b812d",
+        "size_in_bytes": 53375
+      },
+      {
+        "_path": "Library/msys2.ini",
+        "path_type": "hardlink",
+        "sha256": "e584c8a8840ac031ee44e40e9974e01dd41189911d562efdeea18cca308dcb25",
+        "sha256_in_prefix": "e584c8a8840ac031ee44e40e9974e01dd41189911d562efdeea18cca308dcb25",
+        "size_in_bytes": 239
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 27812,
+  "subdir": "win-64",
+  "url": "https://conda.anaconda.org/msys2/win-64/m2-msys2-launcher-git-0.3.28.860c495-2.tar.bz2",
+  "version": "0.3.28.860c495"
+}

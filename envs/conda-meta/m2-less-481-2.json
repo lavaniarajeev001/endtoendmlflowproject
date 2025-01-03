@@ -1,0 +1,82 @@
+{
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2-libpcre",
+    "m2-ncurses",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "E:\\Anaconda\\pkgs\\m2-less-481-2",
+  "files": [
+    "Library/usr/bin/less.exe",
+    "Library/usr/bin/lessecho.exe",
+    "Library/usr/bin/lesskey.exe",
+    "Library/usr/share/man/man1/less.1.gz",
+    "Library/usr/share/man/man1/lessecho.1.gz",
+    "Library/usr/share/man/man1/lesskey.1.gz",
+    ".nonadmin"
+  ],
+  "fn": "m2-less-481-2.tar.bz2",
+  "license": "GPL, GPL3",
+  "link": {
+    "source": "E:\\Anaconda\\pkgs\\m2-less-481-2",
+    "type": 1
+  },
+  "md5": "c9313fc61a2132e5b2227899a7bb297c",
+  "name": "m2-less",
+  "package_tarball_full_path": "E:\\Anaconda\\pkgs\\m2-less-481-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/usr/bin/less.exe",
+        "path_type": "hardlink",
+        "sha256": "d34f0b38534965f346820b85b68e9155f2932f9e45b3587803e0ea9e3016f221",
+        "sha256_in_prefix": "d34f0b38534965f346820b85b68e9155f2932f9e45b3587803e0ea9e3016f221",
+        "size_in_bytes": 143573
+      },
+      {
+        "_path": "Library/usr/bin/lessecho.exe",
+        "path_type": "hardlink",
+        "sha256": "fa0d5035972e83aaa047cd32b36942c60d8f1ec4c1b269d1c4ac64f7eb662faf",
+        "sha256_in_prefix": "fa0d5035972e83aaa047cd32b36942c60d8f1ec4c1b269d1c4ac64f7eb662faf",
+        "size_in_bytes": 11282
+      },
+      {
+        "_path": "Library/usr/bin/lesskey.exe",
+        "path_type": "hardlink",
+        "sha256": "b2ac404c5b1580037d5f80fbddb0b3ae29f11a378c946b11e2fb503d4223e695",
+        "sha256_in_prefix": "b2ac404c5b1580037d5f80fbddb0b3ae29f11a378c946b11e2fb503d4223e695",
+        "size_in_bytes": 17006
+      },
+      {
+        "_path": "Library/usr/share/man/man1/less.1.gz",
+        "path_type": "hardlink",
+        "sha256": "ee424b307a393a0a614013dbcbbc583c202de695dff23f8a5277b842f495c058",
+        "sha256_in_prefix": "ee424b307a393a0a614013dbcbbc583c202de695dff23f8a5277b842f495c058",
+        "size_in_bytes": 20433
+      },
+      {
+        "_path": "Library/usr/share/man/man1/lessecho.1.gz",
+        "path_type": "hardlink",
+        "sha256": "29051adb42def02a65657c8d2335bf5633c0a92890149601385a978e9002aef4",
+        "sha256_in_prefix": "29051adb42def02a65657c8d2335bf5633c0a92890149601385a978e9002aef4",
+        "size_in_bytes": 695
+      },
+      {
+        "_path": "Library/usr/share/man/man1/lesskey.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4ab4a9cb34cc681b91e96752b2102c18a77e14a92f8c71757202df1b1345fc30",
+        "sha256_in_prefix": "4ab4a9cb34cc681b91e96752b2102c18a77e14a92f8c71757202df1b1345fc30",
+        "size_in_bytes": 3702
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 107978,
+  "subdir": "win-64",
+  "url": "https://conda.anaconda.org/msys2/win-64/m2-less-481-2.tar.bz2",
+  "version": "481"
+}

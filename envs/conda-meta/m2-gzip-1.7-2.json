@@ -1,0 +1,243 @@
+{
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2-bash",
+    "m2-less",
+    "m2-msys2-runtime",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "E:\\Anaconda\\pkgs\\m2-gzip-1.7-2",
+  "files": [
+    "Library/usr/bin/gunzip",
+    "Library/usr/bin/gzexe",
+    "Library/usr/bin/gzip.exe",
+    "Library/usr/bin/uncompress",
+    "Library/usr/bin/zcat",
+    "Library/usr/bin/zcmp",
+    "Library/usr/bin/zdiff",
+    "Library/usr/bin/zegrep",
+    "Library/usr/bin/zfgrep",
+    "Library/usr/bin/zforce",
+    "Library/usr/bin/zgrep",
+    "Library/usr/bin/zless",
+    "Library/usr/bin/zmore",
+    "Library/usr/bin/znew",
+    "Library/usr/share/info/gzip.info.gz",
+    "Library/usr/share/man/man1/gunzip.1.gz",
+    "Library/usr/share/man/man1/gzexe.1.gz",
+    "Library/usr/share/man/man1/gzip.1.gz",
+    "Library/usr/share/man/man1/zcat.1.gz",
+    "Library/usr/share/man/man1/zcmp.1.gz",
+    "Library/usr/share/man/man1/zdiff.1.gz",
+    "Library/usr/share/man/man1/zforce.1.gz",
+    "Library/usr/share/man/man1/zgrep.1.gz",
+    "Library/usr/share/man/man1/zless.1.gz",
+    "Library/usr/share/man/man1/zmore.1.gz",
+    "Library/usr/share/man/man1/znew.1.gz",
+    ".nonadmin"
+  ],
+  "fn": "m2-gzip-1.7-2.tar.bz2",
+  "license": "GPL, GPL3",
+  "link": {
+    "source": "E:\\Anaconda\\pkgs\\m2-gzip-1.7-2",
+    "type": 1
+  },
+  "md5": "fd06be0ecd9cef4abfaf29e493655986",
+  "name": "m2-gzip",
+  "package_tarball_full_path": "E:\\Anaconda\\pkgs\\m2-gzip-1.7-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/usr/bin/gunzip",
+        "path_type": "hardlink",
+        "sha256": "bf90b156ec24c3f16909c84b7f3b13129dcf74165f079b40a6b3450addbe496b",
+        "sha256_in_prefix": "bf90b156ec24c3f16909c84b7f3b13129dcf74165f079b40a6b3450addbe496b",
+        "size_in_bytes": 2304
+      },
+      {
+        "_path": "Library/usr/bin/gzexe",
+        "path_type": "hardlink",
+        "sha256": "dd9557472cb24bfb0148ff847594fe8f39fe6db0fb81586f707d42abd2d2d190",
+        "sha256_in_prefix": "dd9557472cb24bfb0148ff847594fe8f39fe6db0fb81586f707d42abd2d2d190",
+        "size_in_bytes": 5837
+      },
+      {
+        "_path": "Library/usr/bin/gzip.exe",
+        "path_type": "hardlink",
+        "sha256": "5001322c487b4ec6df2be38d45439a6e664f5f50b7fc61b1afe2710809390326",
+        "sha256_in_prefix": "5001322c487b4ec6df2be38d45439a6e664f5f50b7fc61b1afe2710809390326",
+        "size_in_bytes": 111488
+      },
+      {
+        "_path": "Library/usr/bin/uncompress",
+        "path_type": "hardlink",
+        "sha256": "bf90b156ec24c3f16909c84b7f3b13129dcf74165f079b40a6b3450addbe496b",
+        "sha256_in_prefix": "bf90b156ec24c3f16909c84b7f3b13129dcf74165f079b40a6b3450addbe496b",
+        "size_in_bytes": 2304
+      },
+      {
+        "_path": "Library/usr/bin/zcat",
+        "path_type": "hardlink",
+        "sha256": "12c0c1a84c10376810ac49e28c6c6e217f6c5112df3b68b366f93affd360b9dd",
+        "sha256_in_prefix": "12c0c1a84c10376810ac49e28c6c6e217f6c5112df3b68b366f93affd360b9dd",
+        "size_in_bytes": 1940
+      },
+      {
+        "_path": "Library/usr/bin/zcmp",
+        "path_type": "hardlink",
+        "sha256": "29de1bb6e421198f0cee59bf16d139a6d8434c4ae65ea95df8692948bcf53179",
+        "sha256_in_prefix": "29de1bb6e421198f0cee59bf16d139a6d8434c4ae65ea95df8692948bcf53179",
+        "size_in_bytes": 1665
+      },
+      {
+        "_path": "Library/usr/bin/zdiff",
+        "path_type": "hardlink",
+        "sha256": "4fff16ae73bc831393453ea829f8ba8d44319957f72eca28e5c1e9a13e16af22",
+        "sha256_in_prefix": "4fff16ae73bc831393453ea829f8ba8d44319957f72eca28e5c1e9a13e16af22",
+        "size_in_bytes": 5667
+      },
+      {
+        "_path": "Library/usr/bin/zegrep",
+        "path_type": "hardlink",
+        "sha256": "67ee7fadec7ea53b4c1f8cfc3c81427b29c0b1381e80b55642617620c84d0bcc",
+        "sha256_in_prefix": "67ee7fadec7ea53b4c1f8cfc3c81427b29c0b1381e80b55642617620c84d0bcc",
+        "size_in_bytes": 29
+      },
+      {
+        "_path": "Library/usr/bin/zfgrep",
+        "path_type": "hardlink",
+        "sha256": "87ab5f4c7cb344e409d614d1a69cc156b3b1053d6ae0b59d8e2c2131f3e63e5a",
+        "sha256_in_prefix": "87ab5f4c7cb344e409d614d1a69cc156b3b1053d6ae0b59d8e2c2131f3e63e5a",
+        "size_in_bytes": 29
+      },
+      {
+        "_path": "Library/usr/bin/zforce",
+        "path_type": "hardlink",
+        "sha256": "ff1d7b6b625aad90fc524116e7aa1741e7baef5c9e49ce1d5246ef5faa76ec5a",
+        "sha256_in_prefix": "ff1d7b6b625aad90fc524116e7aa1741e7baef5c9e49ce1d5246ef5faa76ec5a",
+        "size_in_bytes": 2038
+      },
+      {
+        "_path": "Library/usr/bin/zgrep",
+        "path_type": "hardlink",
+        "sha256": "65795e5740bff84f07d0e7233f186f49316fe59e5dd7db7324a4449bf313bc04",
+        "sha256_in_prefix": "65795e5740bff84f07d0e7233f186f49316fe59e5dd7db7324a4449bf313bc04",
+        "size_in_bytes": 7444
+      },
+      {
+        "_path": "Library/usr/bin/zless",
+        "path_type": "hardlink",
+        "sha256": "d95133b1e34ebe82b74a169da2a67a29be6e6e2efd66cc4f98ca2cb650a4577c",
+        "sha256_in_prefix": "d95133b1e34ebe82b74a169da2a67a29be6e6e2efd66cc4f98ca2cb650a4577c",
+        "size_in_bytes": 2154
+      },
+      {
+        "_path": "Library/usr/bin/zmore",
+        "path_type": "hardlink",
+        "sha256": "92ca6ef67c1a5930f819df0c82f5a19e0aa1073b1cd4098d7d3d67c08cc9f54e",
+        "sha256_in_prefix": "92ca6ef67c1a5930f819df0c82f5a19e0aa1073b1cd4098d7d3d67c08cc9f54e",
+        "size_in_bytes": 1816
+      },
+      {
+        "_path": "Library/usr/bin/znew",
+        "path_type": "hardlink",
+        "sha256": "c81d1da09b1ff7d4ceb00ae635a32c7afa722ead98304d8c931abe87447df6ce",
+        "sha256_in_prefix": "c81d1da09b1ff7d4ceb00ae635a32c7afa722ead98304d8c931abe87447df6ce",
+        "size_in_bytes": 4392
+      },
+      {
+        "_path": "Library/usr/share/info/gzip.info.gz",
+        "path_type": "hardlink",
+        "sha256": "1fa946f94b7f42a5d920b9558fcefd8dc177599cd987c04fca2ba4a81c0a8581",
+        "sha256_in_prefix": "1fa946f94b7f42a5d920b9558fcefd8dc177599cd987c04fca2ba4a81c0a8581",
+        "size_in_bytes": 15228
+      },
+      {
+        "_path": "Library/usr/share/man/man1/gunzip.1.gz",
+        "path_type": "hardlink",
+        "sha256": "9c3920e404b8d046ba0e76986f1a8041d71cd064ec7010949b23e17fc4c5b90e",
+        "sha256_in_prefix": "9c3920e404b8d046ba0e76986f1a8041d71cd064ec7010949b23e17fc4c5b90e",
+        "size_in_bytes": 36
+      },
+      {
+        "_path": "Library/usr/share/man/man1/gzexe.1.gz",
+        "path_type": "hardlink",
+        "sha256": "a2adac2ba707752cc965034224d5c998d731360b2f06a196433d63e0b034445d",
+        "sha256_in_prefix": "a2adac2ba707752cc965034224d5c998d731360b2f06a196433d63e0b034445d",
+        "size_in_bytes": 754
+      },
+      {
+        "_path": "Library/usr/share/man/man1/gzip.1.gz",
+        "path_type": "hardlink",
+        "sha256": "ee1116cfd501252948407030a828f02f40ca725128d9979501f5d61400e5af75",
+        "sha256_in_prefix": "ee1116cfd501252948407030a828f02f40ca725128d9979501f5d61400e5af75",
+        "size_in_bytes": 6367
+      },
+      {
+        "_path": "Library/usr/share/man/man1/zcat.1.gz",
+        "path_type": "hardlink",
+        "sha256": "9c3920e404b8d046ba0e76986f1a8041d71cd064ec7010949b23e17fc4c5b90e",
+        "sha256_in_prefix": "9c3920e404b8d046ba0e76986f1a8041d71cd064ec7010949b23e17fc4c5b90e",
+        "size_in_bytes": 36
+      },
+      {
+        "_path": "Library/usr/share/man/man1/zcmp.1.gz",
+        "path_type": "hardlink",
+        "sha256": "9a1cd67ffba6bb5a980519473fea923f852ee8a4e53c887588b4f16f0682334f",
+        "sha256_in_prefix": "9a1cd67ffba6bb5a980519473fea923f852ee8a4e53c887588b4f16f0682334f",
+        "size_in_bytes": 37
+      },
+      {
+        "_path": "Library/usr/share/man/man1/zdiff.1.gz",
+        "path_type": "hardlink",
+        "sha256": "4c92ef6a8794de0fc10da76ed338574ed4984bb1372f873f58c3be0a60aaff49",
+        "sha256_in_prefix": "4c92ef6a8794de0fc10da76ed338574ed4984bb1372f873f58c3be0a60aaff49",
+        "size_in_bytes": 453
+      },
+      {
+        "_path": "Library/usr/share/man/man1/zforce.1.gz",
+        "path_type": "hardlink",
+        "sha256": "1d1a6f38d55af3ff314465a18c1b33b58cc31e122dbd22ac0c1acca35cd0a7a6",
+        "sha256_in_prefix": "1d1a6f38d55af3ff314465a18c1b33b58cc31e122dbd22ac0c1acca35cd0a7a6",
+        "size_in_bytes": 378
+      },
+      {
+        "_path": "Library/usr/share/man/man1/zgrep.1.gz",
+        "path_type": "hardlink",
+        "sha256": "2d37c0b2c27433b42780cf9327a7f4cff60b4ab88e3615e3e6eb5994316689c9",
+        "sha256_in_prefix": "2d37c0b2c27433b42780cf9327a7f4cff60b4ab88e3615e3e6eb5994316689c9",
+        "size_in_bytes": 605
+      },
+      {
+        "_path": "Library/usr/share/man/man1/zless.1.gz",
+        "path_type": "hardlink",
+        "sha256": "cf5fa93aa8e1a8d8aecaa534d37ef0263fcd8e27734e39972829758785b0bbb3",
+        "sha256_in_prefix": "cf5fa93aa8e1a8d8aecaa534d37ef0263fcd8e27734e39972829758785b0bbb3",
+        "size_in_bytes": 1008
+      },
+      {
+        "_path": "Library/usr/share/man/man1/zmore.1.gz",
+        "path_type": "hardlink",
+        "sha256": "0b2b9909b25bee03467fa46167a71755af615aa0063e47d20e7b18c63d164185",
+        "sha256_in_prefix": "0b2b9909b25bee03467fa46167a71755af615aa0063e47d20e7b18c63d164185",
+        "size_in_bytes": 1652
+      },
+      {
+        "_path": "Library/usr/share/man/man1/znew.1.gz",
+        "path_type": "hardlink",
+        "sha256": "ec14e86e2463743fca14b6519a42b854afc4be8a0642335d29bef6532c669be1",
+        "sha256_in_prefix": "ec14e86e2463743fca14b6519a42b854afc4be8a0642335d29bef6532c669be1",
+        "size_in_bytes": 577
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 104071,
+  "subdir": "win-64",
+  "url": "https://conda.anaconda.org/msys2/win-64/m2-gzip-1.7-2.tar.bz2",
+  "version": "1.7"
+}

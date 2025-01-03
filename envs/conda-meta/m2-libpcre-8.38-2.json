@@ -1,0 +1,41 @@
+{
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2-gcc-libs",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "E:\\Anaconda\\pkgs\\m2-libpcre-8.38-2",
+  "files": [
+    "Library/usr/bin/msys-pcre-1.dll",
+    ".nonadmin"
+  ],
+  "fn": "m2-libpcre-8.38-2.tar.bz2",
+  "license": "GPL, BSD",
+  "link": {
+    "source": "E:\\Anaconda\\pkgs\\m2-libpcre-8.38-2",
+    "type": 1
+  },
+  "md5": "e57e096736ed437a3045be8246de01de",
+  "name": "m2-libpcre",
+  "package_tarball_full_path": "E:\\Anaconda\\pkgs\\m2-libpcre-8.38-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/usr/bin/msys-pcre-1.dll",
+        "path_type": "hardlink",
+        "sha256": "bc487cb42988621b9f54fedf81936b34ad945607642760affe87efe4fb8c3f85",
+        "sha256_in_prefix": "bc487cb42988621b9f54fedf81936b34ad945607642760affe87efe4fb8c3f85",
+        "size_in_bytes": 288286
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 100289,
+  "subdir": "win-64",
+  "url": "https://conda.anaconda.org/msys2/win-64/m2-libpcre-8.38-2.tar.bz2",
+  "version": "8.38"
+}

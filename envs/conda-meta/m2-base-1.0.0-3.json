@@ -1,0 +1,67 @@
+{
+  "build": "3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2-bash",
+    "m2-bash-completion",
+    "m2-catgets",
+    "m2-coreutils",
+    "m2-dash",
+    "m2-file",
+    "m2-filesystem",
+    "m2-findutils",
+    "m2-gawk",
+    "m2-gcc-libs",
+    "m2-grep",
+    "m2-gzip",
+    "m2-inetutils",
+    "m2-info",
+    "m2-less",
+    "m2-libxml2",
+    "m2-mintty",
+    "m2-msys2-launcher-git",
+    "m2-msys2-runtime",
+    "m2-ncurses",
+    "m2-sed",
+    "m2-time",
+    "m2-ttyrec",
+    "m2-tzcode",
+    "m2-util-linux",
+    "m2-which",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "E:\\Anaconda\\pkgs\\m2-base-1.0.0-3",
+  "files": [
+    "Scripts/.m2-base-post-link.bat",
+    ".nonadmin"
+  ],
+  "fn": "m2-base-1.0.0-3.tar.bz2",
+  "license": "",
+  "link": {
+    "source": "E:\\Anaconda\\pkgs\\m2-base-1.0.0-3",
+    "type": 1
+  },
+  "md5": "78fbc69c3c63793360c04492c1349ae1",
+  "name": "m2-base",
+  "package_tarball_full_path": "E:\\Anaconda\\pkgs\\m2-base-1.0.0-3.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Scripts/.m2-base-post-link.bat",
+        "path_type": "hardlink",
+        "sha256": "7b3d3fc93af6ee84f82d57bb106f81ff2962d609e6df3048b9d58d9c4ebd1755",
+        "sha256_in_prefix": "7b3d3fc93af6ee84f82d57bb106f81ff2962d609e6df3048b9d58d9c4ebd1755",
+        "size_in_bytes": 61
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "m2-base",
+  "size": 182731,
+  "subdir": "win-64",
+  "timestamp": 1554152784000,
+  "url": "https://conda.anaconda.org/msys2/win-64/m2-base-1.0.0-3.tar.bz2",
+  "version": "1.0.0"
+}

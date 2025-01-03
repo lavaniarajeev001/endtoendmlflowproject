@@ -1,0 +1,91 @@
+{
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2-gzip",
+    "m2-libintl",
+    "m2-ncurses",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "E:\\Anaconda\\pkgs\\m2-info-6.0-2",
+  "files": [
+    "Library/usr/bin/info.exe",
+    "Library/usr/bin/install-info.exe",
+    "Library/usr/share/info/info-stnd.info.gz",
+    "Library/usr/share/info/info.info.gz",
+    "Library/usr/share/man/man1/info.1.gz",
+    "Library/usr/share/man/man1/install-info.1.gz",
+    "Library/usr/share/man/man5/info.5.gz",
+    ".nonadmin"
+  ],
+  "fn": "m2-info-6.0-2.tar.bz2",
+  "license": "GPL, GPL3",
+  "link": {
+    "source": "E:\\Anaconda\\pkgs\\m2-info-6.0-2",
+    "type": 1
+  },
+  "md5": "79eec9281a5e5f2f65b118b9698396b3",
+  "name": "m2-info",
+  "package_tarball_full_path": "E:\\Anaconda\\pkgs\\m2-info-6.0-2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/usr/bin/info.exe",
+        "path_type": "hardlink",
+        "sha256": "9057c0cbc3edc711ae3c1c383c0d49e22240e7aa996ba245a5972e529a4c4bb6",
+        "sha256_in_prefix": "9057c0cbc3edc711ae3c1c383c0d49e22240e7aa996ba245a5972e529a4c4bb6",
+        "size_in_bytes": 284953
+      },
+      {
+        "_path": "Library/usr/bin/install-info.exe",
+        "path_type": "hardlink",
+        "sha256": "f40f725982c27678bf9aa04328b30b70b5d33fc898de719f533c0d5644dc65f2",
+        "sha256_in_prefix": "f40f725982c27678bf9aa04328b30b70b5d33fc898de719f533c0d5644dc65f2",
+        "size_in_bytes": 104679
+      },
+      {
+        "_path": "Library/usr/share/info/info-stnd.info.gz",
+        "path_type": "hardlink",
+        "sha256": "ede5a11292c22c1a42fb038b1910837bc3731544380dcdc2c4faa047e450b0c3",
+        "sha256_in_prefix": "ede5a11292c22c1a42fb038b1910837bc3731544380dcdc2c4faa047e450b0c3",
+        "size_in_bytes": 29584
+      },
+      {
+        "_path": "Library/usr/share/info/info.info.gz",
+        "path_type": "hardlink",
+        "sha256": "38de040bb87f6fa858df586e06b6f97caf951e5db7d3d1f436648b9848076da6",
+        "sha256_in_prefix": "38de040bb87f6fa858df586e06b6f97caf951e5db7d3d1f436648b9848076da6",
+        "size_in_bytes": 25567
+      },
+      {
+        "_path": "Library/usr/share/man/man1/info.1.gz",
+        "path_type": "hardlink",
+        "sha256": "c4358d89fcbcf1adfe10be511373a1603458ba1d16020c895ea91c6cb8180dd6",
+        "sha256_in_prefix": "c4358d89fcbcf1adfe10be511373a1603458ba1d16020c895ea91c6cb8180dd6",
+        "size_in_bytes": 1600
+      },
+      {
+        "_path": "Library/usr/share/man/man1/install-info.1.gz",
+        "path_type": "hardlink",
+        "sha256": "699d99b1dda52ca833b6ce2bc0bfe776071f2a26e05011c38a558e9c2c53390e",
+        "sha256_in_prefix": "699d99b1dda52ca833b6ce2bc0bfe776071f2a26e05011c38a558e9c2c53390e",
+        "size_in_bytes": 1743
+      },
+      {
+        "_path": "Library/usr/share/man/man5/info.5.gz",
+        "path_type": "hardlink",
+        "sha256": "38b94dd94750b76f8b987310e193c47eea0081376b5858942421fb3657c14458",
+        "sha256_in_prefix": "38b94dd94750b76f8b987310e193c47eea0081376b5858942421fb3657c14458",
+        "size_in_bytes": 781
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 243021,
+  "subdir": "win-64",
+  "url": "https://conda.anaconda.org/msys2/win-64/m2-info-6.0-2.tar.bz2",
+  "version": "6.0"
+}

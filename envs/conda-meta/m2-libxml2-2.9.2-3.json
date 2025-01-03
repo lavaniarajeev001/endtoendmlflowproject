@@ -1,0 +1,101 @@
+{
+  "build": "3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "m2-coreutils",
+    "m2-liblzma",
+    "m2-libreadline",
+    "m2-ncurses",
+    "m2-zlib",
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "E:\\Anaconda\\pkgs\\m2-libxml2-2.9.2-3",
+  "files": [
+    "Library/usr/bin/msys-xml2-2.dll",
+    "Library/usr/bin/xmlcatalog.exe",
+    "Library/usr/bin/xmllint.exe",
+    "Library/usr/share/licenses/libxml2/COPYING",
+    "Library/usr/share/man/man1/xml2-config.1.gz",
+    "Library/usr/share/man/man1/xmlcatalog.1.gz",
+    "Library/usr/share/man/man1/xmllint.1.gz",
+    "Library/usr/share/man/man3/libxml.3.gz",
+    ".nonadmin"
+  ],
+  "fn": "m2-libxml2-2.9.2-3.tar.bz2",
+  "license": "GPL, MIT",
+  "link": {
+    "source": "E:\\Anaconda\\pkgs\\m2-libxml2-2.9.2-3",
+    "type": 1
+  },
+  "md5": "3793148818463ced50e95dbacb995a3a",
+  "name": "m2-libxml2",
+  "package_tarball_full_path": "E:\\Anaconda\\pkgs\\m2-libxml2-2.9.2-3.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/usr/bin/msys-xml2-2.dll",
+        "path_type": "hardlink",
+        "sha256": "2b8f89b0a6dae21e94f113e52d79f35dce7379394a35ff7109339f5023709609",
+        "sha256_in_prefix": "2b8f89b0a6dae21e94f113e52d79f35dce7379394a35ff7109339f5023709609",
+        "size_in_bytes": 1226781
+      },
+      {
+        "_path": "Library/usr/bin/xmlcatalog.exe",
+        "path_type": "hardlink",
+        "sha256": "f0b4f3d6e747594f67f80955352ae013bec202e53af4f2a2157136c5f9b16ca2",
+        "sha256_in_prefix": "f0b4f3d6e747594f67f80955352ae013bec202e53af4f2a2157136c5f9b16ca2",
+        "size_in_bytes": 18108
+      },
+      {
+        "_path": "Library/usr/bin/xmllint.exe",
+        "path_type": "hardlink",
+        "sha256": "39fc8ba750f47f5dc1801648dbe851e54c0602383d9fe19aef720075624157a3",
+        "sha256_in_prefix": "39fc8ba750f47f5dc1801648dbe851e54c0602383d9fe19aef720075624157a3",
+        "size_in_bytes": 64927
+      },
+      {
+        "_path": "Library/usr/share/licenses/libxml2/COPYING",
+        "path_type": "hardlink",
+        "sha256": "c5c63674f8a83c4d2e385d96d1c670a03cb871ba2927755467017317878574bd",
+        "sha256_in_prefix": "c5c63674f8a83c4d2e385d96d1c670a03cb871ba2927755467017317878574bd",
+        "size_in_bytes": 1289
+      },
+      {
+        "_path": "Library/usr/share/man/man1/xml2-config.1.gz",
+        "path_type": "hardlink",
+        "sha256": "12a7de6fd52ca69d9189970df53a66c13df72246bd26c16cbe6bad5d497729fa",
+        "sha256_in_prefix": "12a7de6fd52ca69d9189970df53a66c13df72246bd26c16cbe6bad5d497729fa",
+        "size_in_bytes": 590
+      },
+      {
+        "_path": "Library/usr/share/man/man1/xmlcatalog.1.gz",
+        "path_type": "hardlink",
+        "sha256": "a25eb1894049745df41f4c74806727a13a7e062811619042030796669b47bed6",
+        "sha256_in_prefix": "a25eb1894049745df41f4c74806727a13a7e062811619042030796669b47bed6",
+        "size_in_bytes": 2425
+      },
+      {
+        "_path": "Library/usr/share/man/man1/xmllint.1.gz",
+        "path_type": "hardlink",
+        "sha256": "5974236f0740926fe974baf81e83f67bbe2df201ef3871a7a5a44c961d8df6d5",
+        "sha256_in_prefix": "5974236f0740926fe974baf81e83f67bbe2df201ef3871a7a5a44c961d8df6d5",
+        "size_in_bytes": 4385
+      },
+      {
+        "_path": "Library/usr/share/man/man3/libxml.3.gz",
+        "path_type": "hardlink",
+        "sha256": "05fb55e53f1c4006b2c7819b4aa82a72366e8721066e26db7f172834e370633d",
+        "sha256_in_prefix": "05fb55e53f1c4006b2c7819b4aa82a72366e8721066e26db7f172834e370633d",
+        "size_in_bytes": 849
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 575429,
+  "subdir": "win-64",
+  "url": "https://conda.anaconda.org/msys2/win-64/m2-libxml2-2.9.2-3.tar.bz2",
+  "version": "2.9.2"
+}

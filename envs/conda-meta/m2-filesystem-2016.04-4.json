@@ -1,0 +1,256 @@
+{
+  "build": "4",
+  "build_number": 4,
+  "channel": "https://conda.anaconda.org/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "E:\\Anaconda\\pkgs\\m2-filesystem-2016.04-4",
+  "files": [
+    "Library/etc/bash.bash_logout",
+    "Library/etc/bash.bashrc",
+    "Library/etc/fstab",
+    "Library/etc/nsswitch.conf",
+    "Library/etc/post-install/01-devices.post",
+    "Library/etc/post-install/03-mtab.post",
+    "Library/etc/post-install/05-home-dir.post",
+    "Library/etc/post-install/06-windows-files.post",
+    "Library/etc/post-install/08-xml-catalog.post",
+    "Library/etc/profile",
+    "Library/etc/profile.d/lang.sh",
+    "Library/etc/profile.d/tzset.sh",
+    "Library/etc/shells",
+    "Library/etc/skel/.bash_logout",
+    "Library/etc/skel/.bash_profile",
+    "Library/etc/skel/.bashrc",
+    "Library/etc/skel/.inputrc",
+    "Library/etc/skel/.profile",
+    "Library/mingw32_shell.bat",
+    "Library/mingw64_shell.bat",
+    "Library/msys2.ico",
+    "Library/msys2_shell.bat",
+    "Library/start_shell.cmd",
+    "Library/usr/bin/cmd",
+    "Library/usr/bin/dep-search",
+    "Library/usr/bin/regen-info.sh",
+    "Library/usr/bin/start",
+    "Library/usr/share/Msys/cygwin.ldif",
+    ".nonadmin"
+  ],
+  "fn": "m2-filesystem-2016.04-4.tar.bz2",
+  "license": "GPL, BSD",
+  "link": {
+    "source": "E:\\Anaconda\\pkgs\\m2-filesystem-2016.04-4",
+    "type": 1
+  },
+  "md5": "30bdc92a51fd17b271e06532d4e66012",
+  "name": "m2-filesystem",
+  "package_tarball_full_path": "E:\\Anaconda\\pkgs\\m2-filesystem-2016.04-4.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/etc/bash.bash_logout",
+        "path_type": "hardlink",
+        "sha256": "6d651f6b0b2d173961a3fa21acd9d44c783ed9cd73a031687698c8b9ed1f6dee",
+        "sha256_in_prefix": "6d651f6b0b2d173961a3fa21acd9d44c783ed9cd73a031687698c8b9ed1f6dee",
+        "size_in_bytes": 622
+      },
+      {
+        "_path": "Library/etc/bash.bashrc",
+        "path_type": "hardlink",
+        "sha256": "b246aec17f8117b18231a94ca8b806b5e281844de402e923a9982f3622f33a43",
+        "sha256_in_prefix": "b246aec17f8117b18231a94ca8b806b5e281844de402e923a9982f3622f33a43",
+        "size_in_bytes": 939
+      },
+      {
+        "_path": "Library/etc/fstab",
+        "path_type": "hardlink",
+        "sha256": "52e6db7611865be30f48f377453915b3aaf3a9fb2a4e2bfd23c5ab188e9a3af8",
+        "sha256_in_prefix": "52e6db7611865be30f48f377453915b3aaf3a9fb2a4e2bfd23c5ab188e9a3af8",
+        "size_in_bytes": 315
+      },
+      {
+        "_path": "Library/etc/nsswitch.conf",
+        "path_type": "hardlink",
+        "sha256": "91f1f918cf13deab0124082086e990786113b0e710dbda4678d8fc14905ad94d",
+        "sha256_in_prefix": "91f1f918cf13deab0124082086e990786113b0e710dbda4678d8fc14905ad94d",
+        "size_in_bytes": 177
+      },
+      {
+        "_path": "Library/etc/post-install/01-devices.post",
+        "path_type": "hardlink",
+        "sha256": "95105051d31ecbe4ace262a4496ec1055bdd14d61b7d475a771b56fe15f8ccd9",
+        "sha256_in_prefix": "95105051d31ecbe4ace262a4496ec1055bdd14d61b7d475a771b56fe15f8ccd9",
+        "size_in_bytes": 2601
+      },
+      {
+        "_path": "Library/etc/post-install/03-mtab.post",
+        "path_type": "hardlink",
+        "sha256": "d7b7eb4cd9e1f9bc227b009cdcacf700f5523ccc109fbd3c1c0331726d314c9e",
+        "sha256_in_prefix": "d7b7eb4cd9e1f9bc227b009cdcacf700f5523ccc109fbd3c1c0331726d314c9e",
+        "size_in_bytes": 178
+      },
+      {
+        "_path": "Library/etc/post-install/05-home-dir.post",
+        "path_type": "hardlink",
+        "sha256": "7bc2de4c86b9d04721e119592c6d5df1e4438a8d5de1b1c750fc7c7d470e4882",
+        "sha256_in_prefix": "7bc2de4c86b9d04721e119592c6d5df1e4438a8d5de1b1c750fc7c7d470e4882",
+        "size_in_bytes": 14256
+      },
+      {
+        "_path": "Library/etc/post-install/06-windows-files.post",
+        "path_type": "hardlink",
+        "sha256": "9aa47f4d8b781906136d39d10fa9c007e9ff7433624213c7db7a03e906e804ba",
+        "sha256_in_prefix": "9aa47f4d8b781906136d39d10fa9c007e9ff7433624213c7db7a03e906e804ba",
+        "size_in_bytes": 708
+      },
+      {
+        "_path": "Library/etc/post-install/08-xml-catalog.post",
+        "path_type": "hardlink",
+        "sha256": "ad8533809ea2b1bce0a41b3a0a24dbc7a9f58b992ceb40cc9f862b1978032790",
+        "sha256_in_prefix": "ad8533809ea2b1bce0a41b3a0a24dbc7a9f58b992ceb40cc9f862b1978032790",
+        "size_in_bytes": 224
+      },
+      {
+        "_path": "Library/etc/profile",
+        "path_type": "hardlink",
+        "sha256": "400c159975f38e1578e8452cf825310fd7aee3c65c4b36714c024928e9c711af",
+        "sha256_in_prefix": "400c159975f38e1578e8452cf825310fd7aee3c65c4b36714c024928e9c711af",
+        "size_in_bytes": 6381
+      },
+      {
+        "_path": "Library/etc/profile.d/lang.sh",
+        "path_type": "hardlink",
+        "sha256": "0a3a3b131ace34f11f428118dfe81b34da148e29b6bea3b027d79bebd47141a7",
+        "sha256_in_prefix": "0a3a3b131ace34f11f428118dfe81b34da148e29b6bea3b027d79bebd47141a7",
+        "size_in_bytes": 822
+      },
+      {
+        "_path": "Library/etc/profile.d/tzset.sh",
+        "path_type": "hardlink",
+        "sha256": "020d0619a6af9a4d6e1068cb77f2789bcf470380426214e90177f5596d651835",
+        "sha256_in_prefix": "020d0619a6af9a4d6e1068cb77f2789bcf470380426214e90177f5596d651835",
+        "size_in_bytes": 1005
+      },
+      {
+        "_path": "Library/etc/shells",
+        "path_type": "hardlink",
+        "sha256": "f63241cc56aa7b7ec6962d19991d211b4e1641b78ba5226835118ab493830a8b",
+        "sha256_in_prefix": "f63241cc56aa7b7ec6962d19991d211b4e1641b78ba5226835118ab493830a8b",
+        "size_in_bytes": 60
+      },
+      {
+        "_path": "Library/etc/skel/.bash_logout",
+        "path_type": "hardlink",
+        "sha256": "4330edf340394d0dae50afb04ac2a621f106fe67fb634ec81c4bfb98be2a1eb5",
+        "sha256_in_prefix": "4330edf340394d0dae50afb04ac2a621f106fe67fb634ec81c4bfb98be2a1eb5",
+        "size_in_bytes": 21
+      },
+      {
+        "_path": "Library/etc/skel/.bash_profile",
+        "path_type": "hardlink",
+        "sha256": "06016b2541299e98474e945f22c675d63be67f3c6339b894bf75a1524dfa8604",
+        "sha256_in_prefix": "06016b2541299e98474e945f22c675d63be67f3c6339b894bf75a1524dfa8604",
+        "size_in_bytes": 1255
+      },
+      {
+        "_path": "Library/etc/skel/.bashrc",
+        "path_type": "hardlink",
+        "sha256": "6e5d0460bc35a04c44740db7c9730ddf2aedac66b149374b6a8dfb5dae41edcd",
+        "sha256_in_prefix": "6e5d0460bc35a04c44740db7c9730ddf2aedac66b149374b6a8dfb5dae41edcd",
+        "size_in_bytes": 5827
+      },
+      {
+        "_path": "Library/etc/skel/.inputrc",
+        "path_type": "hardlink",
+        "sha256": "b896abbbd7187184045e42e2646d4cb25f5484a27558f780137c7ec9ca9bdc47",
+        "sha256_in_prefix": "b896abbbd7187184045e42e2646d4cb25f5484a27558f780137c7ec9ca9bdc47",
+        "size_in_bytes": 3272
+      },
+      {
+        "_path": "Library/etc/skel/.profile",
+        "path_type": "hardlink",
+        "sha256": "50c3746d621e682e3560e1b37cc1ac5d988460064a20ed15f107c203ac5ad622",
+        "sha256_in_prefix": "50c3746d621e682e3560e1b37cc1ac5d988460064a20ed15f107c203ac5ad622",
+        "size_in_bytes": 1574
+      },
+      {
+        "_path": "Library/mingw32_shell.bat",
+        "path_type": "hardlink",
+        "sha256": "73bf20b5d11a5d2e8754bd62bb8a7cbb4fd31dfe781169723b1842aa62c323ab",
+        "sha256_in_prefix": "73bf20b5d11a5d2e8754bd62bb8a7cbb4fd31dfe781169723b1842aa62c323ab",
+        "size_in_bytes": 393
+      },
+      {
+        "_path": "Library/mingw64_shell.bat",
+        "path_type": "hardlink",
+        "sha256": "71f3031066ca0824e4b494127f74a41920b15f8b6d3f573c43da080050c0e1ca",
+        "sha256_in_prefix": "71f3031066ca0824e4b494127f74a41920b15f8b6d3f573c43da080050c0e1ca",
+        "size_in_bytes": 393
+      },
+      {
+        "_path": "Library/msys2.ico",
+        "path_type": "hardlink",
+        "sha256": "7d6994d7caf52a459b562cfb0da1d758a4b7bca478d1df00de3a96686e59008e",
+        "sha256_in_prefix": "7d6994d7caf52a459b562cfb0da1d758a4b7bca478d1df00de3a96686e59008e",
+        "size_in_bytes": 25758
+      },
+      {
+        "_path": "Library/msys2_shell.bat",
+        "path_type": "hardlink",
+        "sha256": "cc4088d418a2dbb1ec754a0e89b80b8521b04011c08b8f5c9a563f1bdd745c8f",
+        "sha256_in_prefix": "cc4088d418a2dbb1ec754a0e89b80b8521b04011c08b8f5c9a563f1bdd745c8f",
+        "size_in_bytes": 390
+      },
+      {
+        "_path": "Library/start_shell.cmd",
+        "path_type": "hardlink",
+        "sha256": "161dfbd6f4f3a9b2458203c6aecaacbb095d71d73fdcf3b1dde3acbc129d9834",
+        "sha256_in_prefix": "161dfbd6f4f3a9b2458203c6aecaacbb095d71d73fdcf3b1dde3acbc129d9834",
+        "size_in_bytes": 3855
+      },
+      {
+        "_path": "Library/usr/bin/cmd",
+        "path_type": "hardlink",
+        "sha256": "99eae6e37081edd73b399009c85f4a67a0c14481241ee4937ab45c4178b540fb",
+        "sha256_in_prefix": "99eae6e37081edd73b399009c85f4a67a0c14481241ee4937ab45c4178b540fb",
+        "size_in_bytes": 225
+      },
+      {
+        "_path": "Library/usr/bin/dep-search",
+        "path_type": "hardlink",
+        "sha256": "ed08a8bd0919ba29ec5dd2d0c74ba74324ca2bcbf7852354b0b6c523809029a0",
+        "sha256_in_prefix": "ed08a8bd0919ba29ec5dd2d0c74ba74324ca2bcbf7852354b0b6c523809029a0",
+        "size_in_bytes": 6836
+      },
+      {
+        "_path": "Library/usr/bin/regen-info.sh",
+        "path_type": "hardlink",
+        "sha256": "756df34c5b28478a81331785de0f56438bb652cf5f29029a9db2d83281361340",
+        "sha256_in_prefix": "756df34c5b28478a81331785de0f56438bb652cf5f29029a9db2d83281361340",
+        "size_in_bytes": 218
+      },
+      {
+        "_path": "Library/usr/bin/start",
+        "path_type": "hardlink",
+        "sha256": "e96c1f54ffff792e738aa032815c82c30821b0683806e5ed0ba2a759db2fd494",
+        "sha256_in_prefix": "e96c1f54ffff792e738aa032815c82c30821b0683806e5ed0ba2a759db2fd494",
+        "size_in_bytes": 239
+      },
+      {
+        "_path": "Library/usr/share/Msys/cygwin.ldif",
+        "path_type": "hardlink",
+        "sha256": "b9af554432605fe4027fbc231170e01edb5bcbb958bfd0922609f1901a2dd555",
+        "sha256_in_prefix": "b9af554432605fe4027fbc231170e01edb5bcbb958bfd0922609f1901a2dd555",
+        "size_in_bytes": 5942
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 26680,
+  "subdir": "win-64",
+  "url": "https://conda.anaconda.org/msys2/win-64/m2-filesystem-2016.04-4.tar.bz2",
+  "version": "2016.04"
+}

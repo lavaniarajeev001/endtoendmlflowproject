@@ -11,3 +11,74 @@
 +defaults/win-64::vs2015_runtime-14.42.34433-h9531ae6_2
 +defaults/win-64::wheel-0.44.0-py38haa95532_0
 # update specs: ['python==3.8']
+==> 2025-01-03 15:17:25 <==
+# cmd: E:\Anaconda\Scripts\conda-script.py install -c msys2 m2-base
+# conda version: 24.9.2
+-defaults/win-64::openssl-1.1.1w-h2bbff1b_0
+-defaults/win-64::python-3.8.0-hff0d562_2
++defaults/win-64::libffi-3.4.4-hd77b12b_1
++defaults/win-64::openssl-3.0.15-h827c3e9_0
++defaults/win-64::python-3.8.20-h8205438_0
++msys2/win-64::m2-base-1.0.0-3
++msys2/win-64::m2-bash-4.3.042-5
++msys2/win-64::m2-bash-completion-2.3-2
++msys2/win-64::m2-catgets-1.1-3
++msys2/win-64::m2-coreutils-8.25-102
++msys2/win-64::m2-dash-0.5.8-2
++msys2/win-64::m2-file-5.25-2
++msys2/win-64::m2-filesystem-2016.04-4
++msys2/win-64::m2-findutils-4.6.0-2
++msys2/win-64::m2-gawk-4.1.3-2
++msys2/win-64::m2-gcc-libs-5.3.0-4
++msys2/win-64::m2-gettext-0.19.7-4
++msys2/win-64::m2-gmp-6.1.0-3
++msys2/win-64::m2-grep-2.22-4
++msys2/win-64::m2-gzip-1.7-2
++msys2/win-64::m2-inetutils-1.9.2-2
++msys2/win-64::m2-info-6.0-2
++msys2/win-64::m2-less-481-2
++msys2/win-64::m2-libasprintf-0.19.7-4
++msys2/win-64::m2-libcatgets-1.1-3
++msys2/win-64::m2-libcrypt-1.3-2
++msys2/win-64::m2-libgettextpo-0.19.7-4
++msys2/win-64::m2-libiconv-1.14-3
++msys2/win-64::m2-libintl-0.19.7-4
++msys2/win-64::m2-liblzma-5.2.2-2
++msys2/win-64::m2-libpcre-8.38-2
++msys2/win-64::m2-libreadline-6.3.008-8
++msys2/win-64::m2-libutil-linux-2.26.2-2
++msys2/win-64::m2-libxml2-2.9.2-3
++msys2/win-64::m2-mintty-1!2.2.3-2
++msys2/win-64::m2-mpfr-3.1.4-2
++msys2/win-64::m2-msys2-launcher-git-0.3.28.860c495-2
++msys2/win-64::m2-msys2-runtime-2.5.0.17080.65c939c-3
++msys2/win-64::m2-ncurses-6.0.20160220-2
++msys2/win-64::m2-sed-4.2.2-3
++msys2/win-64::m2-tftp-hpa-5.2-2
++msys2/win-64::m2-time-1.7-2
++msys2/win-64::m2-ttyrec-1.0.8-2
++msys2/win-64::m2-tzcode-2015.e-2
++msys2/win-64::m2-util-linux-2.26.2-2
++msys2/win-64::m2-which-2.21-3
++msys2/win-64::m2-zlib-1.2.8-4
++msys2/win-64::msys2-conda-epoch-20160418-1
+# update specs: ['m2-base']
+# neutered specs: ['python==3.8.20']
+==> 2025-01-03 16:51:05 <==
+# cmd: E:\Anaconda\Scripts\conda-script.py install -c msys2 m2-make
+# conda version: 24.9.2
++msys2/win-64::m2-make-4.1-5
+# update specs: ['m2-make']
+==> 2025-01-03 16:53:21 <==
+# cmd: E:\Anaconda\Scripts\conda-script.py install -c conda-forge vs2015_win-64
+# conda version: 24.9.2
+-defaults/win-64::ca-certificates-2024.11.26-haa95532_0
+-defaults/win-64::openssl-3.0.15-h827c3e9_0
+-defaults/win-64::vs2015_runtime-14.42.34433-h9531ae6_2
++conda-forge/win-64::ca-certificates-2024.12.14-h56e8100_0
++conda-forge/win-64::openssl-3.4.0-h2466b09_0
++conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_1
++conda-forge/win-64::vc14_runtime-14.42.34433-he29a5d6_23
++conda-forge/win-64::vs2015_runtime-14.42.34433-hdffcdeb_23
++defaults/win-64::vs2015_win-64-14.0.25420-h55c1224_11
+# update specs: ['vs2015_win-64']
