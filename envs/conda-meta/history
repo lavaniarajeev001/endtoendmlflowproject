@@ -1,5 +1,5 @@
-==> 2025-01-03 10:43:21 <==
-# cmd: C:\Users\hp\anaconda3\Scripts\conda-script.py create -p myenv python==3.8 -y
+==> 2025-01-03 12:52:56 <==
+# cmd: C:\Users\hp\anaconda3\Scripts\conda-script.py create -p envs python==3.8 -y
 # conda version: 24.9.2
 +defaults/win-64::ca-certificates-2024.11.26-haa95532_0
 +defaults/win-64::openssl-1.1.1w-h2bbff1b_0
