@@ -1,0 +1,9 @@
+https://github.com/lavaniarajeev001/End_to_end_MLFlow_Project.git
+
+echo "# practice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lavaniarajeev001/practice.git
+git push -u origin main
