@@ -23,11 +23,12 @@ def read_yaml(path_to_yaml:Path)->ConfigBox:
         raise e
 
 @ensure_annotations
-def create_directories(path_to_directories:list,verbose:True):
-    for path in path_to_directories:
-        os.makedirs(path,exist_ok=True)
-        if verbose:
-            logger.info(f"created directory at : {path}")
+def create_directories(paths, verbose=False):
+    for path in paths:
+        if not os.path.exists(path):
+            os.makedirs(path)
+            if verbose:
+                print(f"Created directory at: {path}")
 
 @ensure_annotations
 def save_json(path:Path, data:dict):

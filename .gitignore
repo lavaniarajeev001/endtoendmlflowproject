@@ -175,3 +175,4 @@ cython_debug/
 # Added by cargo
 
 /target
+artifacts/*
