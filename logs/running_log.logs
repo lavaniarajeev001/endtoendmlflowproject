@@ -120,3 +120,61 @@ Source-Age: 0
 
 ]
 [2025-01-04 21:32:51,781:INFO:main:Completed Data Ingestion stage]
+[2025-01-05 16:52:19,705:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-05 16:52:19,737:INFO:common:reading the yaml file from param.yaml]
+[2025-01-05 16:52:19,789:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-05 16:54:21,018:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-05 16:54:21,026:INFO:common:reading the yaml file from param.yaml]
+[2025-01-05 16:54:21,048:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-05 16:54:56,920:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-05 16:54:56,929:INFO:common:reading the yaml file from param.yaml]
+[2025-01-05 16:54:56,963:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-05 16:58:07,221:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-05 16:58:07,229:INFO:common:reading the yaml file from param.yaml]
+[2025-01-05 16:58:07,249:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-05 17:04:24,101:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-05 17:04:24,109:INFO:common:reading the yaml file from param.yaml]
+[2025-01-05 17:04:24,129:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-05 17:05:18,334:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-05 17:05:18,343:INFO:common:reading the yaml file from param.yaml]
+[2025-01-05 17:05:18,362:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-05 17:09:12,081:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-05 17:09:12,088:INFO:common:reading the yaml file from param.yaml]
+[2025-01-05 17:09:12,108:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-05 17:30:24,743:INFO:main:Starting Data Ingestion stage]
+[2025-01-05 17:30:24,752:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-05 17:30:24,760:INFO:common:reading the yaml file from param.yaml]
+[2025-01-05 17:30:24,809:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-05 17:30:25,981:INFO:data_ingestion:artifacts/data_ingestion/data.zip downloaded with following info: 
+ Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 4C76:22D6A7:B365AB:108F64F:677A7459
+Accept-Ranges: bytes
+Date: Sun, 05 Jan 2025 12:00:26 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4745-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1736078426.925605,VS0,VE284
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ef28a99b70b8919aa9eae0370da3b75f4a5557f3
+Expires: Sun, 05 Jan 2025 12:05:26 GMT
+Source-Age: 0
+
+]
+[2025-01-05 17:30:26,077:INFO:main:Completed Data Ingestion stage]
+[2025-01-05 17:30:26,081:INFO:main:Starting Data Validation Stage]
+[2025-01-05 17:30:26,098:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-05 17:30:26,104:INFO:common:reading the yaml file from param.yaml]
+[2025-01-05 17:30:26,163:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-05 17:30:26,278:INFO:main:Completed Data Validation Stage]

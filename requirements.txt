@@ -4,7 +4,6 @@ matplotlib
 seaborn
 scikit-learn
 mlflow==2.2.2
-notebook
 python-box==6.0.2
 pyYAML
 tqdm
@@ -14,4 +13,5 @@ types-PyYAML
 Flask
 Flask-Cors
 cmake
-# -e .
+ipykernel
+-e .
