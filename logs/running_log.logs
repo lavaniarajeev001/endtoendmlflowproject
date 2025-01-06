@@ -397,3 +397,104 @@ Source-Age: 108
 [2025-01-05 20:25:00,520:INFO:data_transformation:(1199, 12)]
 [2025-01-05 20:25:00,521:INFO:data_transformation:(400, 12)]
 [2025-01-05 20:25:00,529:INFO:main:Completed Data Transformation Stage]
+[2025-01-06 11:22:12,108:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 11:22:12,159:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 11:22:12,184:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 11:24:20,826:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 11:24:20,839:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 11:24:20,858:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 11:25:29,076:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 11:25:29,085:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 11:25:29,106:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 11:26:16,233:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 11:26:16,248:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 11:26:16,286:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 11:33:06,897:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 11:33:06,906:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 11:33:06,923:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 11:38:59,452:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 11:38:59,465:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 11:38:59,486:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 11:39:18,287:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 11:39:18,305:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 11:39:18,326:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 11:40:00,444:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 11:40:00,453:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 11:40:00,485:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 11:40:55,266:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 11:40:55,275:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 11:40:55,297:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 11:49:19,189:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 11:49:19,200:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 11:49:19,230:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 11:50:37,746:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 11:50:37,758:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 11:50:37,795:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 11:51:59,516:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 11:51:59,528:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 11:51:59,598:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 11:53:42,727:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 11:53:42,737:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 11:53:42,758:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 11:55:48,675:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 11:55:48,688:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 11:55:48,706:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 12:03:08,238:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 12:03:08,253:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 12:03:08,287:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 12:05:03,023:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 12:05:03,033:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 12:05:03,052:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 12:05:23,061:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 12:05:23,073:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 12:05:23,091:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 13:53:48,996:INFO:main:Starting Data Ingestion stage]
+[2025-01-06 13:53:49,011:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 13:53:49,014:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 13:53:49,034:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 13:53:50,436:INFO:data_ingestion:artifacts/data_ingestion/data.zip downloaded with following info: 
+ Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: FE83:D2F73:B2BADB:10755B0:677B9311
+Accept-Ranges: bytes
+Date: Mon, 06 Jan 2025 08:23:50 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4745-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1736151830.447393,VS0,VE318
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 83b1c16c9e4b9a515e2622e08fa665d3d4ba5dca
+Expires: Mon, 06 Jan 2025 08:28:50 GMT
+Source-Age: 0
+
+]
+[2025-01-06 13:53:50,703:INFO:main:Completed Data Ingestion stage]
+[2025-01-06 13:53:50,704:INFO:main:Starting Data Validation Stage]
+[2025-01-06 13:53:50,727:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 13:53:50,742:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 13:53:50,823:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 13:53:51,246:INFO:main:Completed Data Validation Stage]
+[2025-01-06 13:53:51,248:INFO:main:Starting Data Transformation Stage]
+[2025-01-06 13:53:51,275:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 13:53:51,368:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 13:53:51,461:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 13:53:52,053:INFO:data_transformation:Splitting the data into train and test data]
+[2025-01-06 13:53:52,103:INFO:data_transformation:(1199, 12)]
+[2025-01-06 13:53:52,182:INFO:data_transformation:(400, 12)]
+[2025-01-06 13:53:52,553:INFO:main:Completed Data Transformation Stage]
+[2025-01-06 13:53:52,651:INFO:main:Starting Model Trainer Stage]
+[2025-01-06 13:53:52,698:INFO:common:reading the yaml file from config\config.yaml]
+[2025-01-06 13:53:52,760:INFO:common:reading the yaml file from param.yaml]
+[2025-01-06 13:53:52,846:INFO:common:reading the yaml file from schema.yaml]
+[2025-01-06 13:53:53,046:INFO:main:Completed Model Trainer Stage]
