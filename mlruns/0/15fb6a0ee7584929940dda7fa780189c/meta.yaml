@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML%20Folder/endtoendmlflowproject/End_to_end_MLFlow_project/mlruns/0/15fb6a0ee7584929940dda7fa780189c/artifacts
+end_time: 1736231190481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15fb6a0ee7584929940dda7fa780189c
+run_name: wise-perch-978
+run_uuid: 15fb6a0ee7584929940dda7fa780189c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736231152064
+status: 4
+tags: []
+user_id: hp
